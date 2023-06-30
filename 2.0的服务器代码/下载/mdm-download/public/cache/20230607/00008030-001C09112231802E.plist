@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://dlsska.hyl3333.cn/mdm/63bff4c86504e/00008030-001C09112231802E</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://rzidj9.vip/upload/20230112/2f7670fd9fa83c1e4d2d6403f87ef640.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://rzidj9.vip/upload/20230112/2f7670fd9fa83c1e4d2d6403f87ef640.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.n9pdms.e3cdz62.zm4gxs6ygo</string>
+				<key>bundle-version</key>
+				<string>26.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string></string>
+				<key>title</key>
+				<string>BIỂNĐỎ</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

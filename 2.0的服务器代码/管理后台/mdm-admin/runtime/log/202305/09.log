@@ -1,0 +1,9 @@
+---------------------------------------------------------------
+[ 2023-05-09T03:26:33+08:00 ] 54.150.232.53 GET qmm.qqq2.org/admin/proxy_app/upload_st_moblieconfig/ids/179364?dialog=1
+[ error ] [0]template not exists:/opt/mdm-admin/public/../application/admin/view/proxy_app/upload_st_moblieconfig.html
+---------------------------------------------------------------
+[ 2023-05-09T13:34:50+08:00 ] 54.150.232.53 GET qmm.qqq2.org/admin/proxy_app/upload_st_moblieconfig/ids/179425?dialog=1
+[ error ] [2]Use of undefined constant 关闭 - assumed '关闭' (this will throw an Error in a future version of PHP)
+---------------------------------------------------------------
+[ 2023-05-09T16:24:00+08:00 ] 54.150.232.53 POST qmm.qqq2.org/admin/proxy_app/upload_st_moblieconfig/ids/171941?dialog=1
+[ error ] [8]Undefined index: mobileconfig

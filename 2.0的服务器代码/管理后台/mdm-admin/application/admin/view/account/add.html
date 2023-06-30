@@ -1,0 +1,172 @@
+<form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('验证服务器')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            {:Form::selectpicker('row[ip]',$ip_list,null,['data-rule'=>'required','id'=>'ip'])}
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Account')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-account" data-rule="required" class="form-control" name="row[account]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('密码')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="password" data-rule="required" class="form-control" name="row[password]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('添加账号')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="button" id="add-code" class="btn btn-success">添加账号</button>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('手机号码')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <select  id="c-mobile" class="form-control"  name="row[mobile_index]">
+                <option value="0" ></option>
+            </select>
+        </div>
+    </div>
+    <div class="form-group" id="send-div" style="display: none">
+        <label class="control-label col-xs-12 col-sm-2">{:__('发送验证码')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="button" id="send-code" class="btn btn-success">发送验证码</button>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('验证码')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="code" data-rule="required" class="form-control" name="row[code]" type="text">
+        </div>
+    </div>
+    <input type="hidden" id="cookie" name="row[cookie]" value="">
+    <input type="hidden" id="mode" name="row[mode]" value="">
+    <input type="hidden" id="scnt" name="row[scnt]" value="">
+    <input type="hidden" id="session_id" name="row[session_id]" value="">
+    <input type="hidden" id="mobile" name="row[mobile]" value="">
+    <input type="hidden" id="mobile_id" name="row[mobile_id]" value="">
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Sort')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-sort" data-rule="required" class="form-control" name="row[sort]" type="number" value="0">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('来源')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-source"  class="form-control" name="row[source]" type="text" value="0">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">指定用户ID:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-user_id"  class="form-control" name="row[user_id]" type="number" value="">
+            <p class="help-block">如需要指定用户 使用，请填写user ID;否则无需填写</p>
+        </div>
+
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>
+<script src="__CDN__/assets/js/jquery.min.js"></script>
+<script>
+    var send=true,mobile='',trustedPhoneNumbers={},send_ms=true;
+    $("#add-code").on('click',function () {
+        $(this).addClass("disabled");
+        if(send===false) return;
+        send = false;
+        $.ajax({
+            url: 'account/sign',
+            type: 'POST',
+            data: $('#add-form').serialize(),
+            success:function (res) {
+                setTimeout(function () {
+                    send = true;
+                    $("#add-code").removeClass("disabled");
+                },3000);
+                if(res.code!==0){
+                    var option='',mobile_id='';
+                    trustedPhoneNumbers = res.data.trustedPhoneNumbers;
+                    $.each(trustedPhoneNumbers,function (i,item) {
+                        if(i===0){
+                            option +='<option value="'+i+'" selected >'+item.numberWithDialCode+'</option>';
+                            mobile = item.numberWithDialCode;
+                            mobile_id = item.id;
+                        }else {
+                            option +='<option value="'+i+'" >'+item.numberWithDialCode+'</option>';
+                        }
+                    });
+                    $("#c-mobile").html(option);
+                    $("#mobile").val(mobile);
+                    $("#mobile_id").val(mobile_id);
+                    $("#cookie").val(res.data.cookie);
+                    $("#mode").val(res.data.mode);
+                    $("#scnt").val(res.data.scnt);
+                    $("#session_id").val(res.data.session_id);
+                    if(res.code===3){
+                        $("#send-div").show();
+                    }else if(res.code===1){
+                        $("#add-code").text('重新发送验证码');
+                    }
+                    if(res.code===2){
+                        layer.msg(res.msg);
+                    }
+                }else{
+                    layer.msg(res.msg)
+                }
+            }
+        })
+    });
+    $("#c-mobile").on('change',function () {
+        var mobile = $(this).find("option:selected").text();
+        var mobile_id = trustedPhoneNumbers[$(this).val()].id;
+        console.log(mobile)
+        $("#mobile").val(mobile);
+        $("#mobile_id").val(mobile_id);
+    });
+    /****
+     * 发送验证码
+     */
+    $("#send-code").on('click',function () {
+        $(this).addClass("disabled");
+        if(send_ms===false) return;
+        send_ms = false;
+        $.ajax({
+            url:'account/sendCode',
+            type:'POST',
+            data:$("#add-form").serialize(),
+            success:function (res) {
+                setTimeout(function () {
+                    send_ms = true;
+                    $("#send-code").removeClass("disabled");
+                },3000);
+                if(res.code===1||res.code===2){
+                    $("#cookie").val(res.data.cookie);
+                    $("#scnt").val(res.data.scnt);
+                    $("#session_id").val(res.data.session_id);
+                }else{
+                    layer.msg(res.msg);
+                }
+                if(res.code===2){
+                    layer.msg(res.msg);
+                }
+            },
+            error:function (res) {
+                $("#send-code").removeClass("disabled");
+                console.log(res);
+                layer.msg("未知错误");
+                send_ms = true;
+            }
+        })
+    })
+
+</script>

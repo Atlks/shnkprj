@@ -1,0 +1,6 @@
+framework module libswiftSqllite3 {
+  umbrella header "libswiftSqllite3.h"
+
+  export *
+  module * { export * }
+}

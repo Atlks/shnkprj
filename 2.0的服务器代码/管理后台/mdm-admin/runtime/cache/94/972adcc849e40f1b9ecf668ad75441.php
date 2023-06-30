@@ -1,0 +1,4 @@
+<?php
+//000000000300
+ exit();?>
+a:25:{s:2:"id";i:19;s:7:"user_id";i:4204;s:6:"domain";s:14:"www.ujsign.com";s:9:"cert_path";s:57:"dailicert/2021-08-15/b13e329119f01933e4a4d0682044abb8.crt";s:8:"pem_path";s:57:"dailicert/2021-08-15/7ff026183fcb6a99ccdca3e1b9fdfd01.pem";s:8:"key_path";s:57:"dailicert/2021-08-15/790e7cf0f285c15bb0c1e811f4aea1a1.key";s:11:"create_time";s:19:"2023-06-02 12:23:22";s:4:"logo";N;s:9:"logo_name";s:12:"优＋签名";s:2:"qq";s:0:"";s:5:"skype";s:0:"";s:14:"is_other_login";i:0;s:5:"login";N;s:12:"download_url";s:9:"cklve.com";s:8:"style_id";i:2;s:8:"telegram";s:0:"";s:9:"skype_new";N;s:8:"wx1_host";s:0:"";s:8:"wx2_host";s:0:"";s:14:"download_style";i:1;s:3:"ext";s:4:"html";s:6:"oss_id";i:32;s:11:"ssl_sign_id";i:99;s:7:"chat_id";s:10:"-435856074";s:12:"callback_key";s:0:"";}

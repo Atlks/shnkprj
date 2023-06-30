@@ -1,0 +1,6 @@
+---------------------------------------------------------------
+[ 2023-05-03T18:51:36+08:00 ] 103.166.97.152 POST qmm.qqq2.org/admin/proxy/user/v1_pay/ids/14035?dialog=1
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value
+---------------------------------------------------------------
+[ 2023-05-03T18:51:39+08:00 ] 103.166.97.152 POST qmm.qqq2.org/admin/proxy/user/v1_pay/ids/14035?dialog=1
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value

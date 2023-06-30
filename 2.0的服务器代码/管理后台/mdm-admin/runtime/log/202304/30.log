@@ -1,0 +1,21 @@
+---------------------------------------------------------------
+[ 2023-04-30T16:29:56+08:00 ] 202.178.119.188 GET qmm.qqq2.org/admin/proxy/bale_rate/index?addtabs=1&sort=id&order=desc&filter=%7B%22update_time%22%3A%222023-04-30+00%3A00%3A00+-+2023-04-30+23%3A59%3A59%22%7D&op=%7B%22update_time%22%3A%22RANGE%22%7D&_=1682842544588
+[ error ] [1]Allowed memory size of 134217728 bytes exhausted (tried to allocate 10489856 bytes)
+---------------------------------------------------------------
+[ 2023-04-30T17:44:35+08:00 ] 103.166.97.152 GET qmm.qqq2.org/admin/proxy_app/index?addtabs=1&sort=auto_app_refush.status&order=desc&offset=0&limit=10&filter=%7B%7D&op=%7B%7D&_=1682847870381
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'auto_app_refush.status' in 'order clause'
+---------------------------------------------------------------
+[ 2023-04-30T17:44:38+08:00 ] 103.166.97.152 GET qmm.qqq2.org/admin/proxy_app/index?addtabs=1&sort=auto_app_refush.status&order=desc&offset=10&limit=10&filter=%7B%7D&op=%7B%7D&_=1682847870382
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'auto_app_refush.status' in 'order clause'
+---------------------------------------------------------------
+[ 2023-04-30T17:44:40+08:00 ] 103.166.97.152 GET qmm.qqq2.org/admin/proxy_app/index?addtabs=1&sort=auto_app_refush.status&order=desc&offset=20&limit=10&filter=%7B%7D&op=%7B%7D&_=1682847870383
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'auto_app_refush.status' in 'order clause'
+---------------------------------------------------------------
+[ 2023-04-30T17:44:41+08:00 ] 103.166.97.152 GET qmm.qqq2.org/admin/proxy_app/index?addtabs=1&sort=auto_app_refush.status&order=desc&offset=30&limit=10&filter=%7B%7D&op=%7B%7D&_=1682847870384
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'auto_app_refush.status' in 'order clause'
+---------------------------------------------------------------
+[ 2023-04-30T17:44:45+08:00 ] 103.166.97.152 GET qmm.qqq2.org/admin/proxy_app/index?addtabs=1&sort=auto_app_refush.status&order=desc&offset=30&limit=10&filter=%7B%7D&op=%7B%7D&_=1682847870385
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'auto_app_refush.status' in 'order clause'
+---------------------------------------------------------------
+[ 2023-04-30T17:44:45+08:00 ] 103.166.97.152 GET qmm.qqq2.org/admin/proxy_app/index?addtabs=1&sort=auto_app_refush.status&order=desc&offset=30&limit=10&filter=%7B%7D&op=%7B%7D&_=1682847870386
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'auto_app_refush.status' in 'order clause'

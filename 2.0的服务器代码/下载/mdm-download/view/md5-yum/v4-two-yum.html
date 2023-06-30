@@ -1,0 +1,1254 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0,maximum-scale=1.0, user-scalable=no"
+          name="viewport">
+    <title></title>
+    <link href="/static/v/v4/bootstrap.min.css" rel="stylesheet"/>
+    <style>
+        #app {
+            font-family: Avenir, Helvetica, Arial, sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            color: #2c3e50;
+        }
+
+        .container {
+            padding: 0;
+        }
+
+        *, body, figure {
+            padding: 0;
+            margin: 0
+        }
+
+        ol, ul {
+            list-style-type: none
+        }
+
+        .inner-image {
+            display: block;
+            -o-object-fit: cover;
+            object-fit: cover;
+            width: inherit;
+            height: inherit
+        }
+
+        @media screen and (min-width: 320px) {
+            html {
+                font-size: 14px
+            }
+        }
+
+        @media screen and (min-width: 360px) {
+            html {
+                font-size: 16px
+            }
+        }
+
+        @media screen and (min-width: 400px) {
+            html {
+                font-size: 18px
+            }
+        }
+
+        @media screen and (min-width: 440px) {
+            html {
+                font-size: 20px
+            }
+        }
+
+        @media screen and (min-width: 480px) {
+            html {
+                font-size: 22px
+            }
+        }
+
+        @media screen and (min-width: 640px) {
+            html {
+                font-size: 28px
+            }
+        }
+
+        .base-info {
+            padding: 1.25rem 1.45rem;
+            margin: 0 auto;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-orient: horizontal;
+            -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+            flex-direction: row;
+        }
+
+        .base-info .base-info-l {
+            border-radius: .8rem;
+            overflow: hidden;
+            width: 6.5rem;
+            height: 6.5rem;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+        }
+
+        .base-info .base-info-l > img {
+            width: 100%;
+            height: 100%;
+        }
+
+        .base-info .base-info-r {
+            position: relative;
+            margin-left: 1.2rem;
+            flex: 1;
+        }
+
+        .base-info .base-info-r .title {
+            margin-top: .35rem;
+            font-weight: 700;
+            font-size: 1.25rem;
+        }
+
+        .base-info .base-info-r .category, .base-info .base-info-r .title {
+            word-break: break-all;
+            display: -webkit-box;
+            -webkit-line-clamp: 1;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            font-size: 1.5rem;
+        }
+
+        .base-info .base-info-r .category {
+            color: #999;
+            font-size: 1rem;
+        }
+
+        .base-info .base-info-r .install-btn {
+            display: inline-block;
+            height: 1.6rem;
+            width: 6.5rem;
+            border-radius: .8rem;
+            background: #0477f9;
+            border: 1px solid #0477f9;
+            text-align: center;
+            color: #fff;
+            font-size: .85rem;
+            bottom: .35rem;
+            left: 0;
+            line-height: 1.5rem;
+        }
+
+        .base-info .base-info-r .disabled-install-btn {
+            display: inline-block;
+            height: 1.6rem;
+            width: 6.5rem;
+            border-radius: .8rem;
+            background: #888d94;
+            border: 1px solid #888d94;
+            text-align: center;
+            color: #fff;
+            font-size: .85rem;
+            bottom: .35rem;
+            left: 0;
+            line-height: 1.5rem;
+        }
+
+        .base-info .base-info-r .loading {
+            height: 18px;
+            margin-right: 4px;
+            vertical-align: -3px;
+        }
+
+        .base-info .base-info-r .install-btn:hover {
+            text-decoration: none;
+            background-color: #338bef;
+        }
+
+        .base-info .base-info-r .clr {
+            margin-top: 1.8em;
+        }
+
+        .base-info .base-info-r .arouse {
+            float: right;
+            height: 30px;
+            line-height: 30px;
+            border-radius: 15px;
+            text-align: center;
+            font-size: 12px;
+            color: rgba(6, 122, 254, 1);
+        }
+
+        .base-info .base-info-r .arouse b {
+            display: inline-block;
+            vertical-align: middle;
+            width: 20px;
+            height: 20px;
+            line-height: 20px;
+            margin: -2px 5px 0 0;
+            text-align: center;
+            background: rgba(6, 122, 254, 1);
+            color: #fff;
+            border-radius: 100%;
+        }
+
+        .rate-info {
+            padding-top: 1rem;
+            margin: 0 1.45rem;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-orient: horizontal;
+            -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+            justify-content: space-between;
+            border-top: 1px solid #eee;
+        }
+
+        .rate-info .rate p strong {
+            font-size: 1rem;
+            font-weight: 700;
+            color: #888;
+        }
+
+        .rate-info .rate > img {
+            width: 5rem;
+            margin-left: 5px;
+        }
+
+        .rate-info .rate > p {
+            color: #999;
+            font-size: .75rem;
+        }
+
+        .rate-info .classification strong {
+            color: #8e8f92;
+            font-size: 1rem;
+        }
+
+        .rate-info .classification > p {
+            color: #999;
+            font-size: .75rem;
+        }
+
+        .rate-info .rate p {
+            padding-bottom: 0.25rem;
+        }
+
+        .rate-info .rate, .rate-info .classification {
+            text-align: center;
+        }
+
+        .rate-info .classification p {
+            padding-bottom: 0.25rem;
+        }
+
+        .rate-info .rate-line-between {
+            width: 1px;
+            background-color: #e7e7e7;
+            height: 3rem;
+            margin: 0.5rem 0.5rem 0 0.5rem;
+        }
+
+        .comment-info {
+            border-top: 1px solid #eee;
+            padding: 1rem 0;
+            margin: 0 1.45rem;
+        }
+
+        .comment-info .comment-info-title {
+            margin-bottom: .85rem;
+            font-size: 1.25rem;
+            font-weight: bolder;
+        }
+
+        .comment-info .comment-info-content {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-orient: horizontal;
+            -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+            flex-direction: row;
+        }
+
+        .comment-info .comment-info-content .comment-info-l > strong {
+            font-size: 3.75rem;
+            line-height: 3.5rem;
+            color: #4a4a4e;
+            font-weight: 700;
+        }
+
+        .comment-info .comment-info-content .comment-info-l > p {
+            width: 5.6875rem;
+            text-align: center;
+            color: #7b7b7b;
+            margin-top: .625rem;
+        }
+
+        .comment-info .comment-info-content .comment-info-r {
+            margin-left: 2rem;
+            -webkit-box-flex: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+        }
+
+        .comment-info .comment-info-content .comment-info-r .comment-star-list > li {
+            margin-top: .3rem;
+            line-height: 0;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-orient: horizontal;
+            -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+        }
+
+        .comment-info .comment-info-content .comment-info-r .comment-star-list .comment-star {
+            position: relative;
+            width: 2.875rem;
+            height: .4375rem;
+        }
+
+        .comment-info .comment-info-content .comment-info-r .comment-star-list .comment-star > img {
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+
+        .comment-info .comment-info-content .comment-info-r .comment-star-list .comment-star > div {
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 100%;
+            background: #fff;
+        }
+
+        .comment-info .comment-info-content .comment-info-r .comment-star-list .comment-progress {
+            position: relative;
+            margin-left: .5rem;
+            -webkit-box-flex: 1;
+            -ms-flex-positive: 1;
+            flex-grow: 1;
+            height: .125rem;
+            background: #e9e9ec;
+            border-radius: .125rem;
+        }
+
+        .comment-info .comment-info-content .comment-info-r .comment-star-list .comment-progress > div {
+            position: absolute;
+            left: 0;
+            width: 0;
+            height: .125rem;
+            background: #4a4a4e;
+            border-radius: .125rem;
+            width: 90%;
+        }
+
+        .comment-message {
+            background-color: #F9F9F9;
+            border: none;
+            border-radius: 0.5rem;
+            margin-bottom: 1rem;
+            min-height: 11.5rem;
+        }
+
+        .comment-message > div {
+            padding: 0 10px;
+        }
+
+        .comment-message .comment-user {
+            margin-bottom: 5px;
+        }
+
+        .comment-message .comment-user span:first-child {
+            display: inline-block;
+            width: 69%;
+            text-align: left;
+            font-weight: bold;
+            font-size: 0.85rem;
+            margin: 0;
+        }
+
+        .comment-message .comment-user span:last-child {
+            display: inline-block;
+            width: 29%;
+            text-align: right;
+            font-size: 0.75rem;
+        }
+
+        .comment-message .comment-star .glyphicon-user {
+            font-size: 0.75rem;
+            border: 1px solid #dedeea;
+            border-radius: 50%;
+            color: #fff;
+            background-color: #E9E9EC;
+        }
+
+        .comment-message .comment-star {
+            font-size: 0.75rem;
+        }
+
+        .comment-message .comment-star span:first-child {
+            color: #FFBB15;
+            display: inline-block;
+            width: 49%;
+            text-align: left;
+        }
+
+        .comment-message .comment-star span:last-child {
+            display: inline-block;
+            width: 49%;
+            text-align: right;
+            font-size: 0.75rem;
+        }
+
+        .comment-message .comment-content {
+            padding: 5px 10px;
+        }
+
+        .app-info {
+            border-top: 1px solid #eee;
+            margin: 0 1.45rem;
+        }
+
+        .app-info .app-title {
+            margin-bottom: .5rem;
+            font-size: 1.25rem;
+            font-weight: bolder;
+        }
+
+        .app-info .app-info-con {
+            position: relative;
+            font-size: .875rem;
+        }
+
+        .information-info {
+            border-top: 1px solid #eee;
+            margin: 0 1.45rem;
+        }
+
+        .information-info .app-title {
+            margin-bottom: .5rem;
+            font-size: 1.25rem;
+            font-weight: bolder;
+        }
+
+        .information-info .information-list {
+            padding: 0;
+        }
+
+        .information-info .information-list > li {
+            font-size: .75rem;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-orient: horizontal;
+            -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            -webkit-box-align: center;
+            -ms-flex-align: center;
+            align-items: center;
+            line-height: 3.5;
+            border-bottom: 1px solid #f2f2f2;
+        }
+
+        .information-info .information-list > li .l {
+            color: #737379;
+        }
+
+        .information-info .information-list > li .r {
+            margin-left: 1.5rem;
+            -webkit-box-flex: 1;
+            -ms-flex: 1;
+            flex: 1;
+            text-align: right;
+            line-height: 1rem;
+        }
+
+        .disclaimer {
+            padding: 10px;
+            color: rgba(153, 153, 153, 1);
+            background: rgba(249, 249, 249, 1);
+        }
+
+        .pc-box {
+            text-align: center;
+            z-index: 2;
+            position: relative;
+        }
+
+        .pc-logo {
+            width: 160px;
+            border-radius: 20px;
+            overflow: hidden;
+            margin: 0 auto;
+        }
+
+        .pc-logo img {
+            display: block;
+            width: 100%;
+        }
+
+        .pc-box > p {
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 1.5em;
+        }
+
+        .pc-box .code {
+            margin: 30px auto 10px;
+            width: 200px;
+            height: 200px;
+        }
+
+        .pc-box .info {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 50px auto;
+        }
+
+        .pc-box .pc-colsed {
+            z-index: 2;
+            position: absolute;
+            right: 20px;
+            width: 30px;
+        }
+
+        .pc-box .pc-colsed img {
+            display: block;
+            width: 100%;
+        }
+
+        .pc-box {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-image: url(/static/v/v4/images/bg1.jpg);
+        }
+
+        .pc-box .tipss {
+            font-size: 14px;
+            text-align: center;
+            margin-top: 30px;
+            width: 100%;
+        }
+
+        .app-slider {
+            margin-top: .3rem;
+            padding-left: 1.4rem;
+            padding-right: 1.4rem;
+            z-index: 200;
+        }
+
+        .app-slider .swiper-slide {
+            margin-right: .2rem;
+            padding-bottom: .75em;
+            margin: 0 0.25rem;
+        }
+
+        .app-slider .swiper-slide {
+            width: calc(100% - 1rem);
+            height: 11rem;
+        }
+
+        .app-slider .swiper-slide img {
+            display: block;
+            height: 100%;
+            width: 100%;
+            border-radius: 0.8rem;
+            -o-object-fit: cover;
+            object-fit: cover;
+        }
+    </style>
+    <style>
+        .base-info .base-info-r .install-btn {
+            display: inline-block;
+            outline: none;
+        }
+
+        .user-verify-dialog {
+            display: none;
+            width: 310px;
+            background-color: #fff;
+            border-radius: 6px;
+            position: absolute !important;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 110;
+        }
+
+        .user-verify-dialog > .card > .card-header {
+            display: none;
+            background-color: #F7F7F7;
+            border-top-right-radius: 6px;
+            border-top-left-radius: 6px;
+        }
+
+        .user-verify-dialog > .card > .card-body {
+            height: 210px;
+        }
+
+        .user-verify-dialog > .card .captcha-container {
+            position: relative;
+            width: 100%;
+            margin: 15px !important;
+        }
+
+        .user-verify-dialog > .card > .card-header > div {
+            padding: 15px 15px 15px 18px;
+            display: inline-block;
+        }
+
+        .user-verify-dialog > .card > .card-header > div:first-child {
+            width: 80%;
+            text-align: left;
+        }
+
+        .user-verify-dialog > .card > .card-header > div:last-child {
+            width: 18%;
+            text-align: right;
+        }
+
+        #hide-div {
+            display: none;
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.2);
+            z-index: 100;
+        }
+
+        .sliderContainer {
+            width: 278px;
+            margin-top: -5px;
+        }
+
+        .mask-box {
+            z-index: 2;
+            position: relative;
+        }
+
+        .mask-colsed {
+            z-index: 2;
+            position: absolute;
+            right: 15px;
+            top: 15px;
+            width: 20px;
+        }
+
+        .mask-colsed img {
+            display: block;
+            width: 100%;
+        }
+
+        .mask-bg {
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background: rgba(0, 0, 0, 0.2);
+        }
+
+        .mask-pop {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            width: 80%;
+            max-width: 300px;
+            transform: translate(-50%, -50%);
+            background: #fff;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+        }
+
+        .mask-pop .swiper-container {
+            width: 100%;
+        }
+
+        .mask-pop .swiper-slide img {
+            display: block;
+            width: 100%;
+        }
+
+        .mask-pop .swiper-slide p {
+            margin: 10px 0;
+            text-align: center;
+            font-size: 14px;
+            color: #0491F7;
+        }
+
+        .mask-pop .swiper-container .swiper-pagination {
+            position: static;
+        }
+
+        .mask-pop .swiper-pagination-bullet {
+            background: #DBF0FD;
+            opacity: 1;
+        }
+
+        .mask-pop .swiper-pagination-bullet-active {
+            background: #0491F7;
+        }
+
+        .file-info {
+            display: block;
+            margin: 30px 0 20px;
+            font-size: 14px;
+            color: #00B0F9;
+            text-align: center;
+        }
+
+        .file-box {
+            z-index: 2;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            padding: 20px;
+            width: 70%;
+            max-width: 300px;
+            transform: translate(-50%, -50%);
+            background: #fff;
+            border-radius: 20px;
+        }
+
+        .file-box h3 {
+            text-align: center;
+            font-size: 16px;
+            color: #3A3A3A;
+        }
+
+        .file-box .colsed-btn {
+            display: block;
+            margin: 0 auto;
+            width: 80%;
+            height: 40px;
+            line-height: 40px;
+            background: linear-gradient(90deg, rgba(32, 124, 249, 1), rgba(0, 205, 250, 1));
+            border-radius: 20px;
+            font-size: 14px;
+            color: #fff;
+            text-align: center;
+        }
+
+        .file-con {
+            margin: 20px 0;
+            font-size: 14px;
+            color: #777;
+        }
+
+        .file-con strong {
+            display: block;
+            margin-top: 20px;
+            color: #333;
+        }
+
+        .file-con p {
+            margin-top: 8px;
+        }
+
+        #gomchelp {
+            max-height: 500px;
+            overflow-y: scroll;
+        }
+    </style>
+    <link href="/static/zh/css/index.css" rel="stylesheet" type="text/css"/>
+    <style>
+        .secondDiv {
+            width: 16rem;
+            height: 10rem;
+            margin: 12rem auto;
+            display: flex;
+        }
+
+        .copy {
+            width: 11.373333rem;
+            height: 2.2rem;
+            background-size: 11.373333rem 2.2rem;
+            margin: 7rem auto 0 auto;
+        }
+
+        .copy #url {
+            line-height: 2.2rem;
+        }
+
+        .downloadCode {
+            height: 14rem;
+            margin: 6rem auto;
+        }
+
+        .maskCode {
+            height: 2rem;
+        }
+
+        .maskCodeOk {
+            height: 1.9rem;
+        }
+
+        .downloadCode h3 {
+            font-size: 1rem;
+        }
+
+        .downloadCode p {
+            font-size:1rem;
+        }
+
+        .fourthOne33Heng .swiper-slide {
+            height: 23rem !important;
+        }
+
+        .cimg {
+            width: 2rem;
+            height: 2rem;
+        }
+
+        .fourthOne22 .swiper-slide {
+            height: 22rem !important;
+        }
+
+        .fourthOne22Heng .swiper-slide {
+            height: 10.8rem !important;
+        }
+
+        .pc-box {
+            background-size: 100% 100%;
+        }
+
+        #fail-tip p {
+            padding: 0 0.5rem;
+            line-height: 1.8rem;
+            font-size: 1rem
+        }
+
+        #fail-tip p code {
+            color: red;
+            font-weight: 600;
+        }
+        .load-box{
+            display: none;
+            margin-top: -0.5rem;
+        }
+        .load2 {
+            display: none;
+            /*display: inline-block;*/
+        }
+
+        @-webkit-keyframes loading {
+            from {
+                opacity: 1;
+            }
+            to {
+                opacity: 0.2;
+            }
+        }
+
+        .loading {
+            display: inline-block;
+            margin-right: 20px;
+            position: relative;
+            width: 12px;
+            height: 12px;
+            vertical-align: 7px;
+        }
+
+        .loading span {
+            display: inline-block;
+            width: 20%;
+            height: 40%;
+            color: #ff7800;
+            background: #ff7800;
+            position: absolute;
+            left: 100%;
+            top: 100%;
+            opacity: 0;
+            -webkit-animation: loading 0.9s linear infinite;
+            -webkit-border-radius: 30px;
+        }
+
+        .loading .bar1 {
+            -webkit-transform: rotate(0deg) translate(0, -142%);
+            -webkit-animation-delay: 0s;
+            color: #ff7800;
+        }
+
+        .loading .bar2 {
+            -webkit-transform: rotate(30deg) translate(0, -142%);
+            -webkit-animation-delay: -0.9167s;
+            color: #ff7800;
+        }
+
+        .loading .bar3 {
+            -webkit-transform: rotate(60deg) translate(0, -142%);
+            -webkit-animation-delay: -0.833s;
+            color: #ff7800;
+        }
+
+        .loading .bar4 {
+            -webkit-transform: rotate(90deg) translate(0, -142%);
+            -webkit-animation-delay: -0.75s;
+            color: #ff7800;
+        }
+
+        .loading .bar5 {
+            -webkit-transform: rotate(120deg) translate(0, -142%);
+            -webkit-animation-delay: -0.667s;
+            color: #ff7800;
+        }
+
+        .loading .bar6 {
+            -webkit-transform: rotate(150deg) translate(0, -142%);
+            -webkit-animation-delay: -0.5833s;
+            color: #ff7800;
+        }
+
+        .loading .bar7 {
+            -webkit-transform: rotate(180deg) translate(0, -142%);
+            -webkit-animation-delay: -0.5s;
+            color: #ff7800;
+        }
+
+        .loading .bar8 {
+            -webkit-transform: rotate(210deg) translate(0, -142%);
+            -webkit-animation-delay: -0.41667s;
+        }
+
+        .loading .bar9 {
+            -webkit-transform: rotate(240deg) translate(0, -142%);
+            -webkit-animation-delay: -0.333s;
+            color: #ff7800;
+        }
+
+        .loading .bar10 {
+            -webkit-transform: rotate(270deg) translate(0, -142%);
+            -webkit-animation-delay: -0.25s;
+            color: #ff7800;
+        }
+
+        .loading .bar11 {
+            -webkit-transform: rotate(300deg) translate(0, -142%);
+            -webkit-animation-delay: -0.1667s;
+            color: #ff7800;
+        }
+
+        .loading .bar12 {
+            -webkit-transform: rotate(330deg) translate(0, -142%);
+            -webkit-animation-delay: -0.0833s;
+            color: #ff7800;
+        }
+        .tip-help{
+            display: flex;align-items: center;flex-flow: column;margin-left: 0.2rem;margin-top: 0.2rem;
+            position: absolute;right: 0;top: 1rem;
+        }
+        .mdm-tip{
+            width: 90%;
+            margin: 0 auto;
+            /*border-top: 1px solid  rgb(247, 247, 247);*/
+            /*border-bottom: 1px solid  rgb(247, 247, 247);*/
+            padding: 0.2rem 0;
+            font-size: 0.7rem;
+            display: none;
+        }
+        .mdm-tip code,#reset-route-info code{
+            color: red;
+            margin-left: 0.2rem;
+            margin-right: 0.2rem;
+        }
+        .app_desc{
+            display: block;
+            padding: 0;
+            height: auto;
+            overflow: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            background: none;
+            border: none; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif; margin: 0 0 10px; line-height: 2;
+        }
+        .swiper-slide img{
+            object-fit: cover;
+            width: 100%;
+            height: 100%;
+        }
+        .maskCodeOk{
+            font-size: 1.2rem;
+        }
+    </style>
+</head>
+<body>
+<div class="app" id="mobile" style="display: none">
+    <div class="container">
+        <div class="base-info">
+            <div class="base-info-l"><img alt="" class="icon app_icon" src=""></div>
+            <div class="base-info-r">
+                <div class="title app_name"></div>
+                <div class="clr">
+                    <div  class="tip-help" id="help">
+                        <a class="arouse install-guide install-teach" ><b>?</b></a>
+                        <p style="margin-top: 0.1rem"></p>
+                    </div>
+                    <div class="state-normal installBox">
+                        <button class="install-btn down" type="button">
+                            <span></span>
+                        </button>
+                    </div>
+                    <!--loading-->
+                    <div class="load-box">
+                        <span class="loading">
+                            <span class="bar1"></span>
+                            <span class="bar2"></span>
+                            <span class="bar3"></span>
+                            <span class="bar4"></span>
+                            <span class="bar5"></span>
+                            <span class="bar6"></span>
+                            <span class="bar7"></span>
+                            <span class="bar8"></span>
+                            <span class="bar9"></span>
+                            <span class="bar10"></span>
+                            <span class="bar11"></span>
+                            <span class="bar12"></span>
+                        </span>
+                    </div>
+                    <!--loading-->
+                </div>
+            </div>
+        </div>
+        <div class="mdm-tip mdm_new_tip" >
+        </div>
+        <div id="reset-route-info" class="mdm-tip" style=" font-size: 12px;width: 90%;margin: 0 auto ">
+            <p style="display: inline-block;">
+                <span id="v4_new_tip_text"></span>
+                <a class="download-fail" id="reset-route-btn" style="color: rgba(6,122,254,1); text-decoration: none;"></a>
+                <!--loading-->
+                <span class="load2">
+                    <span class="loading">
+                        <span class="bar1"></span>
+                        <span class="bar2"></span>
+                        <span class="bar3"></span>
+                        <span class="bar4"></span>
+                        <span class="bar5"></span>
+                        <span class="bar6"></span>
+                        <span class="bar7"></span>
+                        <span class="bar8"></span>
+                        <span class="bar9"></span>
+                        <span class="bar10"></span>
+                        <span class="bar11"></span>
+                        <span class="bar12"></span>
+                    </span>
+		        </span>
+                <!--loading-->
+            </p>
+        </div>
+
+        <div class="rate-info">
+            <div class="rate" style="width: 34%;"><p style="margin: 0" class="score_tip"></p>
+                <p style="margin-bottom: 0"><strong>4.9&nbsp;</strong></p>
+                <p><img src="/static/v/v4/picture/stars.png" style="width: 70%;"/></p>
+            </div>
+            <div class="rate-line-between"></div>
+            <div class="classification" style="width: 24%;"><p style="margin: 0" class="age"></p>
+                <p style="margin-bottom: 0"><strong>18+</strong></p>
+                <p></p>
+            </div>
+            <div class="rate-line-between"></div>
+            <div class="classification" style="width: 24%;">
+                <p style="margin: 0" class="v4_ph"></p>
+                <p style="margin-bottom: 0"><strong>#1</strong></p>
+                <p class="v4_app"></p></div>
+            <div class="rate-line-between"></div>
+            <div class="classification app_size" style="width: 19%;">
+
+            </div>
+        </div>
+        <div class="four" style="display: none">
+            <div class="fourth22">
+            </div>
+        </div>
+        <div class="app-info"><h2 class="app-title"><span class="desc_lang"></span></h2>
+            <div class="app-info-con open" style="height: auto;">
+                <pre class="app_desc" ></pre>
+            </div>
+        </div>
+        <div class="comment-info" style="padding: 0;"><h2 class="comment-info-title"><span class="ratings_lang"></span>
+        </h2>
+            <div class="comment-info-content">
+                <div class="comment-info-l"><strong>4.9</strong>
+                    <p><span class="fullMark_lang"></span></p></div>
+                <div class="comment-info-r">
+                    <ul class="comment-star-list">
+                        <li>
+                            <div class="comment-star"><img src="/static/v/v4/picture/stars.png"/></div>
+                            <div class="comment-progress">
+                                <div style="width: 95%;"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="comment-star"><img src="/static/v/v4/picture/stars.png"/>
+                                <div style="width: 20%;"></div>
+                            </div>
+                            <div class="comment-progress">
+                                <div style="width: 10%;"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="comment-star"><img src="/static/v/v4/picture/stars.png"/>
+                                <div style="width: 40%;"></div>
+                            </div>
+                            <div class="comment-progress">
+                                <div style="width: 8%;"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="comment-star"><img src="/static/v/v4/picture/stars.png"/>
+                                <div style="width: 60%;"></div>
+                            </div>
+                            <div class="comment-progress">
+                                <div style="width: 5%;"></div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="comment-star"><img src="/static/v/v4/picture/stars.png"/>
+                                <div style="width: 80%;"></div>
+                            </div>
+                            <div class="comment-progress">
+                                <div style="width: 2%;"></div>
+                            </div>
+                        </li>
+                    </ul>
+                    <p style="text-align: right;margin-top: 5px;font-size: 0.75rem;color: #7b7b7b;">
+                        <span class="score_tip"></span></p></div>
+            </div>
+        </div>
+        <div class="comment-info comment-message">
+            <div><p class="comment-user"><span class="v4_comment_title"></span><span>07-03</span></p>
+                <div class="comment-star">
+                    <span><img src="/static/v/v4/picture/stars-gold.jpg" style="width: 45%;"/></span>
+                    <span class="v4_comment_name"></span>
+                </div>
+            </div>
+            <div class="comment-content v4_comment"></div>
+        </div>
+        <div class="app-info"><h2 class="app-title"><span class="newFun_lang"></span></h2>
+            <div class="app-info-con open versionmsg_lang" style="height: auto;">
+
+            </div>
+        </div>
+        <div class="information-info"><h2 class="app-title information_lang"></h2>
+            <ul class="information-list app_info_msg">
+
+            </ul>
+        </div>
+        <div class="disclaimer"></span></div>
+        <video autoplay="autoplay" id="video" style="display: none"></video>
+    </div>
+</div>
+<div class="pc-box pcDiv" style="display: none;">
+    <div class="info" id="qr_desc"></div>
+    <div class="pc-logo">
+        <img id="pcAppIcon" src="">
+    </div>
+    <p class="app_name"></p>
+    <div class="code" id="qrcode"></div>
+    <div class="tipss"></div>
+</div>
+<!--其他浏览器左上角没有点点-->
+<div class="mask isNoSafi" id="copyDiv" style="display: none;">
+    <div class="secondDiv" >
+        <div class="copy" id="copyfuzhi"  onClick="copyUrl2()">
+            <p id="url"></p>
+            <p class="uuid-code" id="content"></p>
+            <textarea id="input"></textarea>
+            <p class="copyBtn" id="copyBtn"></p>
+        </div>
+    </div>
+</div>
+<div>
+    <div id="captcha" style="display: none"></div>
+</div>
+<!--下载码-->
+<div class="mask mkDownloadCode" id="codeDiv" style="display: none">
+    <div class="downloadCode">
+        <h3></h3>
+        <p></p>
+        <input type="text" class="maskCode" id="download_code" placeholder=""/>
+        <div class="maskCodeOk" id="downloadCode"></div>
+    </div>
+</div>
+<!--    ios16安装提示-->
+<div class="mask mkDownloadCode" id="ios16tip" style="display: none">
+    <div class="downloadCode">
+        <h3></h3>
+        <p style="margin-left: 0.5rem;margin-right: 0.5rem"></p>
+        <div class="maskCodeOk" id="ios16success"></div>
+    </div>
+</div>
+
+<div class="mask isAnzhaung" style="display: none">
+
+</div>
+<div id="apkwx" style="display: none">
+    <img alt="" src="/static/picture/apkloading.png" style="width: 100%"/>
+</div>
+<div class="mask" id="fail-tip" style="display: none">
+    <div class="downloadCode">
+        <h3 style="margin-top: 0.5rem"></h3>
+        <p></p>
+        <div class="maskCodeOk" id="fail-tip-btn" style="margin-top: 0.5rem"></div>
+    </div>
+</div>
+<script src="/static/zh/js/jquery-3.1.0.min.js"></script>
+<script src="/static/zh/js/swiper.min.js"></script>
+<script src="/static/zh/js/jquery.qrcode.js"></script>
+<script src="/static/zh/js/utf.js"></script>
+<script src="/static/js/jquery.cookie.js"></script>
+</body>
+</html>
+
+<script src="/static/download/two-md5-201301051520.js?t={$versiontime}"></script>
+{if condition="$info.is_vaptcha == 1"}
+<script src="//cstaticdun.126.net/load.min.js?t={$versiontime}"></script>
+{/if}
+<script>
+    var ua = navigator.userAgent.toLowerCase();
+    var token = localStorage.getItem("app_token");
+    var udid = localStorage.getItem("udid");
+    var task, is_stall;
+    var style_type = 4;
+    var uuid = short_url = "{$uuid}";
+    var is_ios = true, is_return_stall = true, is_delete = true, is_install_two_config = true, is_download = true;
+    var referer = "{$referer}",
+        lang_data = navigator.language.substring(0, 2),
+        max_width = Math.floor(document.body.clientWidth * 0.9);
+    var is_vaptcha,is_code,is_tip,lang,copy_success,downloading,Authorizing,installing,preparing,install_config,desktop;
+
+</script>
+{notempty name="$info.cnzz"}
+<script>
+    var cnzz_id="{$info.cnzz}";
+    (function() {
+        var el = document.createElement('script');
+        el.type = 'text/javascript';
+        el.charset = 'utf-8';
+        el.async = true;
+        var ref = document.getElementsByTagName('script')[0];
+        ref.parentNode.insertBefore(el, ref);
+        el.src = 'https://w.cnzz.com/c.php?id='+cnzz_id+'&async=1';
+    })();
+</script>
+{/notempty}

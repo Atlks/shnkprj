@@ -1,0 +1,110 @@
+<form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Name')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-name" data-rule="required" class="form-control" name="row[name]" type="text">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Status')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input  id="c-status" name="row[status]" type="hidden" value="0">
+            <a href="javascript:;" data-toggle="switcher" class="btn-switcher" data-input-id="c-status" data-yes="1" data-no="0" >
+                <i class="fa fa-toggle-on text-success fa-flip-horizontal text-gray fa-2x"></i>
+            </a>
+<!--            <input id="c-status" data-rule="required" class="form-control" name="row[status]" type="number" value="1">-->
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Is_default')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input  id="c-is_default" name="row[is_default]" type="hidden" value="0">
+            <a href="javascript:;" data-toggle="switcher" class="btn-switcher" data-input-id="c-is_default" data-yes="1" data-no="0" >
+                <i class="fa fa-toggle-on text-success fa-flip-horizontal text-gray fa-2x"></i>
+            </a>
+<!--            <input id="c-is_default" data-rule="required" class="form-control" name="row[is_default]" type="number" value="0">-->
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Cert_path')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-cert_path" data-rule="required" class="form-control" size="50" name="row[cert_path]" type="text">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="faupload-cert_path" class="btn btn-danger faupload" data-input-id="c-cert_path" data-mimetype="crt" data-multiple="false" data-preview-id="p-cert_path"><i class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-cert_path"></span>
+            </div>
+            <ul class="row list-inline faupload-preview" id="p-cert_path"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Pem_path')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-pem_path" data-rule="required" class="form-control" size="50" name="row[pem_path]" type="text">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="faupload-pem_path" class="btn btn-danger faupload" data-input-id="c-pem_path" data-mimetype="pem" data-multiple="false" data-preview-id="p-pem_path"><i class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-pem_path"></span>
+            </div>
+            <ul class="row list-inline faupload-preview" id="p-pem_path"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Key_path')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-key_path" data-rule="required" class="form-control" size="50" name="row[key_path]" type="text">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="faupload-key_path" class="btn btn-danger faupload" data-input-id="c-key_path" data-mimetype="key" data-multiple="false" data-preview-id="p-key_path"><i class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-key_path"></span>
+            </div>
+            <ul class="row list-inline faupload-preview" id="p-key_path"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Wx_port')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-wx_port"  class="form-control" name="row[wx_port]" type="text" value="">
+            <p class="help-block">多端口,请用英文逗号隔开;无端口不填写</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Web_port')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-web_port"  class="form-control" name="row[web_port]" type="text" value="">
+            <p class="help-block">多端口,请用英文逗号隔开;无端口不填写</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Admin_port')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-admin_port"  class="form-control" name="row[admin_port]" type="text" value="">
+            <p class="help-block">多端口,请用英文逗号隔开;无端口不填写</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Udid_port')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-udid_port"  class="form-control" name="row[udid_port]" type="text" value="">
+            <p class="help-block">多端口,请用英文逗号隔开;无端口不填写</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Plist_port')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-plist_port"  class="form-control" name="row[plist_port]" type="text" value="">
+            <p class="help-block">多端口,请用英文逗号隔开;无端口不填写</p>
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

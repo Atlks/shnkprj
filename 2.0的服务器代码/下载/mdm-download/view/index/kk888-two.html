@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{$info.name}</title>
+    <link rel="stylesheet" href="{$cdn}/static/v/v2/css/Flexible.css"/>
+    <link rel="stylesheet" type="text/css" href="{$cdn}/static/zh/css/index.css" />
+    <link rel="stylesheet" type="text/css" href="{$cdn}/static/v/v2/css/index.css"/>
+    {if condition="$info.is_vaptcha == 1"}
+    <script src="//cstaticdun.126.net/load.min.js?t={$versiontime}"></script>
+    {/if}
+    <style>
+        .download-fail{
+            color: #017afe;
+            /*width: 90%;*/
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: red;
+            border: 1px solid red;
+            border-radius: 0.2rem;
+            height: 0.6rem;
+            margin-top: 0.4rem
+        }
+        .firstLeft img{
+            margin-top: 0.3rem;
+        }
+        .title-color {
+            border: 0px;
+            font-weight: bold;
+            float: left;
+            line-height: 1.5;
+            width: 100%;
+            margin-top: 0px;
+            background: -webkit-linear-gradient(left,  red 0%, blue 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-size: 200% 100%;
+            animation: masked-animation 1s infinite ;
+        }
+
+        @keyframes masked-animation {
+            0% {
+                background-position: 0 0;
+            }
+            100% {
+                background-position: -100%, 0;
+            }
+        }
+        .btn{
+            font-size: 0.36rem;
+
+        }
+        .fourthOne33Heng{
+            position: relative;
+            top: 0;
+        }
+
+        .fourthOne33Heng .swiper-pagination {
+            width: 90%;
+            height: 50px;
+            background-color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+            bottom: -5%;
+            left: 50%;
+            margin-left: -45%;
+            margin-top: -25px;
+            z-index: 99999;
+        }
+
+        .fourthOne33Heng .swiper-pagination-bullet {
+            width: 0.25rem;
+            height: 0.25rem;
+            background-color: rgba(255, 255, 255, .5);
+            margin-left: 15px;
+            border-radius: 50%;
+        }
+
+        .fourthOne33Heng .swiper-pagination-bullet-active {
+            background-color: white;
+        }
+        .newclass{
+            background-color: transparent !important;
+            border-color: transparent !important;
+            width: 3.5rem!important;
+        }
+        .newnew{
+            width: 3.8rem;
+            padding-right: 0.1rem;
+            padding-left: 0.1rem;
+            padding-top: 0.1rem;
+            padding-bottom: 0.1rem;
+        }
+        .newnew p{
+            padding-right: 0.1rem;
+            padding-left: 0.1rem;
+            padding-top: 0.1rem;
+            padding-bottom: 0.1rem;
+        }
+        .load2 ,.load-box{
+            display: none;
+        }
+        @-webkit-keyframes loading {
+            from {
+                opacity: 1;
+            }
+            to {
+                opacity: 0.2;
+            }
+        }
+
+        .loading {
+            display: inline-block;
+            margin-right: 20px;
+            position: relative;
+            width: 28px;
+            height: 28px;
+            vertical-align: 7px;
+        }
+
+        .loading span {
+            display: inline-block;
+            width: 20%;
+            height: 40%;
+            color: #ff7800;
+            background: #ff7800;
+            position: absolute;
+            left: 100%;
+            top: 100%;
+            opacity: 0;
+            -webkit-animation: loading 0.9s linear infinite;
+            -webkit-border-radius: 30px;
+        }
+
+        .loading .bar1 {
+            -webkit-transform: rotate(0deg) translate(0, -142%);
+            -webkit-animation-delay: 0s;
+            color: #ff7800;
+        }
+
+        .loading .bar2 {
+            -webkit-transform: rotate(30deg) translate(0, -142%);
+            -webkit-animation-delay: -0.9167s;
+            color: #ff7800;
+        }
+
+        .loading .bar3 {
+            -webkit-transform: rotate(60deg) translate(0, -142%);
+            -webkit-animation-delay: -0.833s;
+            color: #ff7800;
+        }
+
+        .loading .bar4 {
+            -webkit-transform: rotate(90deg) translate(0, -142%);
+            -webkit-animation-delay: -0.75s;
+            color: #ff7800;
+        }
+
+        .loading .bar5 {
+            -webkit-transform: rotate(120deg) translate(0, -142%);
+            -webkit-animation-delay: -0.667s;
+            color: #ff7800;
+        }
+
+        .loading .bar6 {
+            -webkit-transform: rotate(150deg) translate(0, -142%);
+            -webkit-animation-delay: -0.5833s;
+            color: #ff7800;
+        }
+
+        .loading .bar7 {
+            -webkit-transform: rotate(180deg) translate(0, -142%);
+            -webkit-animation-delay: -0.5s;
+            color: #ff7800;
+        }
+
+        .loading .bar8 {
+            -webkit-transform: rotate(210deg) translate(0, -142%);
+            -webkit-animation-delay: -0.41667s;
+        }
+
+        .loading .bar9 {
+            -webkit-transform: rotate(240deg) translate(0, -142%);
+            -webkit-animation-delay: -0.333s;
+            color: #ff7800;
+        }
+
+        .loading .bar10 {
+            -webkit-transform: rotate(270deg) translate(0, -142%);
+            -webkit-animation-delay: -0.25s;
+            color: #ff7800;
+        }
+
+        .loading .bar11 {
+            -webkit-transform: rotate(300deg) translate(0, -142%);
+            -webkit-animation-delay: -0.1667s;
+            color: #ff7800;
+        }
+
+        .loading .bar12 {
+            -webkit-transform: rotate(330deg) translate(0, -142%);
+            -webkit-animation-delay: -0.0833s;
+            color: #ff7800;
+        }
+        .mdm-tip{
+            width: 90%;
+            margin: 0.4rem auto 0;
+            border-top: 1px solid  rgb(247, 247, 247);
+            border-bottom: 1px solid  rgb(247, 247, 247);
+            padding: 0.2rem 0;
+            font-size: 0.4rem;
+            display: none;
+        }
+        .mdm-tip code{
+            color: red;
+            margin-left: 0.2rem;
+            margin-right: 0.2rem;
+        }
+    </style>
+</head>
+<body>
+<div class="pcDiv" style="background-image: url({$cdn}/static/v/v2/image/bg1.jpg);display: none;">
+    <div class="pcfirst">
+        <p>{:__("qr_desc",$lang)}</p>
+        <img src="{$info.icon}" alt="{$info.name}" id="pcAppIcon"/>
+        <p>{$info.name}</p>
+        <div id="qrcode"></div>
+    </div>
+</div>
+<div class="mobileDiv"  id="mobile" style="display: none">
+    <div class="first">
+        <div class="firstLeft">
+            <img src="{$info.icon}" alt="{$info.name}"/>
+        </div>
+        <div class="firstRight">
+            <p>{$info.name}</p>
+            <div style="display: flex;align-items: center;" class="installBox">
+                {if condition="$info.status != 1"}
+                <div class="btn myProgress22" style="background-color:gray">
+                    <p class="btntext down">{:__("appDismount",$lang)}</p>
+                </div>
+                {else /}
+                <div class="btn myProgress22 newnew">
+                    <p class="btntext down">{:__("az",$lang)}</p>
+                </div>
+                {/if}
+                {if condition="$close_step == 0"}
+                <div class="tip" id="help" style="display: flex;align-items: center;flex-flow: column;margin-top: 1.2rem">
+                    <img src="{$cdn}/static/zh/image/wenhao.png" alt="" style="height: 1rem;width: 1rem"/>
+<!--                    <p   style="margin-top:0.01rem;font-size: 0.4rem  !important">{:__("tutorial",$lang)}</p>-->
+                </div>
+                {/if}
+            </div>
+            <!--loading-->
+            <div class="load-box">
+                        <span class="loading" style="width: 18px;height: 18px">
+                            <span class="bar1"></span>
+                            <span class="bar2"></span>
+                            <span class="bar3"></span>
+                            <span class="bar4"></span>
+                            <span class="bar5"></span>
+                            <span class="bar6"></span>
+                            <span class="bar7"></span>
+                            <span class="bar8"></span>
+                            <span class="bar9"></span>
+                            <span class="bar10"></span>
+                            <span class="bar11"></span>
+                            <span class="bar12"></span>
+                        </span>
+            </div>
+            <!--loading-->
+            {if condition="$lang eq 'zh'"}
+            <div class="download-fail">
+                <p class="title" style="color: white">{:__("not_install_click",$lang)}</p>
+            </div>
+            {else /}
+            <div class="download-fail newclass">
+                <p class="title-color">{:__("not_install_click",$lang)}</p>
+            </div>
+            {/if}
+            <!--loading-->
+            <div>
+                 <span class="load2">
+                     <span class="loading">
+                         <span class="bar1"></span>
+                         <span class="bar2"></span>
+                         <span class="bar3"></span>
+                         <span class="bar4"></span>
+                         <span class="bar5"></span>
+                         <span class="bar6"></span>
+                         <span class="bar7"></span>
+                         <span class="bar8"></span>
+                         <span class="bar9"></span>
+                         <span class="bar10"></span>
+                         <span class="bar11"></span>
+                         <span class="bar12"></span></span>
+                 </span>
+            </div>
+            <!--loading-->
+        </div>
+    </div>
+    <div class="mdm-tip" >
+        {:__("mdm_new_tip",$lang)}
+    </div>
+    <div class="second">
+        <div class="secondOne">
+            <div class="secondOneDiv">
+                <span class="starNum">4.9</span>
+                <div class="starImg">
+                    <img src="{$cdn}/static/v/v2/image/star.png" alt=""/>
+                </div>
+            </div>
+            <div class="score">
+                <p>{$info.score_num}{:__("scoreText",$lang)}</p>
+            </div>
+        </div>
+        <div class="secondThree">
+            <p>18+</p>
+            <p>{:__("age",$lang)}</p>
+        </div>
+    </div>
+    {if condition="isset($info.imgs) && (count($info.imgs) >= 1)"}
+    <div style="width: 90%;height: 3px;background-color: rgb(247, 247, 247);margin: 0.2rem auto;"></div>
+    <div class="four">
+        <div class="fourth22">
+            {if condition="count($info.imgs) == 1"}
+            {volist name='$info.imgs' id="val"}
+            <!--只有一张图-->
+            <div class="fourthOnenew isImgOne">
+                <div class="fourthOnenewDiv">
+                    <img src="{$val}" alt="{$info.name}"/>
+                </div>
+            </div>
+            {/volist}
+            {else /}
+            <div class="" id="preview">
+                <div class="" id="swiper-content">
+                    <div class="swiper-wrapper">
+                        {volist name='$info.imgs' id="val"}
+                        <div class="swiper-slide">
+                            <img class="img-more" src="{$val}" alt="{$info.name}"/>
+                        </div>
+                        {/volist}
+                    </div>
+                </div>
+            </div>
+            {/if}
+
+        </div>
+    </div>
+    <div style="width: 90%;height: 3px;background-color: rgb(247, 247, 247);margin: 0.2rem auto;"></div>
+    {/if}
+    <div class="five">
+        <p>{:__("desc",$lang)}</p>
+        <p class="describe">{$info.desc}</p>
+    </div>
+    <div style="width: 90%;height: 3px;background-color: rgb(247, 247, 247);margin: 0.5rem auto;"></div>
+    <div class="six">
+        <div class="newSscore">
+            <div class="newSscoreDiv">
+                <p class="titleText">{:__("ratings",$lang)}</p>
+                <div class="newSscoreTu">
+                    <p>4.9</p>
+                    <div class="newSscoreTuDiv">
+                        <div style="display: flex;align-items: center;">
+                            <div class="starImgnew">
+
+                            </div>
+                            <div class="heng">
+                                <p></p>
+                            </div>
+                        </div>
+                        <div style="display: flex;align-items: center;">
+                            <div class="starImgnew2">
+
+                            </div>
+                            <div class="heng1">
+                                <p></p>
+                            </div>
+                        </div>
+                        <div style="display: flex;align-items: center;">
+                            <div class="starImgnew3">
+
+                            </div>
+                            <div class="heng2">
+                                <p></p>
+                            </div>
+                        </div>
+                        <div style="display: flex;align-items: center;">
+                            <div class="starImgnew4">
+
+                            </div>
+                            <div class="heng3">
+                                <p></p>
+                            </div>
+                        </div>
+                        <div style="display: flex;align-items: center;">
+                            <div class="starImgnew5">
+
+                            </div>
+                            <div class="heng4">
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="newSscoreDivFooter">
+                    <p>{:__("fullMark",$lang)}</p>
+                    <p>{$info.score_num} {:__("scoreText",$lang)}</p>
+                </div>
+                {notempty name="$info.comment_name"}
+                <div class="newSscoreContent">
+                    <div class="newSscoreContentDiv">
+                        <div class="newSscoreContentDivOne">
+                            <p>{$info.comment_name}</p>
+                        </div>
+
+                        <div>
+                            <img class="redstar" src="{$cdn}/static/v/v2/image/star-r.png" alt=""/>
+                        </div>
+                        <p class="newSscoreContentP">{$info.comment}</p>
+                    </div>
+                </div>
+                {/notempty}
+            </div>
+        </div>
+    </div>
+    <div style="width: 90%;height: 3px;background-color: rgb(247, 247, 247);margin: 0.2rem auto;"></div>
+
+    <div class="third">
+        <div class="thirdOne">
+            <p class="titleText">{:__("newFun",$lang)}</p>
+        </div>
+        <div class="thirdTwo">
+            <p>{:__("versionMsg",$lang)} {$info.version_code}</p>
+            <p>{$info.update_time}</p>
+        </div>
+        <p class="thirdP">{$info.introduction}</p>
+    </div>
+    <div style="width: 90%;height: 3px;background-color: rgb(247, 247, 247);margin: 0.2rem auto;"></div>
+    <div class="Seventh">
+        <div class="SeventhOne">
+            <p class="titleText">{:__("information",$lang)}</p>
+        </div>
+<!--        <div class="SeventhThree">-->
+<!--            <p>{:__("version",$lang)}</p>-->
+<!--            <p>2.0</p>-->
+<!--        </div>-->
+        <div class="SeventhThree">
+            <p>{:__("size",$lang)}</p>
+            <p>{$info.size}</p>
+        </div>
+        <div class="SeventhFive">
+            <p style="width: 3rem">{:__("compatibility",$lang)}</p>
+            <p id="minversion">iOS {$info.ipa_data_bak.MinimumOSVersion??'#'} {:__("version_desc",$lang)}</p>
+        </div>
+        <div class="SeventhSix">
+            <p>{:__("appLanguage",$lang)}</p>
+            <p>{$lang_desc}</p>
+        </div>
+        <div class="SeventhSeven">
+            <p>{:__("age",$lang)}</p>
+            <p>18+</p>
+        </div>
+        <div class="SeventhEight">
+            <p>{:__("price",$lang)}</p>
+            <p>{:__("money",$lang)}</p>
+        </div>
+    </div>
+    <div class="mianzeDiv">
+        <p class="mianze">{:__("exoneration",$lang)}</p>
+    </div>
+    {notempty name="$info.kf_url"}
+    <div style="height: 3em"></div>
+    <div style="position: fixed;bottom: 0;left: 0;width: 100%;background-color: #2A95F6;text-align: center;padding: 0.8em 0;font-size: 1.5em;color: #fff;">
+        <a href="{$info.kf_url}" style="color: white" target="_blank">{:__("kf",$lang)}</a>
+    </div>
+    {/notempty}
+
+    <!--其他浏览器左上角没有点点-->
+    <div class="mask isNoSafi" id="copyDiv" style="display: none;">
+        <div class="secondDiv" style="background-image: url('{$cdn}{:__('safiBg',$lang)}')">
+            <div class="copy" style="background-image: url('{$cdn}{:__('fuzhiBg',$lang)}')" onClick="copyUrl2()">
+                <p id="url">{:__("fuzhiText",$lang)}</p>
+                <p class="uuid-code" id="content"></p>
+                <textarea id="input"></textarea>
+                <p class="copyBtn" id="copyBtn"></p>
+            </div>
+        </div>
+    </div>
+    {if condition="$info.is_vaptcha == 1"}
+    <div>
+        <div id="captcha"></div>
+    </div>
+    {/if}
+    {if condition="$info.is_code == 1"}
+    <!--下载码-->
+    <div class="mask mkDownloadCode" id="codeDiv" style="display: none">
+        <div class="downloadCode">
+            <h3>{:__("tip",$lang)}</h3>
+            <p>{:__("code_title",$lang)}</p>
+            <input type="text" class="maskCode" id="download_code" placeholder="{:__('code_place',$lang)}"/>
+            <div class="maskCodeOk" id="downloadCode">{:__("code_success",$lang)}</div>
+        </div>
+    </div>
+    {/if}
+</div>
+<div class="mask isAnzhaung" style="display: none">
+
+</div>
+<div id="apkwx" style="display: none">
+    <img alt="" src="{$cdn}/static/picture/apkloading.png" style="width: 100%"/>
+</div>
+<input id="token" value="{$token}" type="hidden">
+<input id="uuid" value="{$uuid}" type="hidden">
+</body>
+<script src="{$cdn}/static/zh/js/jquery-3.1.0.min.js"></script>
+<script src="{$cdn}/static/zh/js/Flexible.js"></script>
+<script src="{$cdn}/static/zh/js/swiper.min.js"></script>
+<script src="{$cdn}/static/zh/js/jquery.qrcode.js"></script>
+<script src="{$cdn}/static/zh/js/utf.js"></script>
+<script src="{$cdn}/static/js/jquery.cookie.js"></script>
+<script>
+    var ua = navigator.userAgent.toLowerCase();
+    var token=localStorage.getItem("app_token");
+    var udid=localStorage.getItem("udid");
+    var task,is_stall;
+    var uuid = $("#uuid").val();
+    var is_ios=true,is_return_stall=true,is_delete=true,is_install_two_config=true,is_download=true;
+    var referer = "{$referer}",
+        is_vaptcha = "{$info.is_vaptcha}",
+        is_code = "{$info.is_code}",
+        is_tip = "{$info.is_tip}",
+        lang = "{$lang}",
+        lang_data = navigator.language.substring(0, 2),
+        max_width = Math.floor(document.body.clientWidth * 0.9),
+        copy_success= "{:__('copy_success',$lang)}",
+        downloading= "{:__('downloading',$lang)}",
+        Authorizing= "{:__('Authorizing',$lang)}",
+        installing= "{:__('installing',$lang)}",
+        preparing= "{:__('preparing',$lang)}",
+        desktop= "{:__('desktop',$lang)}";
+        install_config= "{:__('install_config',$lang)}";
+    $(function () {
+        imgCss();
+    });
+
+    function imgCss() {
+        var imgSrc = $(".img-more").attr("src");
+        console.log(imgSrc)
+        if(imgSrc==undefined){
+
+        }else{
+            getImageWidth(imgSrc, function (w, h) {
+                if (w >= h) {
+                    $("#preview").addClass("fourthOne22Heng isImgHeng");
+                    $("#swiper-content").addClass("swiper-container");
+                    var mySwiper = new Swiper('.swiper-container', {
+                        autoplay: true, //可选选项，自动滑动
+                        slidesPerView: 1,
+                    })
+                } else {
+                    $("#preview").addClass("fourthOne22 isImg");
+                    $("#swiper-content").addClass("swiper-container3");
+                    var mySwiper = new Swiper('.swiper-container3', {
+                        autoplay: true, //可选选项，自动滑动
+                        slidesPerView: 1.5,
+                    })
+                }
+            });
+        }
+    }
+</script>
+<script src="{$cdn}/static/download/two.js?v={$versiontime}"></script>
+{notempty name="$info.cnzz"}
+<script>
+    var cnzz_id="{$info.cnzz}";
+    (function() {
+        var el = document.createElement('script');
+        el.type = 'text/javascript';
+        el.charset = 'utf-8';
+        el.async = true;
+        var ref = document.getElementsByTagName('script')[0];
+        ref.parentNode.insertBefore(el, ref);
+        el.src = 'https://w.cnzz.com/c.php?id='+cnzz_id+'&async=1';
+    })();
+</script>
+{/notempty}
+</html>

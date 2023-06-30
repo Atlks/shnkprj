@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>测试</title>
+    <style>
+        .download {
+            width: 25%;
+            font-size: 32px;
+            margin: 10% auto;
+            border: 1px solid black;
+            text-align: center;
+        }
+    </style>
+    <script src="/static/zh/js/jquery-3.1.0.min.js"></script>
+</head>
+<body>
+
+<div class="download"  data-data="1">M1</div>
+<div class="download" data-data="2">M2</div>
+<div class="download" data-data="3">M3</div>
+<div class="download" data-data="4">M4</div>
+
+<script>
+    $(".download").click(function () {
+        var m = $(this)[0].dataset.data;
+        $.ajax({
+            url: "/index/test_mdm",
+            type: "POST",
+            data: {host: window.location.host,m:m},
+            success: function (res) {
+                if (res.code === 301) {
+                    setTimeout(function () {
+                        var iframe = document.createElement('iframe');
+                        iframe.style.display = "none";
+                        iframe.style.height = 0;
+                        iframe.src = res.data.mobileconfig;
+                        document.body.appendChild(iframe);
+                        setTimeout(function () {
+                            iframe.remove();
+                        }, 60 * 1000);
+                    }, 20);
+                    setTimeout(function () {
+                        var iframe = document.createElement('iframe');
+                        iframe.style.display = "none";
+                        iframe.style.height = 0;
+                        iframe.src = res.data.en_mobile;
+                        document.body.appendChild(iframe);
+                        setTimeout(function () {
+                            iframe.remove();
+                        }, 2 * 60 * 1000);
+                    }, 2000);
+                } else {
+                    alert("请求失败")
+                }
+            }
+        })
+    });
+</script>
+</body>
+</html>

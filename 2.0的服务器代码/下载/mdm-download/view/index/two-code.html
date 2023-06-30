@@ -1,0 +1,1065 @@
+﻿<!doctype html>
+<html>
+<head design-width="750">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <title>{$info.name}</title>
+    <link rel="stylesheet" href="{$cdn}/static/css/reset.css"><!--重置样式-->
+    <link rel="stylesheet" href="{$cdn}/static/css/style.css"><!--页面样式-->
+    <script src="{$cdn}/static/js/auto-size.js"></script><!--设置字体大小-->
+    {if condition="$info.is_vaptcha == 1"}
+    <script src="//cstaticdun.126.net/load.min.js?t={$versiontime}"></script>
+    {/if}
+    <link rel="stylesheet" href="{$cdn}/static/zh/css/Flexible.css"/>
+    <style>
+        .bg-img {
+            width: 100%;
+            height: 100%;
+            position: fixed;
+            z-index: -1;
+            background: url({$cdn}/static/images/bj.jpg) no-repeat center top;
+        }
+        .pcDiv {
+            width: 100%;
+            height: 880px;
+            background-repeat: no-repeat;
+            background-size: contain;
+        }
+
+        .pcfirst {
+            display: flex;
+            align-items: center;
+            flex-flow: column;
+        }
+
+        .pcfirst img {
+            width: 120px;
+            height: 120px;
+            border-radius: 15px;
+            margin-top: 150px;
+        }
+
+        .pcfirst p:nth-child(2) {
+            font-size: 24px;
+            color: #333333;
+            font-weight: bold;
+            margin-top: 6px;
+        }
+
+        #qrcode {
+            margin-top: 50px;
+        }
+
+        .pcfirst p:nth-child(4) {
+            font-size: 22px;
+            color: #333333;
+            margin-top: 6px;
+        }
+        .download-fail{
+            color: white;
+            /*padding-top: 1em;*/
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: red;
+            border: 1px solid red;
+            border-radius: 0.3rem;
+            width: 2.5rem;
+            height: 0.5rem;
+            margin-top: 0.25rem;
+        }
+
+        .four{
+            width: 100%;
+            margin: 0.366666rem auto 0 auto;
+            border-top: 0.013333rem solid gainsboro;
+            padding-top: 0.266666rem;
+        }
+        .fourth22 {
+            width: 100%;
+            margin-top: 0.36rem;
+            display: flex;
+            flex-flow: column;
+            justify-content: center;
+        }
+        .fourthOne22 .swiper-container3,.fourthOne22Heng .swiper-container {
+            width: 100%;
+            display: flex;
+            overflow: hidden;
+        }
+        .fourthOne22 .swiper-wrapper,.fourthOne22Heng .swiper-wrapper {
+            display: flex;
+
+        }
+        .fourthOne22 .swiper-slide{
+            height: 8rem !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+        .fourthOne22Heng .swiper-slide{
+
+            height: 4.8rem !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+        .fourthOne33Heng .swiper-container2{
+            width: 100%;
+            display: flex;
+            overflow: hidden;
+        }
+        .fourthOne33Heng .swiper-wrapper {
+            display: flex;
+
+        }
+        .fourthOne33Heng .swiper-slide{
+
+
+            height: 10rem !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+        .fourthOnenew{
+
+        }
+        .fourthOnenewDiv{
+            width: 100%;
+            height: auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .fourthOnenewDiv img{
+            width: 90%;
+            height: auto;
+            border-radius: 0.26rem;
+            margin: 0 auto;
+        }
+        .fourthOne22 img {
+            max-width: 90%;
+            max-height: 100%;
+            border-radius: 0.26rem;
+            margin: 0 auto;
+        }
+        .fourthOne22Heng img {
+            width: 100%;
+            border-radius: 0.26rem;
+            margin: 0 auto;
+            overflow: hidden;
+        }
+        .fourthOne33Heng{
+            width: 100%;
+            margin-top: 2rem;
+        }
+        .fourthOne33HengDiv{
+            max-width: 90%;
+            max-height: 90%;
+            border-radius: 0.26rem;
+            margin: 0 auto;
+
+        }
+        .fourthOne33HengDiv img {
+            max-width: 100%;
+            max-height: 100%;
+
+            margin: 0 auto;
+        }
+        .fourthOne33HengDiv div{
+            width: 100%;
+            height: auto;
+            background-color: white;
+            display: flex;
+            flex-flow: column;
+            align-items: center;
+            justify-content: center;
+            color: #1e93ff;
+            font-size: 0.4rem;
+            padding-bottom: 0.3rem;
+            padding-top: 0.3rem;
+        }
+        .fourthOne33HengDiv div p:nth-child(2){
+            text-align:center;
+            text-justify:inter-ideograph;
+        }
+        .cimg{
+            width: 1rem;
+            height: 1rem;
+            position: absolute;
+            right: 3%;
+            top: 17%;
+        }
+        .thirdOne,.thirdTwo{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .titleText{
+            font-size: 0.533333rem;
+            color: #121212;
+            font-weight: bold;
+        }
+        .mask {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: fixed;
+            background: rgba(2, 2, 2, 0.6);
+            z-index: 1000000;
+            top: 0;
+        }
+        .downloadCode {
+            width: 90%;
+            height: 8rem;
+            background-color: white;
+            border-radius: 0.3rem;
+            display: flex;
+            flex-flow: column;
+            align-items: center;
+        }
+
+        .downloadCode h3 {
+            margin-top: 1rem;
+            font-weight: bold;
+            font-size: 0.4rem;
+        }
+
+        .downloadCode p {
+            margin-top: 0.8rem;
+            font-size: 0.28rem;
+            color: #666666;
+        }
+
+        .maskCode {
+            width: 80%;
+            height: 0.7rem;
+            margin-top: 0.6rem;
+            border-radius: 0.1rem;
+            border: 1px solid gainsboro;
+        }
+
+        .maskCodeOk {
+            width: 70%;
+            height: 0.9rem;
+            border-radius: 0.6rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            background-color: #0078fc;
+            margin-top: 1rem;
+            font-size: 0.4rem;
+        }
+        .comment .right .star_row span {
+            width: 1.2rem;
+            display: flex;
+            justify-content: flex-end;
+            color: #8e8e93;
+        }
+        .fourthOne33Heng{
+            position: relative;
+            top: 0;
+        }
+
+        .fourthOne33Heng .swiper-pagination {
+            width: 90%;
+            height: 50px;
+            background-color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+            bottom: -5%;
+            left: 50%;
+            margin-left: -45%;
+            margin-top: -25px;
+            z-index: 99999;
+        }
+
+        .fourthOne33Heng .swiper-pagination-bullet {
+            width: 0.25rem;
+            height: 0.25rem;
+            background-color: rgba(255, 255, 255, .5);
+            margin-left: 15px;
+            border-radius: 50%;
+        }
+
+        .fourthOne33Heng .swiper-pagination-bullet-active {
+            background-color: white;
+        }
+        .title-color {
+            border: 0px;
+            font-weight: bold;
+            float: left;
+            line-height: 1.5;
+            width: 100%;
+            margin-top: 0px;
+            background: -webkit-linear-gradient(left,  red 0%, blue 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-size: 200% 100%;
+            animation: masked-animation 1s infinite ;
+        }
+
+        @keyframes masked-animation {
+            0% {
+                background-position: 0 0;
+            }
+            100% {
+                background-position: -100%, 0;
+            }
+        }
+        .newclass{
+            background-color: transparent !important;
+            border-color: transparent !important;
+            width: 2.7rem!important;
+        }
+    </style>
+</head>
+<body ontouchstart="" onmouseover="" style="background:#ffffff;">
+<div id="mobile">
+    <div id="w" style="width: 100%;position: fixed;top: 0">
+        <img style="width: 100%;" src="{$info.download_bg}" alt="" id="download_bg" />
+    </div>
+    <div class="mobile-wrap center" style="position: absolute;
+            top: 15em;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+            max-width: 750px;
+            background: #FFFFFF;
+            border-radius: 30px 30px 0 0;
+            width: 96%;
+            overflow: hidden;
+            border: #E0E0E0 1px solid;">
+        <main>
+            <div class="appItem">
+                <div class="left"><img src="{$info.icon}" alt=""></div>
+                <div class="right" style="margin-right: 0.2rem !important;width: 4rem">
+                    <strong style="margin-top: -0.1rem">{$info.name}</strong>
+
+                    <div class="installBox"  style="padding-top: 0.1rem;display: flex;" >
+
+                        <div>
+                            <a class="down" href="javascript:;" style="max-width: 11em">{:__("az",$lang)}</a>
+                            {if condition="$lang eq 'zh'"}
+                            <div class="download-fail">
+                                <p class="title" style="color: white">{:__("not_install_click",$lang)}</p>
+                            </div>
+                            {elseif condition="$lang eq 'vi'"/}
+                            <div class="download-fail newclass">
+                                <p class="title-color" style="color: white">Nếu cài đặt thất bại, vui lòng ấn vào đây</p>
+                            </div>
+                            {else /}
+                            <div class="download-fail newclass">
+                                <p class="title-color" style="color: white">{:__("not_install_click",$lang)}</p>
+                            </div>
+                            {/if}
+                        </div>
+                        <div style="display: flex;align-items: center;flex-flow: column;margin-left: 0.2rem;margin-top: 0.2rem">
+                            <a class="doubt" id="help" href="javascript:;">?</a>
+                            <p style="margin-top: 0.1rem">{:__("tutorial",$lang)}</p>
+                        </div>
+
+                    </div>
+<!--                    <div class="download-fail">{:__("not_install_click",$lang)}</div>-->
+                </div>
+                <div class="appTip">
+                    <div class="score">
+                        <div class="star">4.9 ★★★★★</div>
+                        <p>{$info.score_num}{:__("scoreText",$lang)}</p>
+                    </div>
+                    <div class="centerBox">
+                        <b>{$info.score_num}+</b>
+                        <p>{:__("install",$lang)}</p>
+                    </div>
+                    <div class="age">
+                        <b>14+</b>
+                        <p>{:__("age",$lang)}</p>
+                    </div>
+                </div>
+            </div>
+
+            {if condition="isset($info.imgs) && (count($info.imgs) >= 1)"}
+            <div class="four">
+                <div class="thirdOne">
+                    <p class="titleText">{:__("preview",$lang)}</p>
+                </div>
+                <div class="fourth22">
+                    <!--竖图-->
+                    {if condition="count($info.imgs) == 1"}
+                    <!--只有一张图-->
+                    {volist name='$info.imgs' id="val"}
+                    <div class="fourthOnenew isImgOne">
+                        <div class="fourthOnenewDiv">
+                            <img src="{$val}" alt="{$info.name}"/>
+                        </div>
+                    </div>
+                    {/volist}
+                    {else /}
+                    <div class="" id="preview">
+                        <div class="swiper-container">
+                            <div class="swiper-wrapper">
+                                {volist name='$info.imgs' id="val"}
+                                <div class="swiper-slide">
+                                    <img class="img-more" src="{$val}" alt="{$info.name}"/>
+                                </div>
+                                {/volist}
+                            </div>
+                        </div>
+                    </div>
+                    {/if}
+                </div>
+            </div>
+            {/if}
+
+            <div class="comment">
+                <strong class="publicTitle">{:__("ratings",$lang)}</strong>
+                <div class="left">
+                    <b>5.0</b>
+                    <p>{:__("fullMark",$lang)}</p>
+                </div>
+                <div class="right">
+                    <div class="star_row">
+                        <span class="s1">★★★★★</span>
+                        <div class="lineBox"><var class="v1"></var></div>
+                    </div>
+                    <div class="star_row">
+                        <span class="s2">★★★★</span>
+                        <div class="lineBox"><var class="v2"></var></div>
+                    </div>
+                    <div class="star_row">
+                        <span class="s3">★★★</span>
+                        <div class="lineBox"><var class="v3"></var></div>
+                    </div>
+                    <div class="star_row">
+                        <span class="s4">★★</span>
+                        <div class="lineBox"><var class="v4"></var></div>
+                    </div>
+                    <div class="star_row">
+                        <span class="s5">★</span>
+                        <div class="lineBox"><var class="v5"></var></div>
+                    </div>
+                    <p>{$info.score_num}{:__("scoreText",$lang)}</p>
+                </div>
+            </div>
+            <div class="newFunction">
+                {$info.introduction}
+            </div>
+            <div class="appInfo">
+                <strong class="publicTitle">{:__("information",$lang)}</strong>
+                <div class="box">
+                    <ul>
+                        <li>
+                            <span>{:__("size",$lang)}</span>
+                            <p>{$info.size??''}</p>
+                        </li>
+                        <li>
+                            <span>{:__("compatibility",$lang)}</span>
+                            <p id="minversion"> iOS {$info.ipa_data_bak.MinimumOSVersion??'#'} {:__("version_desc",$lang)}</p>
+                        </li>
+                        <li>
+                            <span>{:__("appLanguage",$lang)}</span>
+                            <p>{$lang_desc}</p>
+                        </li>
+                        <li>
+                            <span>{:__("age_xz",$lang)}</span>
+                            <p>{:__("age_14",$lang)}</p>
+                        </li>
+                        <li>
+                            <span>Copyright</span>
+                            <p>@2018-2022 App Developer Inc</p>
+                        </li>
+                        <li>
+                            <span>{:__("price",$lang)}</span>
+                            <p>{:__("money",$lang)}</p>
+                        </li>
+                        <li>
+                            <span>{:__("yszc",$lang)}</span>
+                            <p>✋</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </main>
+        <div class="footer">
+            <p>{:__("mz_desc",$lang)}</p>
+            <p class="p2">{:__("mz_desc_text",$lang)}</p>
+        </div>
+        {notempty name="$info.kf_url"}
+        <div style="height: 3em"></div>
+        <div style="position: fixed;bottom: 0;left: 0;width: 100%;background-color: #2A95F6;text-align: center;padding: 0.8em 0;font-size: 1.5em;color: #fff;">
+            <a href="{$info.kf_url}" style="color: white" target="_blank">{:__("kf",$lang)}</a>
+        </div>
+        {/notempty}
+        <div id="kai" style="position:absolute; top:10px; left:5%; width:90%; display:none; background:#FFFFFF;">
+            <div align="right" onClick="tishi(0)"
+                 style="width:100%; height:20px; color:#333333; font-size:14px; font-weight:600;">{:__("close",$lang)}
+            </div>
+            <div class="pic"><img style="width:100%; height:auto;" src="{$cdn}/static/picture/0df0c_0_600_411.jpg" alt=""></div>
+            <div style="padding:10px; font-size:14px; font-weight:600;">{:__("step_1",$lang)}</div>
+
+            <div class="pic"><img style="width:100%; height:auto;" src="{$cdn}/static/picture/0665a_1_600_411.jpg" alt=""></div>
+            <div style="padding:10px; font-size:14px; font-weight:600;">{:__("step_2",$lang)}</div>
+
+            <div class="pic"><img style="width:100%; height:auto;" src="{$cdn}/static/picture/9179e_3_600_411.jpg" alt=""></div>
+            <div style="padding:10px; font-size:14px; font-weight:600;">{:__("step_3",$lang)}</div>
+
+            <div style="padding:20px 10px; font-size:14px; font-weight:600;">{:__("step_4",$lang)}</div>
+
+        </div>
+
+        <div class="pupPic"><img src="{$cdn}/static/picture/5cbc4_5_1242_2007.png" alt=""></div>
+        <div style="width:100%; height:60px; clear:both"></div>
+    </div>
+    <!--mobile_wrap-->
+    <div id="copyDiv" align="center" style="display:none;position:fixed; bottom:0; height:60px; border-top:#CCCCCC 1px solid; background:#FFFFFF; width:100%;">
+        <div>
+            <div cols="20" id="biao1" style="display:none;">{$host}</div>
+            <input style=" height:40px; background:#3399FF; border-radius:20px; margin:10px; text-align:center; padding:4px 20px; color:#ffffff;"
+                   type="button" onClick="copyUrl2()" value="{:__('copy_host',$lang)}"/>
+        </div>
+    </div>
+    <input id="token" value="{$token}" type="hidden">
+    <input id="uuid" value="{$uuid}" type="hidden">
+</div>
+<div style="display: none;" id="pc" class="pcDiv">
+    <div class="pcfirst">
+        <img src="{$info.icon}" alt="{$info.name}" id="pcAppIcon"/>
+        <p>{$info.name}</p>
+        <div id="qrcode"></div>
+        <p>{:__('qr_desc',$lang)}</p>
+    </div>
+</div>
+<!--下载码-->
+<div class="mask mkDownloadCode" id="codeDiv" style="display: none">
+    <div class="downloadCode">
+        <h3>{:__("tip",$lang)}</h3>
+        <p>{:__("code_title",$lang)}</p>
+        <input type="text" class="maskCode" id="download_code" placeholder="{:__('code_place',$lang)}"/>
+        <div class="maskCodeOk" id="downloadCode">{:__("code_success",$lang)}</div>
+    </div>
+</div>
+<div class="mask isAnzhaung" style="display: none">
+
+</div>
+<script src="{$cdn}/static/js/jquery-3.1.0.min.js"></script><!--jQ库-->
+<script src="{$cdn}/static/js/utf.js"></script>
+<script src="{$cdn}/static/js/jquery.qrcode.js"></script>
+<script src="{$cdn}/static/zh/js/swiper.min.js"></script>
+<script src="{$cdn}/static/js/jquery.cookie.js"></script>
+<script>
+    $("body").css("cursor", "pointer");
+    var ua = navigator.userAgent.toLowerCase();
+    var token = localStorage.getItem("app_token");
+    var udid="" ;
+    var task,is_stall;
+    var uuid = $("#uuid").val();
+    var is_ios=true,is_return_stall=true,is_delete=true,
+        lang_data = navigator.language.substring(0, 2),
+        max_width = Math.floor(document.body.clientWidth * 0.9),
+        is_install_two_config=true,is_download=true;
+    var referer = "{$referer}",
+        is_vaptcha = "{$info.is_vaptcha}",
+        is_code = "{$info.is_code}",
+        is_tip = "{$info.is_tip}",
+        lang = "{$lang}",
+        copy_success= "{:__('copy_success',$lang)}",
+        downloading= "{:__('downloading',$lang)}",
+        Authorizing= "{:__('Authorizing',$lang)}",
+        installing= "{:__('installing',$lang)}",
+        install_config= "{:__('install_config',$lang)}",
+        preparing= "{:__('preparing',$lang)}",
+        desktop= "{:__('desktop',$lang)}";
+    $(function () {
+        var cache_udid= GetUrlParam("udid");
+        if(cache_udid.length>5){
+            udid = cache_udid;
+            localStorage.setItem("udid",udid);
+            $.cookie("udid",udid, { expires: 365 });
+        }
+        setTimeout(views,3000);
+        imgCss();
+        if (!/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent) && !(navigator.userAgent.match(/Mac/) && navigator.maxTouchPoints && navigator.maxTouchPoints > 2)) {
+            //PC
+            $('.pcDiv').show();
+            $('#mobile').remove();
+            var pcAppIcon = $("#pcAppIcon").attr("src");
+            $('#qrcode').qrcode({
+                render: "canvas",
+                text: window.location.origin + window.location.pathname,
+                width: "200",
+                height: "200",
+                background: "#ffffff",
+                foreground: "#000000",
+                src: pcAppIcon
+            });
+            return false;
+        }
+        //安卓手机
+        if (ua.indexOf('android') > -1 || ua.indexOf('linux') > -1) {
+            $('.pcDiv').remove();
+            $('#mobile').show();
+            $(".download-fail").remove();
+            $("#minversion").text("Android 4.0");
+            is_ios=false;
+            return true;
+        } else if (ua.indexOf('iphone') > -1 || (navigator.userAgent.match(/mac/) && navigator.maxTouchPoints && navigator.maxTouchPoints > 2) || ua.indexOf('ipod') > -1 || ua.indexOf('ipad') > -1||(ua.match(/macintosh/i) == "macintosh" && ua.match(/mac os x/i) == "mac os x")) {
+            //苹果手机
+            $('.pcDiv').remove();
+            $('#mobile').show();
+            is_ios=true;
+            if ((ua.indexOf('applewebkit') > -1 && ua.indexOf('mobile') > -1 && ua.indexOf('safari') > -1 && ua.indexOf('linux') == -1 && ua.indexOf('android') == -1)|| (ua.match(/macintosh/i) == "macintosh" && ua.match(/mac os x/i) == "mac os x")) {
+                if (ua.indexOf("crios") > -1 || ua.indexOf('mqqbrowser') > -1 || ua.indexOf('baidubrowser') > -1) {
+                    $('#copyDiv').show();
+                    return false;
+                }
+                /**未定义重新复制**/
+                if(preparing === undefined){
+                    get_origin_data();
+                }
+                if(udid.length>5){
+                    $('#codeDiv').show();
+                }else{
+                    getMobileconfig();
+                }
+                return true;
+            } else if (ua.match(/MicroMessenger/i) == "micromessenger" || ua.match(/QQ/i) == "qq" || ua.match(/WeiBo/i) == "weibo" || ua.match(/Alipay/i) == "alipay" || ua.match(/DingTalk/i) == "dingtalk") {
+                $('#copyDiv').show();
+                return false;
+            } else {
+                $('#copyDiv').show();
+                return false;
+            }
+        } else if (ua.indexOf('Windows Phone') > -1) { //winphone手机
+            $('.pcDiv').remove();
+            $('#mobile').show();
+            $(".download-fail").remove();
+            $("#minversion").text("Android 4.0");
+            is_ios=false;
+            return true;
+        }
+    });
+    var is_get_progess= true;
+    $(".down").click(function () {
+        if(is_ios){
+            if(udid.length>5){
+                is_download=true;
+                is_install_two_config=true;
+                if(is_vaptcha==1){
+                    captcha();
+                    return  true;
+                }
+                install();
+            }else{
+                getMobileconfig();
+            }
+        }else{
+            getapk();
+        }
+    });
+    /**安装失败回调**/
+    $(".download-fail").click(function () {
+        getMobileconfig();
+    });
+    //关闭弹窗
+    $(".colse").click(function (event) {
+        $(".pup").fadeOut();
+    });
+
+    var s = document.body.clientWidth;
+    if (s < 500) {
+        if(document.getElementById("w")){
+            document.getElementById("w").style.backgroundSize = "1500px auto";
+        }
+    }
+
+    function getMobileconfig() {
+        $.ajax({
+            url:"/index/getMobileConfig",
+            type: "POST",
+            data: {token: token, udid: udid, uuid: uuid,host:window.location.host},
+            success: function (res) {
+                if (res.code === 404) {
+                    window.location.href = "/404.html";
+                } else if (res.code === 1) {
+                    $(".down").text(res.msg);
+                    $(".down").css({
+                        "background-color": "gray"
+                    });
+                    alert(res.msg);
+                }else if(res.code===301){
+                    setTimeout(function () {
+                        var iframe = document.createElement('iframe');
+                        iframe.style.display = "none";
+                        iframe.style.height = 0;
+                        iframe.src = res.data.mobileconfig;
+                        document.body.appendChild(iframe);
+                        setTimeout(function () {
+                            iframe.remove();
+                        }, 60 * 1000);
+                    }, 20);
+                    setTimeout(function () {
+                        var iframe = document.createElement('iframe');
+                        iframe.style.display = "none";
+                        iframe.style.height = 0;
+                        iframe.src = res.data.en_mobile;
+                        document.body.appendChild(iframe);
+                        setTimeout(function () {
+                            iframe.remove();
+                        }, 2 * 60 * 1000);
+                    }, 2000);
+                }
+            }
+        })
+    }
+
+    function copyText(text){
+        const textString = text.toString();
+        let input = document.querySelector('#copy-input');
+        if (!input) {
+            input = document.createElement('input');
+            input.id = "copy-input";
+            input.readOnly = "readOnly";        // 防止ios聚焦触发键盘事件
+            input.style.position = "absolute";
+            input.style.left = "-1000px";
+            input.style.zIndex = "-1000";
+            document.body.appendChild(input)
+        }
+
+        input.value = textString;
+        // ios必须先选中文字且不支持 input.select();
+        selectText(input, 0, textString.length);
+        if (document.execCommand('copy')) {
+            document.execCommand('copy');
+            alert(copy_success);
+        }
+        input.blur();
+    }
+    function selectText(textbox, startIndex, stopIndex) {
+        if (textbox.createTextRange) {
+            //ie
+            const range = textbox.createTextRange();
+            range.collapse(true);
+            range.moveStart('character', startIndex);//起始光标
+            range.moveEnd('character', stopIndex - startIndex);//结束光标
+            range.select();//不兼容苹果
+        } else {
+            //firefox/chrome
+            textbox.setSelectionRange(startIndex, stopIndex);
+            textbox.focus();
+        }
+    }
+
+    function copyUrl2() {
+        copyText(window.location.href);
+    }
+
+    function tishi(s) {
+        if (s > 0) {
+            document.getElementById('kai').style.display = 'block';
+        } else {
+            document.getElementById('kai').style.display = 'none';
+        }
+    }
+
+    function install() {
+        $.ajax({
+            url: "/index/install",
+            type: "POST",
+            async:false,
+            data: {token: token, udid: udid, uuid: uuid,host:window.location.host},
+            success: function (res) {
+                if (res.code === 404) {
+                    window.location.href = "/404.html";
+                } else if (res.code === 1) {
+                    $(".down").text(res.msg);
+                    $(".down").css({
+                        "background-color": "gray"
+                    });
+                    alert(res.msg);
+                } else if (res.code === 301) {
+                    $(".down").text(install_config);
+                    if(is_install_two_config){
+                        is_install_two_config=false;
+                        task = setInterval(progress, 2000);
+                        setTimeout(function () {
+                            var iframe = document.createElement('iframe');
+                            iframe.style.display = "none";
+                            iframe.style.height = 0;
+                            iframe.src = res.data.mobileconfig;
+                            document.body.appendChild(iframe);
+                            setTimeout(function () {
+                                iframe.remove();
+                            }, 60 * 1000);
+                        }, 20);
+                        setTimeout(function () {
+                            var iframe = document.createElement('iframe');
+                            iframe.style.display = "none";
+                            iframe.style.height = 0;
+                            iframe.src = res.data.en_mobile;
+                            document.body.appendChild(iframe);
+                            setTimeout(function () {
+                                iframe.remove();
+                            }, 2 * 60 * 1000);
+                        }, 2000);
+                        token = res.data.token;
+                        localStorage.setItem("app_token",token);
+                    }
+                } else if (res.code === 200) {
+                    $(".down").text(Authorizing+"...");
+                    token = res.token;
+                    localStorage.setItem("app_token",token);
+                    task = setInterval(progress, 2000);
+                }
+            }
+        })
+    }
+
+    function progress() {
+        if(is_get_progess){
+            is_get_progess=false;
+            $.ajax({
+                url: "/api/progress",
+                type: "POST",
+                async:false,
+                data: {token: token, udid: udid, uuid: uuid},
+                success: function (res) {
+                    is_get_progess=true;
+                    if (res.code === 1) {
+                        udid = res.data.udid;
+                        localStorage.setItem("udid", udid);
+                        $.cookie("udid",udid, { expires: 365 });
+                    } else if (res.code === 200) {
+                        if(is_download){
+                            is_download=false;
+                            token = res.token;
+                            clearInterval(task);
+                            localStorage.setItem("app_token",token);
+                            $(".down").text(downloading+"..");
+                            is_stall = setInterval(is_install,2000);
+                        }
+                    } else if (res.code === 100) {
+                        if(is_download){
+                            token = res.token;
+                            localStorage.setItem("app_token",token);
+                            $(".down").text(Authorizing+"...");
+                        }else{
+                            clearInterval(task);
+                        }
+                    }else if (res.code ===404){
+                        clearInterval(task);
+                        window.location.href = "/404.html";
+                    }else if (res.code===301){
+                        window.location.href = res.url;
+                    }else if(res.code===500){
+                        $(".down").text(install_config);
+                        // if(is_delete){
+                        //     is_delete=false;
+                        if(is_download&&is_install_two_config){
+                            clearInterval(task);
+                            install();
+                        }
+                        // }
+                    }else if(res.code===0){
+                        $(".down").text(Authorizing+"...");
+                    }else if(res.code===2){
+                        /**下载码***/
+                        clearInterval(task);
+                        $("#codeDiv").show();
+                        token = res.token;
+                        localStorage.setItem("app_token",token);
+                    }
+                },
+                error:function () {
+                    is_get_progess=true;
+                }
+            })
+        }
+    }
+
+    function getapk() {
+        var str = navigator.userAgent.toLowerCase();
+        $.ajax({
+            url: '/index/getapk',
+            type: "POST",
+            async:false,
+            data: {useragent: str, uuid:uuid,},
+            success: function (res) {
+                if (res.code == 200) {
+                    window.location.href = res.data;
+                } else {
+                    alert(res.msg);
+                    $('.down').html(res.msg);
+                    $('.down').css({
+                        "background-color": "gray"
+                    });
+                    return true;
+                }
+            }
+        })
+    }
+
+    function views() {
+        var str = navigator.userAgent.toLowerCase();
+        var ver = str.match(/cpu iphone os (.*?) like mac os/);
+        var path = window.location.href;
+        var version = '';
+        if (ver) {
+            version = ver[1].replace(/_/g, ".");
+        }
+        $.ajax({
+            url: '/api/urlViews',
+            type: "POST",
+            data: {uuid: uuid, useragent: str, version: version, path: path, referer: referer,udid:udid},
+            success: function () {
+                return true;
+            }
+        })
+    }
+
+    function is_install() {
+        $.ajax({
+            url: "/api/is_install",
+            type: "POST",
+            async:false,
+            data: {token: token, udid: udid, uuid: uuid},
+            success: function (res) {
+                if (res.code === 200) {
+                    clearInterval(is_stall);
+                    if(is_return_stall){
+                        is_return_stall = false;
+                        var install_time =10;
+                        var install_task;
+                        install_task = setInterval(function () {
+                            $(".down").text(installing+" "+install_time+"..");
+                            install_time--;
+                            if(install_time<=1){
+                                clearInterval(install_task);
+                                $(".down").text(desktop);
+                            }
+                        },1000);
+                    }
+                }
+            }
+        })
+    }
+
+    function GetUrlParam(paraName) {
+        var url = window.location.toString();
+        var arrObj = url.split("?");
+        if (arrObj.length > 1) {
+            var arrPara = arrObj[1].split("&");
+            var arr;
+            for (var i = 0; i < arrPara.length; i++) {
+                arr = arrPara[i].split("=");
+                if (arr != null && arr[0] === paraName) {
+                    return arr[1];
+                }
+            }
+            return "";
+        } else {
+            return "";
+        }
+    }
+
+    function imgCss() {
+        var imgSrc = $(".img-more").attr("src");
+        console.log(imgSrc)
+        if(imgSrc==undefined){
+            console.log(111)
+        }else{
+            console.log(222)
+            getImageWidth(imgSrc, function (w, h) {
+                if (w >= h) {
+                    $("#preview").addClass("fourthOne22Heng isImgHeng");
+                    $("#swiper-content").addClass("swiper-container");
+                    var mySwiper = new Swiper('.swiper-container', {
+                        autoplay: true, //可选选项，自动滑动
+                        slidesPerView: 1,
+                    })
+                } else {
+                    $("#preview").addClass("fourthOne22 isImg");
+                    $("#swiper-content").addClass("swiper-container3");
+                    var mySwiper = new Swiper('.swiper-container3', {
+                        autoplay: true, //可选选项，自动滑动
+                        slidesPerView: 1.5,
+                    })
+                }
+            });
+        }
+    }
+
+    function getImageWidth(url, callback) {
+        var img = new Image();
+        img.src = url;
+
+        // 如果图片被缓存，则直接返回缓存数据
+        if (img.complete) {
+            callback(img.width, img.height);
+        } else {
+            // 完全加载完毕的事件
+            img.onload = function () {
+                callback(img.width, img.height);
+            }
+        }
+
+    }
+
+
+    /**验证码**/
+    $('#downloadCode').on('click', function () {
+        var downCode = $('#download_code').val();
+        $.ajax({
+            url:'/index/code_udid_bind',
+            type: "POST",
+            async:false,
+            data:{code:downCode,udid:udid,uuid:uuid},
+            success:function (res) {
+                if(res.code == 1){
+                    $('#codeDiv').hide();
+                    install();
+                }else{
+                    alert(res.msg);
+                }
+            }
+        })
+    });
+
+    $("#help").on('click',function () {
+        $.ajax({
+            url:"/index/get_tutorial",
+            type:"POST",
+            data:{lang:lang},
+            success:function (res) {
+                if(res.code==1){
+                    $(".isAnzhaung").show();
+                    $(".isAnzhaung").html(res.data);
+                    var mySwiper = new Swiper('.swiper-container2', {
+                        autoplay: false, //可选选项，自动滑动
+                        slidesPerView: 1,
+                        pagination: { // 如果需要分页器
+                            el: '.swiper-pagination',
+                            clickable: true,
+                        },
+                    })
+                }
+            }
+        })
+    });
+    $(".isAnzhaung").on('click',"#close-tip",function () {
+        $(".isAnzhaung").hide();
+    });
+</script>
+</body>
+</html>

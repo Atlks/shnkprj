@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html>
+<head design-width="750">
+    <meta charset="UTF-8">
+    <meta content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+    <title></title>
+    <link href="/static/css/reset.css" rel="stylesheet"><!--重置样式-->
+    <link href="/static/css/style.css" rel="stylesheet"><!--页面样式-->
+    <script src="/static/js/auto-size.js"></script><!--设置字体大小-->
+    <link href="/static/zh/css/Flexible.css" rel="stylesheet"/>
+    <style>
+        .bg-img {
+            width: 100%;
+            height: 100%;
+            position: fixed;
+            z-index: -1;
+            background: url(/static/images/bj.jpg) no-repeat center top;
+        }
+
+        .pcDiv {
+            width: 100%;
+            height: 880px;
+            background-repeat: no-repeat;
+            background-size: contain;
+        }
+
+        .pcfirst {
+            display: flex;
+            align-items: center;
+            flex-flow: column;
+        }
+
+        .pcfirst img {
+            width: 120px;
+            height: 120px;
+            border-radius: 15px;
+            margin-top: 150px;
+        }
+
+        .pcfirst p:nth-child(2) {
+            font-size: 24px;
+            color: #333333;
+            font-weight: bold;
+            margin-top: 6px;
+        }
+
+        #qrcode {
+            margin-top: 50px;
+        }
+
+        .pcfirst p:nth-child(4) {
+            font-size: 22px;
+            color: #333333;
+            margin-top: 6px;
+        }
+
+        .download-fail {
+            color: #017afe;
+            padding-top: 1em;
+        }
+
+        .four {
+            width: 100%;
+            margin: 0.366666rem auto 0 auto;
+            border-top: 0.013333rem solid gainsboro;
+            padding-top: 0.266666rem;
+        }
+
+        .fourth22 {
+            width: 100%;
+            margin-top: 0.36rem;
+            display: flex;
+            flex-flow: column;
+            justify-content: center;
+        }
+
+        .fourthOne22 .swiper-container3, .fourthOne22Heng .swiper-container {
+            width: 100%;
+            display: flex;
+            overflow: hidden;
+        }
+
+        .fourthOne22 .swiper-wrapper, .fourthOne22Heng .swiper-wrapper {
+            display: flex;
+
+        }
+
+        .fourthOne22 .swiper-slide {
+            height: 8rem !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+
+        .fourthOne22Heng .swiper-slide {
+
+            height: 4.8rem !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+
+        .fourthOne33Heng .swiper-container2 {
+            width: 100%;
+            display: flex;
+            overflow: hidden;
+        }
+
+        .fourthOne33Heng .swiper-wrapper {
+            display: flex;
+
+        }
+
+        .fourthOne33Heng .swiper-slide {
+
+
+            height: 10rem !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+
+        .fourthOnenew {
+
+        }
+
+        .fourthOnenewDiv {
+            width: 100%;
+            height: auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .fourthOnenewDiv img {
+            width: 100%;
+            height: auto;
+            border-radius: 0.26rem;
+            margin: 0 auto;
+        }
+
+        .fourthOne22 img {
+            max-width: 90%;
+            max-height: 100%;
+            border-radius: 0.26rem;
+            margin: 0 auto;
+        }
+
+        .fourthOne22Heng img {
+            width: 100%;
+            border-radius: 0.26rem;
+            margin: 0 auto;
+            overflow: hidden;
+        }
+
+        .fourthOne33Heng {
+            width: 100%;
+            margin-top: 2rem;
+        }
+
+        .fourthOne33HengDiv {
+            max-width: 90%;
+            max-height: 90%;
+            border-radius: 0.26rem;
+            margin: 0 auto;
+
+        }
+
+        .fourthOne33HengDiv img {
+            max-width: 100%;
+            max-height: 100%;
+
+            margin: 0 auto;
+        }
+
+        .fourthOne33HengDiv div {
+            width: 100%;
+            height: auto;
+            background-color: white;
+            display: flex;
+            flex-flow: column;
+            align-items: center;
+            justify-content: center;
+            color: #1e93ff;
+            font-size: 0.4rem;
+            padding-bottom: 0.3rem;
+            padding-top: 0.3rem;
+        }
+
+        .fourthOne33HengDiv div p:nth-child(2) {
+            text-align: center;
+            text-justify: inter-ideograph;
+        }
+
+        .cimg {
+            width: 1rem;
+            height: 1rem;
+            position: absolute;
+            right: 3%;
+            top: 17%;
+        }
+
+        .thirdOne, .thirdTwo {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .titleText {
+            font-size: 0.533333rem;
+            color: #121212;
+            font-weight: bold;
+        }
+
+        .mask {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: fixed;
+            background: rgba(2, 2, 2, 0.6);
+            z-index: 1000000;
+            top: 0;
+        }
+
+        .downloadCode {
+            width: 90%;
+            height: 8rem;
+            background-color: white;
+            border-radius: 0.3rem;
+            display: flex;
+            flex-flow: column;
+            align-items: center;
+        }
+
+        .downloadCode h3 {
+            margin-top: 1rem;
+            font-weight: bold;
+            font-size: 0.4rem;
+        }
+
+        .downloadCode p {
+            margin-top: 0.8rem;
+            font-size: 0.28rem;
+            color: #666666;
+        }
+
+        .maskCode {
+            width: 80%;
+            height: 0.7rem;
+            margin-top: 0.6rem;
+            border-radius: 0.1rem;
+            border: 1px solid gainsboro;
+        }
+
+        .maskCodeOk {
+            width: 70%;
+            height: 0.9rem;
+            border-radius: 0.6rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            background-color: #0078fc;
+            margin-top: 1rem;
+            font-size: 0.4rem;
+        }
+
+        .comment .right .star_row span {
+            width: 1.2rem;
+            display: flex;
+            justify-content: flex-end;
+            color: #8e8e93;
+        }
+
+        .title {
+            border: 0px;
+            font-weight: bold;
+            float: left;
+            line-height: 1.5;
+            width: 100%;
+            margin-top: 0px;
+            background: -webkit-linear-gradient(left, red 0%, blue 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-size: 200% 100%;
+            animation: masked-animation 1s infinite;
+        }
+
+        @keyframes masked-animation {
+            0% {
+                background-position: 0 0;
+            }
+            100% {
+                background-position: -100%, 0;
+            }
+        }
+
+        .fourthOne33Heng {
+            position: relative;
+            top: 0;
+        }
+
+        .fourthOne33Heng .swiper-pagination {
+            width: 90%;
+            height: 50px;
+            background-color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: absolute;
+            bottom: -5%;
+            left: 50%;
+            margin-left: -45%;
+            margin-top: -25px;
+            z-index: 99999;
+        }
+
+        .fourthOne33Heng .swiper-pagination-bullet {
+            width: 0.25rem;
+            height: 0.25rem;
+            background-color: rgba(255, 255, 255, .5);
+            margin-left: 15px;
+            border-radius: 50%;
+        }
+
+        .fourthOne33Heng .swiper-pagination-bullet-active {
+            background-color: white;
+        }
+
+        #fail-tip p {
+            padding: 0 0.5rem;
+            line-height: 0.5rem;
+            font-size: 0.3rem
+        }
+
+        #fail-tip p code {
+            color: red;
+            font-weight: 600;
+        }
+
+        .load-box {
+            display: none;
+        }
+
+        .load2 {
+            display: none;
+        }
+
+        @-webkit-keyframes loading {
+            from {
+                opacity: 1;
+            }
+            to {
+                opacity: 0.2;
+            }
+        }
+
+        .loading {
+            display: inline-block;
+            margin-right: 20px;
+            position: relative;
+            width: 12px;
+            height: 12px;
+            vertical-align: 7px;
+        }
+
+        .loading span {
+            display: inline-block;
+            width: 20%;
+            height: 40%;
+            color: #ff7800;
+            background: #ff7800;
+            position: absolute;
+            left: 100%;
+            top: 100%;
+            opacity: 0;
+            -webkit-animation: loading 0.9s linear infinite;
+            -webkit-border-radius: 30px;
+        }
+
+        .loading .bar1 {
+            -webkit-transform: rotate(0deg) translate(0, -142%);
+            -webkit-animation-delay: 0s;
+            color: #ff7800;
+        }
+
+        .loading .bar2 {
+            -webkit-transform: rotate(30deg) translate(0, -142%);
+            -webkit-animation-delay: -0.9167s;
+            color: #ff7800;
+        }
+
+        .loading .bar3 {
+            -webkit-transform: rotate(60deg) translate(0, -142%);
+            -webkit-animation-delay: -0.833s;
+            color: #ff7800;
+        }
+
+        .loading .bar4 {
+            -webkit-transform: rotate(90deg) translate(0, -142%);
+            -webkit-animation-delay: -0.75s;
+            color: #ff7800;
+        }
+
+        .loading .bar5 {
+            -webkit-transform: rotate(120deg) translate(0, -142%);
+            -webkit-animation-delay: -0.667s;
+            color: #ff7800;
+        }
+
+        .loading .bar6 {
+            -webkit-transform: rotate(150deg) translate(0, -142%);
+            -webkit-animation-delay: -0.5833s;
+            color: #ff7800;
+        }
+
+        .loading .bar7 {
+            -webkit-transform: rotate(180deg) translate(0, -142%);
+            -webkit-animation-delay: -0.5s;
+            color: #ff7800;
+        }
+
+        .loading .bar8 {
+            -webkit-transform: rotate(210deg) translate(0, -142%);
+            -webkit-animation-delay: -0.41667s;
+        }
+
+        .loading .bar9 {
+            -webkit-transform: rotate(240deg) translate(0, -142%);
+            -webkit-animation-delay: -0.333s;
+            color: #ff7800;
+        }
+
+        .loading .bar10 {
+            -webkit-transform: rotate(270deg) translate(0, -142%);
+            -webkit-animation-delay: -0.25s;
+            color: #ff7800;
+        }
+
+        .loading .bar11 {
+            -webkit-transform: rotate(300deg) translate(0, -142%);
+            -webkit-animation-delay: -0.1667s;
+            color: #ff7800;
+        }
+
+        .loading .bar12 {
+            -webkit-transform: rotate(330deg) translate(0, -142%);
+            -webkit-animation-delay: -0.0833s;
+            color: #ff7800;
+        }
+        .swiper-slide img{
+            object-fit: cover;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body onmouseover="" ontouchstart="" style="background:#ffffff;">
+<div id="mobile" style="display: none">
+    <div id="w" style="width: 100%;position: fixed;top: 0">
+        <img alt="" id="download_bg" src="" style="width: 100%;"/>
+    </div>
+    <div class="mobile-wrap center" style="position: absolute;
+            top: 15em;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+            max-width: 750px;
+            background: #FFFFFF;
+            border-radius: 30px 30px 0 0;
+            width: 96%;
+            overflow: hidden;
+            border: #E0E0E0 1px solid;">
+        <main>
+            <div class="appItem">
+                <div class="left"><img alt="" class="app_icon" src=""></div>
+                <div class="right">
+                    <strong class="app_name"></strong>
+
+                    <div class="installBox">
+                        <a class="down" href="javascript:" style="max-width: 11em"></a>
+                        <div id="help" style="display: flex;align-items: center;flex-flow: column">
+                            <a class="doubt" href="javascript:">?</a>
+                        </div>
+                    </div>
+                    <!--loading-->
+                    <div class="load-box">
+                        <span class="loading">
+                            <span class="bar1"></span>
+                            <span class="bar2"></span>
+                            <span class="bar3"></span>
+                            <span class="bar4"></span>
+                            <span class="bar5"></span>
+                            <span class="bar6"></span>
+                            <span class="bar7"></span>
+                            <span class="bar8"></span>
+                            <span class="bar9"></span>
+                            <span class="bar10"></span>
+                            <span class="bar11"></span>
+                            <span class="bar12"></span>
+                        </span>
+                    </div>
+                    <!--loading-->
+                    <div class="download-fail" style="display: flex;align-items: center;">
+                        <p class="title"></p>
+                    </div>
+                </div>
+                <div class="appTip">
+                    <div class="score">
+                        <div class="star">4.9 ★★★★★</div>
+                        <p class="score_tip"></p>
+                    </div>
+                    <div class="centerBox">
+                    </div>
+                    <div class="age">
+                    </div>
+                </div>
+            </div>
+            <div class="four" style="display: none">
+                <div class="thirdOne">
+                    <p class="titleText"></p>
+                </div>
+                <div class="fourth22">
+                </div>
+            </div>
+
+            <div class="comment">
+                <strong class="publicTitle"></strong>
+                <div class="left">
+                    <b>5.0</b>
+                    <p class="fullMark"></p>
+                </div>
+                <div class="right">
+                    <div class="star_row">
+                        <span class="s1">★★★★★</span>
+                        <div class="lineBox"><var class="v1"></var></div>
+                    </div>
+                    <div class="star_row">
+                        <span class="s2">★★★★</span>
+                        <div class="lineBox"><var class="v2"></var></div>
+                    </div>
+                    <div class="star_row">
+                        <span class="s3">★★★</span>
+                        <div class="lineBox"><var class="v3"></var></div>
+                    </div>
+                    <div class="star_row">
+                        <span class="s4">★★</span>
+                        <div class="lineBox"><var class="v4"></var></div>
+                    </div>
+                    <div class="star_row">
+                        <span class="s5">★</span>
+                        <div class="lineBox"><var class="v5"></var></div>
+                    </div>
+                    <p class="score_tip"></p>
+                </div>
+            </div>
+            <div class="newFunction" style="display: none">
+
+            </div>
+            <div class="appInfo">
+                <strong class="publicTitle"></strong>
+                <div class="box" id="boxinfo">
+                </div>
+            </div>
+        </main>
+        <div class="footer">
+
+        </div>
+
+        <div class="pupPic"><img alt="" src="/static/picture/5cbc4_5_1242_2007.png"></div>
+        <div style="width:100%; height:60px; clear:both"></div>
+    </div>
+    <!--mobile_wrap-->
+    <div align="center" id="copyDiv" style="display:none;position:fixed; bottom:0; height:60px; border-top:#CCCCCC 1px solid; background:#FFFFFF; width:100%;">
+        <div>
+            <div cols="20" id="biao1" style="display:none;"></div>
+            <input onClick="copyUrl2()"
+                   style=" height:40px; background:#3399FF; border-radius:20px; margin:10px; text-align:center; padding:4px 20px; color:#ffffff;" type="button" value=""/>
+        </div>
+    </div>
+</div>
+<div class="pcDiv" id="pc" style="display: none;">
+    <div class="pcfirst">
+        <img alt="" id="pcAppIcon" src=""/>
+        <p class="app_name"></p>
+        <div id="qrcode"></div>
+        <p id="qr_desc"></p>
+    </div>
+</div>
+<div>
+    <div id="captcha" style="display: none"></div>
+</div>
+<!--下载码-->
+<div class="mask mkDownloadCode" id="codeDiv" style="display: none">
+    <div class="downloadCode">
+        <h3></h3>
+        <p></p>
+        <input class="maskCode" id="download_code" placeholder="" type="text"/>
+        <div class="maskCodeOk" id="downloadCode"></div>
+    </div>
+</div>
+<!--    ios16安装提示-->
+<div class="mask mkDownloadCode" id="ios16tip" style="display: none">
+    <div class="downloadCode">
+        <h3></h3>
+        <p style="margin-left: 0.5rem;margin-right: 0.5rem"></p>
+        <div class="maskCodeOk" id="ios16success"></div>
+    </div>
+</div>
+<div class="mask isAnzhaung" style="display: none">
+
+</div>
+<div class="mask" id="fail-tip" style="display: none">
+    <div class="downloadCode">
+        <h3 style="margin-top: 0.5rem"></h3>
+        <p></p>
+        <div class="maskCodeOk" id="fail-tip-btn" style="margin-top: 0.5rem"></div>
+    </div>
+</div>
+<div id="apkwx" style="display: none">
+    <img alt="" src="/static/picture/apkloading.png" style="width: 100%"/>
+</div>
+<script src="/static/js/jquery-3.1.0.min.js"></script><!--jQ库-->
+<script src="/static/js/utf.js"></script>
+<script src="/static/js/jquery.qrcode.js"></script>
+<script src="/static/zh/js/swiper.min.js"></script>
+<script src="/static/js/jquery.cookie.js"></script>
+</body>
+</html>
+
+<script src="/static/download/two-md5-201301051520.js?t={$versiontime}"></script>
+{if condition="$info.is_vaptcha == 1"}
+<script src="//cstaticdun.126.net/load.min.js?t={$versiontime}"></script>
+{/if}
+<script>
+    $("body").css("cursor", "pointer");
+    var ua = navigator.userAgent.toLowerCase();
+    var token = localStorage.getItem("app_token");
+    var udid = localStorage.getItem("udid");
+    var task, is_stall;
+    var style_type = 3;
+    var uuid = short_url = "{$uuid}";
+    var is_ios = true, is_return_stall = true, is_delete = true, is_install_two_config = true, is_download = true;
+    var referer = "{$referer}",
+        lang_data = navigator.language.substring(0, 2),
+        max_width = Math.floor(document.body.clientWidth * 0.9);
+    var is_vaptcha,is_code,is_tip,lang,copy_success,downloading,Authorizing,installing,preparing,install_config,desktop;
+
+</script>
+
+{notempty name="$info.cnzz"}
+<script>
+    var cnzz_id = "{$info.cnzz}";
+    (function () {
+        var el = document.createElement('script');
+        el.type = 'text/javascript';
+        el.charset = 'utf-8';
+        el.async = true;
+        var ref = document.getElementsByTagName('script')[0];
+        ref.parentNode.insertBefore(el, ref);
+        el.src = 'https://w.cnzz.com/c.php?id=' + cnzz_id + '&async=1';
+    })();
+</script>
+{/notempty}

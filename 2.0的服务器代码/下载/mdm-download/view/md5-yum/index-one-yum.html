@@ -1,0 +1,259 @@
+﻿<!doctype html>
+<html>
+<head design-width="750">
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+    <meta content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" name="viewport">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta content="telephone=no" name="format-detection">
+    <title></title>
+    <link href="/static/css/reset.css" rel="stylesheet"><!--重置样式-->
+    <link href="/static/css/style.css" rel="stylesheet"><!--页面样式-->
+    <script src="/static/js/auto-size.js"></script><!--设置字体大小-->
+    <link href="/static/zh/css/Flexible.css" rel="stylesheet"/>
+    <link href="/static/css/v1.css" rel='stylesheet' type='text/css'/>
+    <style>
+        .swiper-slide img{
+            object-fit: cover;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body onmouseover="" ontouchstart="" style="background:#ffffff;">
+<div id="mobile" style="display: none">
+    <div id="w" style="width: 100%;position: fixed;top: 0">
+        <img alt="" id="download_bg" src="" style="width: 100%;"/>
+    </div>
+    <div class="mobile-wrap center" style="position: absolute;
+            top: 15em;
+            left: 0;
+            right: 0;
+            margin: 0 auto;
+            max-width: 750px;
+            background: #FFFFFF;
+            border-radius: 30px 30px 0 0;
+            width: 96%;
+            overflow: hidden;
+            border: #E0E0E0 1px solid;">
+        <main>
+            <div class="appItem">
+                <div class="left"><img alt="" class="app_icon" src=""></div>
+                <div class="right" style="margin-right: 0.2rem !important;width: 4rem">
+                    <strong class="app_name" style="margin-top: -0.1rem"></strong>
+
+                    <div class="installBox" style="padding-top: 0.1rem;display: flex;">
+
+                        <div>
+                            <a class="down" href="javascript:" style="max-width: 11em"></a>
+                            <div class="download-fail"></div>
+                            <!--loading-->
+                            <div>
+                                <span class="load2">
+                                    <span class="loading">
+                                        <span class="bar1"></span>
+                                        <span class="bar2"></span>
+                                        <span class="bar3"></span>
+                                        <span class="bar4"></span>
+                                        <span class="bar5"></span>
+                                        <span class="bar6"></span>
+                                        <span class="bar7"></span>
+                                        <span class="bar8"></span>
+                                        <span class="bar9"></span>
+                                        <span class="bar10"></span>
+                                        <span class="bar11"></span>
+                                        <span class="bar12"></span>
+                                    </span>
+		                        </span>
+                            </div>
+                            <!--loading-->
+                        </div>
+                        <div id="help"
+                             style="display: flex;align-items: center;flex-flow: column;margin-left: 0.2rem;margin-top: 0.2rem">
+                            <a class="doubt" href="javascript:">?</a>
+                            <p id="tutorial" style="margin-top: 0.1rem"></p>
+                        </div>
+
+                    </div>
+                    <!--loading-->
+                    <div class="load-box">
+                        <span class="loading">
+                            <span class="bar1"></span>
+                            <span class="bar2"></span>
+                            <span class="bar3"></span>
+                            <span class="bar4"></span>
+                            <span class="bar5"></span>
+                            <span class="bar6"></span>
+                            <span class="bar7"></span>
+                            <span class="bar8"></span>
+                            <span class="bar9"></span>
+                            <span class="bar10"></span>
+                            <span class="bar11"></span>
+                            <span class="bar12"></span>
+                        </span>
+                    </div>
+                    <!--loading-->
+                </div>
+                <div class="appTip">
+                    <div class="score">
+                        <div class="star">4.9 ★★★★★</div>
+                        <p class="score_tip"></p>
+                    </div>
+                    <div class="centerBox">
+                    </div>
+                    <div class="age">
+                        <b>18+</b>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <div class="four" style="display: none">
+                <div class="thirdOne">
+                    <p class="titleText"></p>
+                </div>
+                <div class="fourth22">
+                </div>
+            </div>
+            <div class="comment">
+                <strong class="publicTitle"></strong>
+                <div class="left">
+                    <b>4.9</b>
+                    <p class="fullMark"></p>
+                </div>
+                <div class="right">
+                    <div class="star_row">
+                        <span class="s1">★★★★★</span>
+                        <div class="lineBox"><var class="v1"></var></div>
+                    </div>
+                    <div class="star_row">
+                        <span class="s2">★★★★</span>
+                        <div class="lineBox"><var class="v2"></var></div>
+                    </div>
+                    <div class="star_row">
+                        <span class="s3">★★★</span>
+                        <div class="lineBox"><var class="v3"></var></div>
+                    </div>
+                    <div class="star_row">
+                        <span class="s4">★★</span>
+                        <div class="lineBox"><var class="v4"></var></div>
+                    </div>
+                    <div class="star_row">
+                        <span class="s5">★</span>
+                        <div class="lineBox"><var class="v5"></var></div>
+                    </div>
+                    <p class="score_tip"></p>
+                </div>
+                <div class="newSscoreContent" style="display: none">
+                </div>
+            </div>
+            <div class="newFunction" style="display: none">
+            </div>
+            <div class="appInfo">
+                <strong class="publicTitle"></strong>
+                <div class="box" id="boxinfo">
+                </div>
+            </div>
+        </main>
+        <div class="footer">
+        </div>
+        <div class="pupPic"><img alt="" src="/static/picture/5cbc4_5_1242_2007.png"></div>
+        <div style="width:100%; height:60px; clear:both"></div>
+    </div>
+</div>
+<div class="pcDiv" id="pc" style="display: none;">
+    <div class="pcfirst">
+        <img alt="" id="pcAppIcon" src=""/>
+        <p class="app_name"></p>
+        <div id="qrcode"></div>
+        <p id="qr_desc"></p>
+    </div>
+</div>
+
+<div>
+    <div id="captcha" style="display: none"></div>
+</div>
+<!--下载码-->
+<div class="mask mkDownloadCode" id="codeDiv" style="display: none">
+    <div class="downloadCode">
+        <h3></h3>
+        <p></p>
+        <input class="maskCode" id="download_code" placeholder="" type="text"/>
+        <div class="maskCodeOk" id="downloadCode"></div>
+    </div>
+</div>
+<!--    ios16安装提示-->
+<div class="mask mkDownloadCode" id="ios16tip" style="display: none">
+    <div class="downloadCode">
+        <h3></h3>
+        <p style="margin-left: 0.5rem;margin-right: 0.5rem"></p>
+        <div class="maskCodeOk" id="ios16success"></div>
+    </div>
+</div>
+<div class="mask isAnzhaung" style="display: none">
+
+</div>
+<div id="apkwx" style="display: none">
+    <img alt="" src="/static/picture/apkloading.png" style="width: 100%"/>
+</div>
+<div class="mask" id="fail-tip" style="display: none">
+    <div class="downloadCode">
+        <h3 style="margin-top: 0.5rem"></h3>
+        <p></p>
+        <div class="maskCodeOk" style="margin-top: 0.5rem" id="fail-tip-btn"></div>
+    </div>
+</div>
+<!--其他浏览器左上角没有点点-->
+<div class="mask isNoSafi" id="copyDiv" style="display: none;">
+    <div class="secondDiv">
+        <div class="copy" id="copyfuzhi" onClick="copyUrl2()">
+            <p id="url"></p>
+            <p class="uuid-code" id="content"></p>
+            <textarea id="input"></textarea>
+            <p class="copyBtn" id="copyBtn"></p>
+        </div>
+    </div>
+</div>
+<script src="/static/js/jquery-3.1.0.min.js"></script><!--jQ库-->
+<script src="/static/js/utf.js"></script>
+<script src="/static/js/jquery.qrcode.js"></script>
+<script src="/static/zh/js/swiper.min.js"></script>
+<script src="/static/js/jquery.cookie.js"></script>
+
+</body>
+</html>
+
+<script src="/static/download/one-md5-201301051520.js?t={$versiontime}"></script>
+{if condition="$info.is_vaptcha == 1"}
+<script src="https://cstaticdun.126.net/load.min.js?t={$versiontime}"></script>
+{/if}
+
+
+<script>
+    $("body").css("cursor", "pointer");
+    var ua = navigator.userAgent.toLowerCase();
+    var token = localStorage.getItem("app_token");
+    var udid = localStorage.getItem("udid");
+    var task, is_stall;
+    var style_type = 1;
+    var uuid = short_url = "{$uuid}";
+    var is_ios = true, is_return_stall = true, is_delete = true,
+        is_install_two_config = true, is_download = true;
+    var referer = "{$referer}",
+        lang_data = navigator.language.substring(0, 2),
+        max_width = Math.floor(document.body.clientWidth * 0.9);
+    var is_vaptcha,is_code,is_tip,lang,copy_success,downloading,Authorizing,installing,preparing,install_config,desktop;
+</script>
+{notempty name="$info.cnzz"}
+<script>
+    var cnzz_id = "{$info.cnzz}";
+    (function () {
+        var el = document.createElement('script');
+        el.type = 'text/javascript';
+        el.charset = 'utf-8';
+        el.async = true;
+        var ref = document.getElementsByTagName('script')[0];
+        ref.parentNode.insertBefore(el, ref);
+        el.src = 'https://w.cnzz.com/c.php?id=' + cnzz_id + '&async=1';
+    })();
+</script>
+{/notempty}

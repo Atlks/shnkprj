@@ -1,0 +1,53 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">测试:</label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="button" id="test_qrcode" class="btn btn-success">下载测试</button>
+
+            <button type="button" id="remove_install" class="btn btn-danger">测试闪退</button>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-xs-12 col-sm-8 " id="download_test_url"></div>
+        <div class="col-xs-12 col-sm-8 " id="qrcode"></div>
+    </div>
+    <div class="layui-layer-title">线上版本</div>
+    <table class="table table-striped table-bordered table-hover table-nowrap" width="100%">
+        <thead><tr>
+            <th style="" ><div class="th-inner ">名称</div><div class="fht-cell"></div></th>
+            <th style="" ><div class="th-inner ">icon</div><div class="fht-cell"></div></th>
+            <th style=""><div class="th-inner ">包名</div><div class="fht-cell"></div></th>
+            <th style=""><div class="th-inner ">版本</div><div class="fht-cell"></div></th>
+            <th style=""><div class="th-inner ">bundle 名称</div><div class="fht-cell"></div></th>
+            <th style=""><div class="th-inner sortable both">大小</div><div class="fht-cell"></div></th>
+        </tr></thead>
+        <tbody data-listidx="0">
+           <tr>
+               <td style="">{$app.name}</td>
+               <td style=""><a href="javascript:">
+                   <img class="img-sm img-center" src="{$app.icon}">
+               </a></td>
+               <td style="">{$app.package_name}</td>
+               <td style="">{$app.version_code}</td>
+               <td style="">{$app.bundle_name}</td>
+               <td style="">{$app.filesize}</td>
+           </tr>
+        </tbody>
+    </table>
+
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success  btn-embossed ">审核通过</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+    <script src="__CDN__/assets/js/jquery.min.js"></script>
+    <script src="__CDN__/assets/js/qrcode.min.js"></script>
+    <script>
+        var qr = $('#qrcode');
+        var ids = "{$app.id}";
+        // console.log(ipaParsing);
+
+    </script>
+</form>

@@ -1,0 +1,65 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+    <div class="form-group">
+        <label for="c-username" class="control-label col-xs-12 col-sm-2">{:__('Username')}:</label>
+        <div class="col-xs-12 col-sm-4">
+            <input id="c-username" data-rule="required" class="form-control" name="row[username]" readonly type="text" value="{$user.username}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-nickname" class="control-label col-xs-12 col-sm-2">{:__('Nickname')}:</label>
+        <div class="col-xs-12 col-sm-4">
+            <input id="c-nickname" data-rule="" class="form-control" name="row[nickname]" readonly type="text" value="{$user.nickname}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-v1_num" class="control-label col-xs-12 col-sm-2">{:__('剩余次数')}:</label>
+        <div class="col-xs-12 col-sm-4">
+            <input id="c-v1_num" data-rule="required" class="form-control" name="row[v1_num]" readonly type="number" value="{$user.v1_num}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-num" class="control-label col-xs-12 col-sm-2">{:__('1.0 充值次数')}:</label>
+        <div class="col-xs-12 col-sm-4">
+            <input id="c-num" data-rule="required" class="form-control" name="row[num]" type="number" value="0">
+            <p class="help-block">充值次数 ：次数为负时为扣除扣除</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-money" class="control-label col-xs-12 col-sm-2">{:__('实际到账金额')}:</label>
+        <div class="col-xs-12 col-sm-4">
+            <input id="c-money" data-rule="required" class="form-control" name="row[money]" type="number" value="0">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-memo" class="control-label col-xs-12 col-sm-2">{:__('充值方式')}:</label>
+        <div class="col-xs-12 col-sm-4">
+            {:build_select('row[memo]',$memo, null,['class'=>'form-control', 'required'=>''])}
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-own" class="control-label col-xs-12 col-sm-2">{:__('业务人员')}:</label>
+        <div class="col-xs-12 col-sm-4">
+            <input id="c-own" data-rule="" class="form-control" name="row[own]" type="text" value="" placeholder="可不填写">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-univalent" class="control-label col-xs-12 col-sm-2">{:__('单价')}:</label>
+        <div class="col-xs-12 col-sm-4">
+            <input id="c-univalent" data-rule="" class="form-control" name="row[univalent]" type="number" min="0" value="" placeholder="可不填写">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-univalent" class="control-label col-xs-12 col-sm-2">{:__('备注')}:</label>
+        <div class="col-xs-12 col-sm-4">
+            <input id="c-remark" data-rule="" class="form-control" name="row[remark]" type="text" value="" placeholder="可不填写">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <input type="hidden" name="row[id]" value="{$user.id}">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success  btn-embossed ">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

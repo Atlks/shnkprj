@@ -1,0 +1,164 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Username')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-username" data-rule="required" class="form-control" readonly name="row[username]" type="text" value="{$row.username|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Nickname')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-nickname" data-rule="required" readonly class="form-control" name="row[nickname]" type="text" value="{$row.nickname|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-style_id" class="control-label col-xs-12 col-sm-2">{:__('样式界面')}:</label>
+        <div class="col-xs-12 col-sm-8">
+<!--            <input id="c-style_id" data-rule="required" data-source="proxy/style/index" class="form-control selectpage" name="row[style_id]" type="text" value="{$domain.style_id|htmlentities}">-->
+            {:build_select('row[style_id]',$style_id, $domain.style_id,['class'=>'form-control select', 'required'=>''])}
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-oss_id" class="control-label col-xs-12 col-sm-2">国内OSS分流库:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-oss_id"  data-source="proxy/daili/oss_config" class="form-control selectpage" data-value="{$domain.oss_id}" name="row[oss_id]" type="text" value="{:empty($domain.oss_id)?'':$domain.oss_id}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-oss_id" class="control-label col-xs-12 col-sm-2">签名域名选择:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-ssl_sign_id"  data-source="download_url/index" class="form-control selectpage" data-value="{$domain.ssl_sign_id}" name="row[ssl_sign_id]" type="text" value="{:empty($domain.ssl_sign_id)?'':$domain.ssl_sign_id}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('代理域名')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-domain" data-rule="required" class="form-control" name="row[domain]" type="text" value="{$domain.domain|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('下载域名')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-download_url" data-rule="required" class="form-control" name="row[download_url]" type="text" value="{$domain.download_url|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="c-callback_key" class="control-label col-xs-12 col-sm-2">{:__('回调域名配置')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            {:build_radios('row[callback_key]',$callback_key_list, $domain.callback_key,['class'=>'form-control', 'required'=>''])}
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('微信防封域名1')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-wx1_host"  class="form-control" name="row[wx1_host]" type="text" value="{$domain.wx1_host|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('微信防封域名2')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-wx2_host" class="form-control" name="row[wx2_host]" type="text" value="{$domain.wx2_host|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">审核提醒群ID:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-chat_id" class="form-control" name="row[chat_id]" type="text" value="{$domain.chat_id|htmlentities}">
+            <p class="help-block">无提醒群可留空</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('代理名称')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-logo_name"  class="form-control" name="row[logo_name]" type="text" value="{$domain.logo_name|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('LOGO')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-logo" class="form-control" size="50" name="row[logo]" type="text" value="{$domain.logo|htmlentities}">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="plupload-logo" class="btn btn-danger plupload" data-input-id="c-logo" data-mimetype="image/gif,image/jpeg,image/png,image/jpg,image/bmp" data-multiple="false" data-preview-id="p-logo"><i class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                    <span><button type="button" id="fachoose-logo" class="btn btn-primary fachoose" data-input-id="c-logo" data-mimetype="image/*" data-multiple="false"><i class="fa fa-list"></i> {:__('Choose')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-logo"></span>
+            </div>
+            <ul class="row list-inline plupload-preview" id="p-logo"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('CRT 证书')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-cert_path" data-rule="required" class="form-control" size="50" name="row[cert_path]" type="text" value="{$domain.cert_path|htmlentities}">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="plupload-cert_path" class="btn btn-danger plupload" data-input-id="c-cert_path" data-mimetype="crt" data-multiple="false" data-preview-id="p-cert_path"><i class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                    <span><button type="button" id="fachoose-cert_path" class="btn btn-primary fachoose" data-input-id="c-cert_path" data-mimetype="crt" data-multiple="false"><i class="fa fa-list"></i> {:__('Choose')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-cert_path"></span>
+            </div>
+            <ul class="row list-inline plupload-preview" id="p-cert_path"></ul>
+            <p class="help-block">请上传无密码证书</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('PEM 证书')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-pem_path" data-rule="required" class="form-control" size="50" name="row[pem_path]" type="text" value="{$domain.pem_path|htmlentities}">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="plupload-pem_path" class="btn btn-danger plupload" data-input-id="c-pem_path" data-mimetype="pem" data-multiple="false" data-preview-id="p-pem_path"><i class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                    <span><button type="button" id="fachoose-pem_path" class="btn btn-primary fachoose" data-input-id="c-pem_path" data-mimetype="pem" data-multiple="false"><i class="fa fa-list"></i> {:__('Choose')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-pem_path"></span>
+            </div>
+            <ul class="row list-inline plupload-preview" id="p-pem_path"></ul>
+            <p class="help-block">请上传无密码证书</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('KEY 密钥')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-key_path" data-rule="required" class="form-control" size="50" name="row[key_path]" type="text" value="{$domain.key_path|htmlentities}">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="plupload-key_path" class="btn btn-danger plupload" data-input-id="c-key_path" data-mimetype="key" data-multiple="false" data-preview-id="p-key_path"><i class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                    <span><button type="button" id="fachoose-key_path" class="btn btn-primary fachoose" data-input-id="c-key_path" data-mimetype="key" data-multiple="false"><i class="fa fa-list"></i> {:__('Choose')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-key_path"></span>
+            </div>
+            <ul class="row list-inline plupload-preview" id="p-key_path"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('客服QQ')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-qq"  class="form-control" name="row[qq]" type="text" value="{$domain.qq|htmlentities}">
+            <p class="help-block">多客服QQ,请用英文逗号隔开</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('SKype')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-skype"  class="form-control" name="row[skype]" type="text" value="{$domain.skype|htmlentities}">
+            <p class="help-block">多客服飞机,请用英文逗号隔开</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('客服飞机')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-telegram"  class="form-control" name="row[telegram]" type="text" value="{$domain.telegram|htmlentities}">
+            <p class="help-block">多客服飞机,请用英文逗号隔开</p>
+        </div>
+    </div>
+    <input type="hidden" name="row[user_id]" value="{$row.id}">
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

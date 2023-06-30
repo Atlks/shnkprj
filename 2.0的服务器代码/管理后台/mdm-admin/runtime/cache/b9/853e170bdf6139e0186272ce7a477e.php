@@ -1,0 +1,4 @@
+<?php
+//000000000300
+ exit();?>
+a:25:{s:2:"id";i:21;s:7:"user_id";i:4328;s:6:"domain";s:13:"www.kssid.com";s:9:"cert_path";s:57:"dailicert/2021-08-21/7daf2ea68d0617617747b93a5bfca312.crt";s:8:"pem_path";s:57:"dailicert/2021-08-21/538ecb90a813da9d44ddac5ea448778c.pem";s:8:"key_path";s:57:"dailicert/2021-08-21/9f8f6ecaab41eb5becfe63b0f471c147.key";s:11:"create_time";s:19:"2023-06-02 20:21:09";s:4:"logo";N;s:9:"logo_name";s:0:"";s:2:"qq";s:0:"";s:5:"skype";s:0:"";s:14:"is_other_login";i:0;s:5:"login";N;s:12:"download_url";s:9:"jtm27.com";s:8:"style_id";i:2;s:8:"telegram";s:7:"@hahgpa";s:9:"skype_new";N;s:8:"wx1_host";s:8:"os8m4.cc";s:8:"wx2_host";s:0:"";s:14:"download_style";i:3;s:3:"ext";s:4:"html";s:6:"oss_id";i:32;s:11:"ssl_sign_id";i:100;s:7:"chat_id";s:10:"-742587345";s:12:"callback_key";s:0:"";}

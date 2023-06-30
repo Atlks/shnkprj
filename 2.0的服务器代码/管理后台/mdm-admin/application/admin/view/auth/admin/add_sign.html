@@ -1,0 +1,41 @@
+<form id="add-sign-form" class="form-horizontal form-ajax" role="form" data-toggle="validator" method="POST" action="">
+    {:token()}
+    <div class="form-group">
+        <label for="username" class="control-label col-xs-12 col-sm-2">{:__('Username')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input type="text" class="form-control" readonly id="username" name="row[username]" value="{$row.username|htmlentities}" data-rule="required;username" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="nickname" class="control-label col-xs-12 col-sm-2">{:__('Nickname')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input type="text" class="form-control" readonly id="nickname" name="row[nickname]" autocomplete="off" value="{$row.nickname|htmlentities}" data-rule="required" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="sign_num" class="control-label col-xs-12 col-sm-2">剩余次数 :</label>
+        <div class="col-xs-12 col-sm-8">
+            <input type="number" class="form-control" id="sign_num" readonly name="row[sign_num]" value="{$row.sign_num}" data-rule="required" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="num" class="control-label col-xs-12 col-sm-2">充值次数 :</label>
+        <div class="col-xs-12 col-sm-8">
+            <input type="number" class="form-control" id="num" name="row[num]" value="" data-rule="required" />
+            <p class="help-block">充值次数 ：次数为负时为扣除扣除</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="num" class="control-label col-xs-12 col-sm-2">充值类型 :</label>
+        <div class="col-xs-12 col-sm-8">
+            {:build_select('row[type]',$memo, null,['class'=>'form-control', 'required'=>''])}
+        </div>
+    </div>
+    <div class="form-group hidden layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>

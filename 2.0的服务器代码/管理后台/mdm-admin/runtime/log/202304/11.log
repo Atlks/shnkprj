@@ -1,0 +1,9 @@
+---------------------------------------------------------------
+[ 2023-04-11T03:30:05+08:00 ] 202.84.72.23 POST qmm.qqq2.org/admin/proxy_app/dllib/ids/167679
+[ error ] [2]strpos() expects parameter 1 to be string, array given
+---------------------------------------------------------------
+[ 2023-04-11T17:29:10+08:00 ] 202.84.72.22 GET qmm.qqq2.org/admin/proxy_app/check_update/ids/undefined
+[ error ] [8]未定义数组索引: filesize
+---------------------------------------------------------------
+[ 2023-04-11T17:29:12+08:00 ] 202.84.72.22 GET qmm.qqq2.org/admin/proxy_app/check_update/ids/undefined
+[ error ] [8]未定义数组索引: filesize

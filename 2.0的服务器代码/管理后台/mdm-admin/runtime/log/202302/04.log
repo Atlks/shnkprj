@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2023-02-04T18:11:50+08:00 ] 202.84.72.22 POST qmm.qqq2.org/admin/proxy/user/v1_pay/ids/6328?dialog=1
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value
+---------------------------------------------------------------
+[ 2023-02-04T18:11:53+08:00 ] 202.84.72.22 POST qmm.qqq2.org/admin/proxy/user/v1_pay/ids/6328?dialog=1
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value
+---------------------------------------------------------------
+[ 2023-02-04T18:11:54+08:00 ] 202.84.72.22 POST qmm.qqq2.org/admin/proxy/user/v1_pay/ids/6328?dialog=1
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value
+---------------------------------------------------------------
+[ 2023-02-04T18:11:55+08:00 ] 202.84.72.22 POST qmm.qqq2.org/admin/proxy/user/v1_pay/ids/6328?dialog=1
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'id' doesn't have a default value

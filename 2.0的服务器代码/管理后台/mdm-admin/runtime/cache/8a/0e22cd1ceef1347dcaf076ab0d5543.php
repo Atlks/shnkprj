@@ -1,0 +1,4 @@
+<?php
+//000000000300
+ exit();?>
+a:25:{s:2:"id";i:33;s:7:"user_id";i:14931;s:6:"domain";s:10:"jsqm66.com";s:9:"cert_path";s:57:"dailicert/2023-05-08/731a075ba8d01f3dbb19862725515300.crt";s:8:"pem_path";s:57:"dailicert/2023-05-08/73fca486289cd1d3b6a6f18c03fb0c5a.pem";s:8:"key_path";s:57:"dailicert/2023-05-08/e31e433fdc604229a1fab6d0a39e0b39.key";s:11:"create_time";s:19:"2023-05-08 16:26:11";s:4:"logo";N;s:9:"logo_name";s:0:"";s:2:"qq";s:0:"";s:5:"skype";s:0:"";s:14:"is_other_login";i:0;s:5:"login";N;s:12:"download_url";s:9:"1b3hm.com";s:8:"style_id";i:2;s:8:"telegram";s:0:"";s:9:"skype_new";N;s:8:"wx1_host";s:0:"";s:8:"wx2_host";s:0:"";s:14:"download_style";i:1;s:3:"ext";s:4:"html";s:6:"oss_id";i:0;s:11:"ssl_sign_id";i:0;s:7:"chat_id";s:0:"";s:12:"callback_key";s:12:"callback_url";}

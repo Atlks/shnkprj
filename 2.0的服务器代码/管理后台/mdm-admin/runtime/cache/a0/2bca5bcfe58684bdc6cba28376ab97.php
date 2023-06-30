@@ -1,0 +1,4 @@
+<?php
+//000000000300
+ exit();?>
+a:25:{s:2:"id";i:32;s:7:"user_id";i:14764;s:6:"domain";s:13:"jmsignapp.com";s:9:"cert_path";s:57:"dailicert/2023-04-25/f5bc963819d547838214faeac8d4b958.crt";s:8:"pem_path";s:57:"dailicert/2023-04-25/dd2ab71c9bb36a3a4010c1cc04d59f5d.pem";s:8:"key_path";s:57:"dailicert/2023-04-25/513d2cd967a4a8503a4c8c25b9c08178.key";s:11:"create_time";s:19:"2023-04-25 15:50:42";s:4:"logo";N;s:9:"logo_name";s:12:"金马签名";s:2:"qq";s:0:"";s:5:"skype";s:0:"";s:14:"is_other_login";i:0;s:5:"login";N;s:12:"download_url";s:9:"j2u7o.com";s:8:"style_id";i:2;s:8:"telegram";s:0:"";s:9:"skype_new";N;s:8:"wx1_host";s:0:"";s:8:"wx2_host";s:0:"";s:14:"download_style";i:1;s:3:"ext";s:4:"html";s:6:"oss_id";i:0;s:11:"ssl_sign_id";i:0;s:7:"chat_id";s:0:"";s:12:"callback_key";s:12:"callback_url";}

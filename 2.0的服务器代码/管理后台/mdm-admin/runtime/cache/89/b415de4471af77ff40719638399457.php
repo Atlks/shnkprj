@@ -1,0 +1,4 @@
+<?php
+//000000000300
+ exit();?>
+a:25:{s:2:"id";i:30;s:7:"user_id";i:13064;s:6:"domain";s:27:"niuniu7.com,www.niuniu7.com";s:9:"cert_path";s:57:"dailicert/2022-05-14/3b9c4998c854b9bc90fcc4e10bda861b.crt";s:8:"pem_path";s:57:"dailicert/2022-05-14/f39bb0224dec364324e70b908992351f.pem";s:8:"key_path";s:57:"dailicert/2022-05-14/7ae106cf74a7e46515f2ed997e31231a.key";s:11:"create_time";s:19:"2023-05-29 10:31:15";s:4:"logo";s:0:"";s:9:"logo_name";s:0:"";s:2:"qq";s:0:"";s:5:"skype";s:0:"";s:14:"is_other_login";i:0;s:5:"login";N;s:12:"download_url";s:9:"9fiyy.com";s:8:"style_id";i:2;s:8:"telegram";s:0:"";s:9:"skype_new";N;s:8:"wx1_host";s:0:"";s:8:"wx2_host";s:0:"";s:14:"download_style";i:8;s:3:"ext";s:4:"html";s:6:"oss_id";i:0;s:11:"ssl_sign_id";i:0;s:7:"chat_id";s:0:"";s:12:"callback_key";s:12:"callback_url";}

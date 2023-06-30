@@ -1,0 +1,46 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">变更用户ID:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-user_id" data-rule="required" readonly class="form-control"  type="text" value="{$row.user_id|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">用户名:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-user_name" data-rule="required" readonly class="form-control"  type="text" value="{$row.user_name|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">变更次数:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-sign_num" readonly data-rule="required" class="form-control"  type="number" value="{$row.sign_num|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Before')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-before" readonly data-rule="required" class="form-control"  type="number" value="{$row.before|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('After')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-after" readonly data-rule="required" class="form-control"  type="number" value="{$row.after|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Memo')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-memo" class="form-control" name="row[memo]" type="text" value="{$row.memo|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-success btn-embossed disabled">{:__('OK')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('Reset')}</button>
+        </div>
+    </div>
+</form>
