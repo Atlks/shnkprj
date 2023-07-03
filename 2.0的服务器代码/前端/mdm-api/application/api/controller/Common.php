@@ -63,14 +63,14 @@ class Common extends Api
             if ($address[0] == "中国" && !in_array($address[2], ["澳门", '香港', "台湾省","台湾"])) {
                 $is_overseas = 10;
             } else {
-                $is_overseas = 20;
+                $is_overseas = 20;  //ov ss
             }
         }
-        if($is_overseas==20){
+        if($is_overseas==20){  //ovss
             $oss_config = OssConfig::where("status",1)
                 ->where("name","g_oss")
                 ->find();
-        }else{
+        }else{  // cn
             $oss_config = OssConfig::where("status",1)
                 ->where("name","oss")
                 ->find();
