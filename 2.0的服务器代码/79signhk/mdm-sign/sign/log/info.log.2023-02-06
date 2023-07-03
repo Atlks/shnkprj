@@ -1,0 +1,20 @@
+2023-02-06 13:26:50,922 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2023-02-06 13:26:51,194 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /opt/mdm-sign/sign/temp/0e052da6-1beb-41ea-81df-aae00cd6e413/Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2023-02-06 13:26:52,324 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /opt/mdm-sign/sign/temp/6dca9777-a369-4cd9-ad43-8bc442e10831/Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2023-02-06 16:22:48,923 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1675671768923,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

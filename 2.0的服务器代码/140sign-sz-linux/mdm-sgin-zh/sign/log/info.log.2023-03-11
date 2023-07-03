@@ -1,0 +1,4 @@
+2023-03-11 12:04:05,985 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-11 12:04:06,492 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/93379805-aa25-4253-bf17-a7511c736af0/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-11 12:04:09,442 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/1129cf13-8f06-48aa-9c0c-6d6576e40418/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-11 12:04:12,422 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/a712e7a0-89ff-426a-aa4d-65ad5c01748d/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 

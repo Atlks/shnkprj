@@ -1,0 +1,12 @@
+2023-05-31 14:09:15,334 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-31 14:09:15,757 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/598c03dd-6b89-426c-9ee0-74d58ec161ad/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-31 14:09:17,303 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/f824ddcd-a101-453a-b252-627b825566a2/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-31 14:09:18,814 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/48a551d5-1bca-4506-9f63-edba265c420c/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-31 14:09:25,444 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-31 14:09:25,872 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/aa5e961f-bf76-4056-8d64-a8249ad735ae/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-31 14:09:27,450 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/77594f5f-9d7c-4630-b48c-f7eef639181d/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-31 14:09:29,003 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/ede10e2c-8fed-43d6-8526-7041bf06846d/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-31 20:50:47,987 INFO main net.appuploader.b.l.a(?:?)  binary MCSDKRes bundle in  /Payload/XianMengYunGe.app/MCSDKRes.bundle/Info.plist not found witch may cause crash 
+2023-05-31 20:50:49,568 INFO main net.appuploader.b.l.a(?:?)  binary MCSDKRes bundle in  /opt/mdm-sgin-zh/sign/temp/5a26bd2e-afce-4eb3-933a-71b08419ace7/Payload/XianMengYunGe.app/MCSDKRes.bundle/Info.plist not found witch may cause crash 
+2023-05-31 20:50:59,684 INFO main net.appuploader.b.l.a(?:?)  binary MCSDKRes bundle in  /opt/mdm-sgin-zh/sign/temp/f97cb4f9-4d57-464d-95f0-11a2697e5f51/Payload/XianMengYunGe.app/MCSDKRes.bundle/Info.plist not found witch may cause crash 
+2023-05-31 20:51:09,325 INFO main net.appuploader.b.l.a(?:?)  binary MCSDKRes bundle in  /opt/mdm-sgin-zh/sign/temp/ff373d4b-dedf-4368-88c7-03a55a77dbf8/Payload/XianMengYunGe.app/MCSDKRes.bundle/Info.plist not found witch may cause crash 

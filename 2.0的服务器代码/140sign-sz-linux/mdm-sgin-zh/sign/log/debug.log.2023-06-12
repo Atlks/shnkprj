@@ -1,0 +1,164 @@
+2023-06-12 09:37:06,722 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 10:30:38,889 ERROR Thread-14 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:25:26,755 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:32:05,760 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:32:20,298 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:33:13,689 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:33:14,296 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/359ab8dd-13ca-452f-99c0-80b542766ca6/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:33:16,677 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/6c9de513-22e7-4e58-9c71-4ebc84e21771/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:33:18,836 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/b5661650-cce6-438c-911b-dc821888bef3/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:34:13,197 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:35:14,005 INFO main net.appuploader.b.l.a(?:?)  binary 信彩 bundle in  /Payload/淇″僵.app/Info.plist not found witch may cause crash 
+2023-06-12 11:35:14,181 INFO main net.appuploader.b.l.a(?:?)  binary 信彩 bundle in  /opt/mdm-sgin-zh/sign/temp/f0065697-fde8-4832-9e6b-b17792f3d567/Payload/淇″僵.app/Info.plist not found witch may cause crash 
+2023-06-12 11:35:14,866 INFO main net.appuploader.b.l.a(?:?)  binary 信彩 bundle in  /opt/mdm-sgin-zh/sign/temp/c7560d7d-179c-4df7-9de2-960603238641/Payload/淇″僵.app/Info.plist not found witch may cause crash 
+2023-06-12 11:35:16,022 INFO main net.appuploader.b.l.a(?:?)  binary 信彩 bundle in  /opt/mdm-sgin-zh/sign/temp/f0a789be-74ce-4193-b07c-d105d7fbeb8a/Payload/淇″僵.app/Info.plist not found witch may cause crash 
+2023-06-12 11:35:42,598 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:35:49,745 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-06-12 11:35:51,573 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/d110b64e-8c7c-4b16-a774-a3a70cb6850f/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-06-12 11:35:56,433 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:35:58,056 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/fc0e079a-d4e1-4bfa-abe4-57d87fcf2fbc/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-06-12 11:36:04,879 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/9dd47685-74a0-4490-8932-08c7ab8dfffd/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-06-12 11:39:13,731 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:39:14,150 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/76e9bc50-4d2b-448f-9179-8c060cec0354/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:39:15,664 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/4c3d0855-8c2e-46b9-8462-06937d59ec9b/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:39:17,329 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/95c24387-a72a-4bc8-b516-b6e72f6e4c84/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:40:14,738 ERROR Thread-46 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:41:01,340 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:41:01,788 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/1d532eb7-e2a3-425b-ade3-7142c7b3a98a/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:41:03,384 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/ef848ca4-b949-48e1-a3a5-04dc256a87ee/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:41:04,970 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/9174f6d9-0998-43db-b410-7bc3e61f5fb6/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:43:19,118 ERROR Thread-11 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:44:53,981 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:45:02,270 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:45:02,920 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/1755c6b7-b02c-4d72-acad-56c35edb9af7/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:45:03,565 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:45:05,987 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:45:06,386 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/65c2e300-5c6a-476e-bf46-f646cd90fdc8/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:45:09,008 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/75e6ea7c-f4e9-4a70-9b0c-cf365d6f8be0/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:45:57,073 ERROR Thread-8 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:45:58,568 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:46:02,281 ERROR Thread-46 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:46:12,431 ERROR Thread-13 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:46:23,243 ERROR Thread-8 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:46:51,051 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:46:51,479 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/bcfba5d1-1563-4e62-887b-3f0ab3d1d0be/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:46:53,054 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/a99a32e8-4295-4715-b28f-8cd793180799/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:46:54,610 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/1f963f39-2678-446d-bcae-cb71f4127767/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:46:57,188 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-06-12 11:46:59,161 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/6f57906f-182f-4458-8a0c-be237e96de66/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-06-12 11:47:05,960 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/d36b3b35-6e16-4fdc-98e9-d8dd8c1ab492/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-06-12 11:47:13,055 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/ffd0496c-94c4-4602-a36d-38f52e36110c/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-06-12 11:53:21,413 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1686542001413,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-12 11:54:52,661 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:54:53,332 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/f3c92937-557f-4131-9e99-0155c87cd1aa/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:54:57,450 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/342b663a-f46a-4f70-9689-b5fbdccdd97d/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:55:01,948 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/37b9bc0d-6b56-4daa-95b6-ed4156c105c1/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 11:55:35,635 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:57:25,618 ERROR Thread-25 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:57:40,569 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:57:44,456 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:57:55,331 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:58:46,137 ERROR Thread-14 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:58:58,887 ERROR Thread-63 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 11:59:06,602 ERROR Thread-11 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 12:01:47,445 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:01:48,377 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/250d92ad-932f-4485-acef-8ad3da87aa79/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:01:54,255 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/324e8256-4baa-45a8-aafe-b0d86695c07f/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:01:58,801 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/e2246b47-dd1d-470e-9295-e4b598573c18/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:06:36,127 ERROR Thread-56 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 12:07:04,670 ERROR Thread-50 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 12:07:32,057 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 12:08:25,644 ERROR Thread-11 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 12:09:27,613 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 12:09:29,994 ERROR Thread-80 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 12:09:41,260 ERROR Thread-88 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 12:12:33,008 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:12:33,434 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/12ca88f6-4741-46d2-ad11-b260f9e24c33/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:12:34,957 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/4b9f339e-5614-46e5-b326-0ea789604b4e/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:12:36,509 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/b70d5c73-065a-4c93-b4ee-436a9f797d3a/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:18:28,583 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:18:31,245 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /opt/mdm-sgin-zh/sign/temp/c8128421-fac9-480b-b781-cec2e4b8955d/Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:18:55,516 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /opt/mdm-sgin-zh/sign/temp/ee0de3aa-e543-4610-8e88-7e1bf481ca97/Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:19:04,734 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 12:19:28,781 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /opt/mdm-sgin-zh/sign/temp/6811faff-f3ae-4ab6-9468-67e4ebe19955/Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:21:18,536 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:21:21,279 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /opt/mdm-sgin-zh/sign/temp/cd966f96-f5b6-4ba9-86a6-20501f560dff/Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:21:24,359 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 12:21:45,001 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /opt/mdm-sgin-zh/sign/temp/25726e3d-d70a-4de2-ae4f-ff87fb8d32d8/Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:22:06,735 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:22:07,938 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /opt/mdm-sgin-zh/sign/temp/5e77c036-ca37-44c2-843d-f3b5d8a9ce66/Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:22:10,381 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /opt/mdm-sgin-zh/sign/temp/8a844554-12fc-4cc4-9a0a-5c1934d76f65/Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:22:32,818 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /opt/mdm-sgin-zh/sign/temp/657baabc-929b-4237-92e3-d8b37a689f34/Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-06-12 12:22:56,622 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /opt/mdm-sgin-zh/sign/temp/32bacaa9-e3b0-45cb-93d9-2b029189eddf/Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-06-12 16:45:27,735 ERROR Thread-54 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 17:06:10,843 ERROR Thread-32 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 17:06:32,704 ERROR Thread-58 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 17:21:23,915 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 17:26:18,364 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 18:05:01,079 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 18:05:45,570 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 21:29:14,053 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:29:14,479 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/80ca97eb-8787-48c8-937e-330016b4df64/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:29:16,008 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/7f20a8c9-d4aa-40bd-b330-edd63abbd7ff/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:29:17,537 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/24ef54fe-316a-4933-ac2c-18f8b776ca10/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:29:29,981 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:29:30,402 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/a167698e-422f-4d42-ba36-7600c39a7625/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:29:31,968 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/3cfbe765-0ead-471e-9df6-6168408e6492/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:29:33,497 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/f2bb8b92-417b-4c33-aeae-9b4603fa8979/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:30:15,158 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:30:15,808 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/a50285af-787f-4b40-8186-f2ce81ff45b5/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:30:18,410 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/31d23be4-4d60-4bfc-99bd-1518233237b3/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:30:20,978 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/e65f8987-270f-4982-916e-53744b63f1ff/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:30:27,913 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:30:28,560 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/7ef13668-de25-4c5f-a37d-81780391ea0f/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:30:31,157 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/46b376b3-0630-4f47-bad9-2cc5fa5c7524/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 21:30:33,776 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/343ac22f-d9f3-45e1-b398-62c0dd561fea/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

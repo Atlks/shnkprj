@@ -1,0 +1,27 @@
+2023-06-06 12:11:21,224 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼至臻版 bundle in  /Payload/ 鑫鑫街机捕鱼至臻版.app/Info.plist not found witch may cause crash 
+2023-06-06 12:11:21,327 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1686024681327,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-06 12:11:21,618 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼至臻版 bundle in  /opt/mdm-sgin-zh/sign/temp/3d9406bf-f97b-47a2-afc6-c3104e6ab6db/Payload/ 鑫鑫街机捕鱼至臻版.app/Info.plist not found witch may cause crash 
+2023-06-06 12:11:21,630 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1686024681630,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-06 12:11:21,963 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼至臻版 bundle in  /opt/mdm-sgin-zh/sign/temp/c13e1288-9760-4f85-aeff-fedd1f11ae2e/Payload/ 鑫鑫街机捕鱼至臻版.app/Info.plist not found witch may cause crash 
+2023-06-06 12:11:21,975 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1686024681975,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-06 19:49:47,298 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-06-06 19:49:48,981 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/dd4ad9b7-0b0c-4db3-bddf-0f90d5b62650/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-06-06 19:49:55,486 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/68e22093-4678-4076-8554-c6fbc2a26d30/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 

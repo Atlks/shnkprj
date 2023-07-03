@@ -1,0 +1,73 @@
+2022-10-08 02:31:51,031 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1665167511031,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-08 13:38:23,130 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-08 13:38:23,442 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/9458364d-b250-41ee-aee9-c20b314f76eb/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-08 14:31:13,174 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-08 14:31:13,820 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/3229dc06-74b9-4dab-bce9-c6687a30dca0/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-08 14:31:16,574 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/c3caf390-d457-4ee5-8ea3-9c8ffd0649d7/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-08 15:17:27,447 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1665213447447,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-08 16:05:48,621 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1665216348621,"message":"MALFORMED[2]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[2]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-08 16:05:48,796 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sign/sign/temp/9782b6ba-790e-4e55-8d46-57e433fddffe/Payload/????.app/Info.plist not found witch may cause crash 
+2022-10-08 17:44:25,727 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1665222265727,"message":"MALFORMED[2]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[2]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-08 17:44:25,901 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sign/sign/temp/c6be67e6-93a7-444d-ac44-043067c4f899/Payload/????.app/Info.plist not found witch may cause crash 
+2022-10-08 21:17:45,909 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /Payload/Unity.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-10-08 21:17:45,909 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/Unity.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-08 21:17:46,288 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sign/sign/temp/fe0bf8c3-851a-4dc5-9871-4663da507030/Payload/Unity.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-10-08 21:17:46,288 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/fe0bf8c3-851a-4dc5-9871-4663da507030/Payload/Unity.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-08 22:09:41,283 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-08 22:09:41,925 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/7a7bd642-2ac9-42cc-b897-4892486f30ff/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-08 22:09:44,620 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/a4bf9c18-1ac5-4341-9ba2-223d204cdb15/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

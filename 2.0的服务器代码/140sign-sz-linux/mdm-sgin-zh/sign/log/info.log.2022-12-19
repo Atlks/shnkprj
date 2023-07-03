@@ -1,0 +1,12 @@
+2022-12-19 13:39:14,059 ERROR Thread-14 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-19 13:41:35,750 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/saierte2.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-19 13:41:38,700 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/82f4f65b-6384-4ee1-93c8-b446e3cf4dc1/Payload/saierte2.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-19 13:41:50,315 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/48e19be1-37ef-4f25-9c70-2a2aeaf761a0/Payload/saierte2.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-19 13:42:02,044 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/69e697bf-1a17-4a1c-ab9a-7e17321669eb/Payload/saierte2.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-19 14:11:56,628 ERROR Thread-30 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-19 17:06:07,859 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/saierte2.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-19 17:06:10,802 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d34bff26-13f8-4ac1-be18-87e23bd8876b/Payload/saierte2.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-19 17:06:22,388 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/1a38392f-b192-496c-b6c4-fccc52837d32/Payload/saierte2.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-19 17:06:34,029 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/81e52ae6-7c42-4db4-a776-e75e5f12a796/Payload/saierte2.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 

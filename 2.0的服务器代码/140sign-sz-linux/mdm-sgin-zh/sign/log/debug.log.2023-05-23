@@ -1,0 +1,16 @@
+2023-05-23 02:05:51,930 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-23 02:05:52,348 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/abad0fc2-c8cd-4180-907c-5799a3947740/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-23 02:05:53,898 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/05d793ae-f4c5-450b-9715-273fae8d10e0/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-23 02:05:55,405 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/a00a3eef-3874-40c2-b178-c0577073939f/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-23 13:52:21,027 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-23 13:54:27,006 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-23 17:22:57,056 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/鸿飞棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-23 17:22:57,360 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/fe29efb3-085c-4e50-837b-add67277dcfe/Payload/鸿飞棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-23 17:22:58,874 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/75a51f9e-3bac-4669-8019-e0bd95e96b78/Payload/鸿飞棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-23 17:23:00,344 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/8ed37b90-2e3c-4031-9edc-575715a54f52/Payload/鸿飞棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-23 18:58:06,885 INFO main net.appuploader.b.l.a(?:?)  binary 信彩 bundle in  /Payload/淇″僵.app/Info.plist not found witch may cause crash 
+2023-05-23 18:58:07,058 INFO main net.appuploader.b.l.a(?:?)  binary 信彩 bundle in  /opt/mdm-sgin-zh/sign/temp/b1acb087-78f2-4732-b606-905bb8af6156/Payload/淇″僵.app/Info.plist not found witch may cause crash 
+2023-05-23 18:58:07,715 INFO main net.appuploader.b.l.a(?:?)  binary 信彩 bundle in  /opt/mdm-sgin-zh/sign/temp/bd652aac-a19a-4022-a5d8-8793054bd458/Payload/淇″僵.app/Info.plist not found witch may cause crash 
+2023-05-23 18:58:08,315 INFO main net.appuploader.b.l.a(?:?)  binary 信彩 bundle in  /opt/mdm-sgin-zh/sign/temp/c76b8286-750e-4282-910d-aa3608cf771e/Payload/淇″僵.app/Info.plist not found witch may cause crash 

@@ -1,0 +1,80 @@
+2023-04-01 00:53:00,343 ERROR Thread-20 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-01 00:53:16,602 ERROR Thread-20 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-01 00:53:24,162 ERROR Thread-20 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-01 00:53:40,062 ERROR Thread-20 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-01 00:57:25,678 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-01 00:58:01,453 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-01 08:41:37,348 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-04-01 08:41:37,765 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/53d17542-44d4-4b95-bdfc-ea8ee3425a83/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-04-01 08:41:39,326 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/37f19295-902a-49fc-a606-b3422a713f04/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-04-01 08:41:40,905 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/5c619e68-890d-4e38-be76-c51f368600dd/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-04-01 09:43:36,967 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-01 14:43:43,246 ERROR Thread-12 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-01 14:43:49,336 ERROR Thread-12 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-01 15:27:03,211 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/PKAppIM.app/hi.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,216 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/PKAppIM.app/th.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,216 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/PKAppIM.app/id.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,216 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/PKAppIM.app/vi.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,216 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/PKAppIM.app/zh-Hant.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,216 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/PKAppIM.app/Base.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,216 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/PKAppIM.app/ko.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,216 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/PKAppIM.app/ms.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,216 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/PKAppIM.app/es.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,216 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/PKAppIM.app/en.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,216 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/PKAppIM.app/ja.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,216 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/PKAppIM.app/zh-Hans.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,806 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/40e5a491-6b70-445e-808d-4a0d4dcf4c6a/Payload/PKAppIM.app/zh-Hant.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,806 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/40e5a491-6b70-445e-808d-4a0d4dcf4c6a/Payload/PKAppIM.app/Base.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,806 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/40e5a491-6b70-445e-808d-4a0d4dcf4c6a/Payload/PKAppIM.app/id.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,806 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/40e5a491-6b70-445e-808d-4a0d4dcf4c6a/Payload/PKAppIM.app/en.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,806 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/40e5a491-6b70-445e-808d-4a0d4dcf4c6a/Payload/PKAppIM.app/es.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,806 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/40e5a491-6b70-445e-808d-4a0d4dcf4c6a/Payload/PKAppIM.app/th.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,814 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/40e5a491-6b70-445e-808d-4a0d4dcf4c6a/Payload/PKAppIM.app/ms.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,814 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/40e5a491-6b70-445e-808d-4a0d4dcf4c6a/Payload/PKAppIM.app/ja.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,814 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/40e5a491-6b70-445e-808d-4a0d4dcf4c6a/Payload/PKAppIM.app/ko.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,816 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/40e5a491-6b70-445e-808d-4a0d4dcf4c6a/Payload/PKAppIM.app/hi.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,816 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/40e5a491-6b70-445e-808d-4a0d4dcf4c6a/Payload/PKAppIM.app/zh-Hans.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:03,816 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/40e5a491-6b70-445e-808d-4a0d4dcf4c6a/Payload/PKAppIM.app/vi.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:05,762 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/25ae1af5-5af2-4c47-b63d-339b5ee2f0f2/Payload/PKAppIM.app/zh-Hant.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:05,762 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/25ae1af5-5af2-4c47-b63d-339b5ee2f0f2/Payload/PKAppIM.app/Base.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:05,762 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/25ae1af5-5af2-4c47-b63d-339b5ee2f0f2/Payload/PKAppIM.app/id.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:05,762 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/25ae1af5-5af2-4c47-b63d-339b5ee2f0f2/Payload/PKAppIM.app/en.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:05,762 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/25ae1af5-5af2-4c47-b63d-339b5ee2f0f2/Payload/PKAppIM.app/es.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:05,762 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/25ae1af5-5af2-4c47-b63d-339b5ee2f0f2/Payload/PKAppIM.app/th.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:05,770 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/25ae1af5-5af2-4c47-b63d-339b5ee2f0f2/Payload/PKAppIM.app/ms.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:05,770 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/25ae1af5-5af2-4c47-b63d-339b5ee2f0f2/Payload/PKAppIM.app/ja.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:05,770 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/25ae1af5-5af2-4c47-b63d-339b5ee2f0f2/Payload/PKAppIM.app/ko.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:05,774 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/25ae1af5-5af2-4c47-b63d-339b5ee2f0f2/Payload/PKAppIM.app/hi.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:05,774 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/25ae1af5-5af2-4c47-b63d-339b5ee2f0f2/Payload/PKAppIM.app/zh-Hans.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:05,774 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/25ae1af5-5af2-4c47-b63d-339b5ee2f0f2/Payload/PKAppIM.app/vi.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:07,679 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/b122993d-989c-450a-90dc-aa9d3d759fa5/Payload/PKAppIM.app/zh-Hant.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:07,679 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/b122993d-989c-450a-90dc-aa9d3d759fa5/Payload/PKAppIM.app/Base.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:07,679 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/b122993d-989c-450a-90dc-aa9d3d759fa5/Payload/PKAppIM.app/id.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:07,679 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/b122993d-989c-450a-90dc-aa9d3d759fa5/Payload/PKAppIM.app/en.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:07,679 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/b122993d-989c-450a-90dc-aa9d3d759fa5/Payload/PKAppIM.app/es.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:07,679 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/b122993d-989c-450a-90dc-aa9d3d759fa5/Payload/PKAppIM.app/th.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:07,687 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/b122993d-989c-450a-90dc-aa9d3d759fa5/Payload/PKAppIM.app/ms.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:07,687 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/b122993d-989c-450a-90dc-aa9d3d759fa5/Payload/PKAppIM.app/ja.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:07,688 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/b122993d-989c-450a-90dc-aa9d3d759fa5/Payload/PKAppIM.app/ko.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:07,689 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/b122993d-989c-450a-90dc-aa9d3d759fa5/Payload/PKAppIM.app/hi.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:07,689 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/b122993d-989c-450a-90dc-aa9d3d759fa5/Payload/PKAppIM.app/zh-Hans.lproj/Info.plist not found witch may cause crash 
+2023-04-01 15:27:07,689 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/b122993d-989c-450a-90dc-aa9d3d759fa5/Payload/PKAppIM.app/vi.lproj/Info.plist not found witch may cause crash 
+2023-04-01 19:20:58,675 ERROR Thread-20 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-01 20:50:47,432 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-01 22:37:17,693 INFO main net.appuploader.b.l.a(?:?)  binary g16 bundle in  /Payload/g16.app/Info.plist not found witch may cause crash 
+2023-04-01 22:37:18,944 INFO main net.appuploader.b.l.a(?:?)  binary g16 bundle in  /opt/mdm-sgin-zh/sign/temp/695d2345-c975-4bb8-9982-8f8f68bd68fb/Payload/g16.app/Info.plist not found witch may cause crash 
+2023-04-01 22:37:24,898 INFO main net.appuploader.b.l.a(?:?)  binary g16 bundle in  /opt/mdm-sgin-zh/sign/temp/d314fde6-b077-48f5-98ce-4895d6ac9728/Payload/g16.app/Info.plist not found witch may cause crash 
+2023-04-01 22:49:22,893 INFO main net.appuploader.b.l.a(?:?)  binary g16 bundle in  /Payload/g16.app/Info.plist not found witch may cause crash 
+2023-04-01 22:49:24,141 INFO main net.appuploader.b.l.a(?:?)  binary g16 bundle in  /opt/mdm-sgin-zh/sign/temp/6fe002eb-04f9-4b52-8d80-f49696f394e6/Payload/g16.app/Info.plist not found witch may cause crash 
+2023-04-01 22:49:30,028 INFO main net.appuploader.b.l.a(?:?)  binary g16 bundle in  /opt/mdm-sgin-zh/sign/temp/cd964533-ed83-4754-a50e-92554bcdd82a/Payload/g16.app/Info.plist not found witch may cause crash 

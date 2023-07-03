@@ -1,0 +1,6 @@
+framework module AliyunFangYuDunSDK {
+  umbrella header "AliyunFangYuDunSDK.h"
+
+  export *
+  module * { export * }
+}

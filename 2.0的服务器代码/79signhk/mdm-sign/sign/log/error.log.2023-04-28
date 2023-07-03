@@ -1,0 +1,8 @@
+2023-04-28 16:39:37,776 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1682671177776,"message":"java.lang.UnsupportedOperationException","status":0}
+java.lang.UnsupportedOperationException
+	at kxapp.nio.zipfs.ZipFileSystemProvider.getZipFileSystem(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystemProvider.newFileSystem(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

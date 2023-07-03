@@ -1,0 +1,9 @@
+2023-01-13 13:10:59,483 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2023-01-13 13:10:59,757 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /opt/mdm-sign/sign/temp/24b8cd85-8adf-4367-80b9-007de635ccad/Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2023-01-13 13:11:00,885 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /opt/mdm-sign/sign/temp/a0ecac35-cf7e-4346-b276-9b723408fd75/Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2023-01-13 16:13:08,514 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/大满贯.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-01-13 16:13:08,895 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sign/sign/temp/450fc263-8f1c-4646-97bb-a9daef42c21e/Payload/大满贯.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-01-13 16:13:10,436 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sign/sign/temp/33aff8a4-cf40-4b20-aff7-48611df179aa/Payload/大满贯.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-01-13 18:41:13,931 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-01-13 18:41:14,345 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/034b420a-6f73-4cba-9cd1-ae080b2b9780/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-01-13 18:41:15,895 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/24c28631-69e2-408a-a9a0-6bfce634245c/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

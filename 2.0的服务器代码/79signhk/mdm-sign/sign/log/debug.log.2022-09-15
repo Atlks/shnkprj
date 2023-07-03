@@ -1,0 +1,2 @@
+2022-09-15 14:17:49,569 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/NGameTest.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-09-15 14:17:50,423 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sign/sign/temp/1b101dc8-ca9d-4d32-87af-46845aae7368/Payload/NGameTest.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 

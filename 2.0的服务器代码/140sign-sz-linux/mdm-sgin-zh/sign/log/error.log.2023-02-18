@@ -1,0 +1,21 @@
+2023-02-18 13:58:16,271 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676699896271,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-18 13:58:22,420 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676699902420,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-18 13:58:29,435 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676699909435,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

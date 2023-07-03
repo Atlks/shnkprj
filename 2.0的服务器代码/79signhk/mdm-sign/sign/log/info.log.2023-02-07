@@ -1,0 +1,44 @@
+2023-02-07 11:58:04,783 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-07 11:58:05,329 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sign/sign/temp/0b041529-26c9-4d24-89db-1dd8270d1845/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-07 11:58:22,088 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-07 11:58:22,676 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sign/sign/temp/41867406-a749-4813-82dc-5894123e25a9/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-07 16:57:29,144 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-07 16:57:29,557 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/664a537b-8974-4e85-b8c7-42c9a1b4f5c6/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-07 16:57:31,103 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/252b0295-6be0-4054-b9ff-3cb827847180/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-07 18:33:21,194 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1675766001193,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-07 18:55:07,601 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1675767307601,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-07 22:15:02,131 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2023-02-07 22:15:02,403 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /opt/mdm-sign/sign/temp/62da7c4a-6e3b-4b4a-8b7c-7168a096bcca/Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2023-02-07 22:15:03,521 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /opt/mdm-sign/sign/temp/e52f4fa0-fa1b-4038-aaa8-e77424625df2/Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 

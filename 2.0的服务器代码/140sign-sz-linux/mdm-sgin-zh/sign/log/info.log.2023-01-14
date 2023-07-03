@@ -1,0 +1,148 @@
+2023-01-14 09:50:44,278 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1673661044278,"message":"Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages","status":0}
+java.util.MissingResourceException: Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:174)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:166)
+	at java.security.AccessController.doPrivileged(AccessController.java:81)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport.getResourceBundle(SecuritySupport.java:166)
+	at com.sun.org.apache.xerces.internal.impl.msg.XMLMessageFormatter.formatMessage(XMLMessageFormatter.java:74)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:357)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1472)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2923)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:121)
+	at com.dd.plist.XMLPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at net.appuploader.e.a.b.a(Unknown Source)
+	at net.appuploader.e.a.f.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-01-14 09:52:03,818 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1673661123818,"message":"Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages","status":0}
+java.util.MissingResourceException: Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:174)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:166)
+	at java.security.AccessController.doPrivileged(AccessController.java:81)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport.getResourceBundle(SecuritySupport.java:166)
+	at com.sun.org.apache.xerces.internal.impl.msg.XMLMessageFormatter.formatMessage(XMLMessageFormatter.java:74)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:357)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1472)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2923)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:121)
+	at com.dd.plist.XMLPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at net.appuploader.e.a.b.a(Unknown Source)
+	at net.appuploader.e.a.f.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-01-14 13:36:18,045 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 13:36:18,089 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 13:36:18,194 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 13:36:20,969 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0fddac57-6e6c-4326-9b5c-c7e4c73d5e59/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 13:36:20,974 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0fddac57-6e6c-4326-9b5c-c7e4c73d5e59/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 13:36:20,998 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0fddac57-6e6c-4326-9b5c-c7e4c73d5e59/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 13:36:36,980 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/25c2da5d-2b29-4504-ab42-9374a53cd8c5/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 13:36:36,984 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/25c2da5d-2b29-4504-ab42-9374a53cd8c5/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 13:36:37,009 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/25c2da5d-2b29-4504-ab42-9374a53cd8c5/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 13:36:54,942 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/78d04a98-6954-4552-922b-b29237b9d39b/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 13:36:54,947 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/78d04a98-6954-4552-922b-b29237b9d39b/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 13:36:54,972 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/78d04a98-6954-4552-922b-b29237b9d39b/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 15:57:03,912 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 15:57:04,128 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 15:57:04,172 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 15:57:06,951 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d5979b11-f981-40db-a8da-709a09fde85c/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 15:57:06,956 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d5979b11-f981-40db-a8da-709a09fde85c/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 15:57:06,979 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d5979b11-f981-40db-a8da-709a09fde85c/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 15:57:24,912 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3f94a3fb-5746-4f0d-aab2-9f6757cfc251/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 15:57:24,917 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3f94a3fb-5746-4f0d-aab2-9f6757cfc251/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 15:57:24,942 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3f94a3fb-5746-4f0d-aab2-9f6757cfc251/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 15:57:42,843 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/dfa9bfab-e572-45ae-ae43-30811d99960b/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 15:57:42,848 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/dfa9bfab-e572-45ae-ae43-30811d99960b/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 15:57:42,872 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/dfa9bfab-e572-45ae-ae43-30811d99960b/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-14 16:24:48,207 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1673684688207,"message":"Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages","status":0}
+java.util.MissingResourceException: Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:174)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:166)
+	at java.security.AccessController.doPrivileged(AccessController.java:81)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport.getResourceBundle(SecuritySupport.java:166)
+	at com.sun.org.apache.xerces.internal.impl.msg.XMLMessageFormatter.formatMessage(XMLMessageFormatter.java:74)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:357)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1472)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2923)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:121)
+	at com.dd.plist.XMLPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at net.appuploader.e.a.b.a(Unknown Source)
+	at net.appuploader.e.a.f.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-01-14 23:30:17,550 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1673710217550,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-01-14 23:35:30,863 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1673710530863,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

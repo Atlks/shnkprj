@@ -1,0 +1,12 @@
+2022-10-17 17:53:33,691 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1666000413691,"message":"extract file fail with copy file fail invalid code lengths set","status":0}
+net.appuploader.b.d: extract file fail with copy file fail invalid code lengths set
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-17 17:53:34,250 ERROR pool-2-thread-6 net.appuploader.b.x.run(?:?)  unzip fail with invalid code lengths set

@@ -1,0 +1,50 @@
+2023-02-13 13:27:01,370 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-13 13:27:02,639 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/ee9a6f32-ee31-4f2e-b515-6a9f7d22a98d/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-13 13:27:03,944 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-13 13:27:06,259 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f53f1ed6-95cf-4c07-bcc8-2d7557309a66/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-13 13:27:18,088 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/1b0bf048-341a-44e4-bb33-add123557039/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-13 13:27:22,599 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/2507e295-8807-41fd-8e84-be8db74807b5/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-13 14:34:34,994 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676270074994,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-13 18:53:59,920 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼 bundle in  /Payload/ 鑫鑫街机捕鱼.app/Info.plist not found witch may cause crash 
+2023-02-13 18:54:00,027 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676285640027,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-13 18:54:00,265 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼 bundle in  /opt/mdm-sgin-zh/sign/temp/ef2f9630-b08c-4875-94b1-d53af5a366d7/Payload/ 鑫鑫街机捕鱼.app/Info.plist not found witch may cause crash 
+2023-02-13 18:54:00,278 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676285640278,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-13 18:54:00,567 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼 bundle in  /opt/mdm-sgin-zh/sign/temp/011c04c2-f7b8-400d-8bba-973bdbe31f15/Payload/ 鑫鑫街机捕鱼.app/Info.plist not found witch may cause crash 
+2023-02-13 18:54:00,581 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676285640581,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-13 19:23:35,240 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2023-02-13 19:23:35,800 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/96f66669-af28-4b29-a758-4098f5e47e14/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2023-02-13 19:23:37,516 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/512237e1-4d9b-4412-b54c-6944cf01948a/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 

@@ -1,0 +1,8 @@
+2023-06-27 17:05:40,825 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-27 17:05:41,204 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/cffadde8-a2a7-4894-a5ed-4406507b462e/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-27 17:05:42,663 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/7273e192-1692-4999-b823-5c7427fac35e/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-27 17:05:44,102 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/083054e7-9d89-4ceb-8e09-2c6da9bd2f1f/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-27 18:23:41,730 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-27 18:23:42,153 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/e2a7b97c-c345-4c48-83fc-6e6e41ae8c99/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-27 18:23:43,715 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/0b11cc6a-5a9c-4449-beb8-95b8d11e5780/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-27 18:23:45,330 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/10298ecd-e553-4c41-ba88-3b15f3a4b9cc/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

@@ -1,0 +1,26 @@
+2022-12-06 09:42:45,932 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /Payload/????.app/Info.plist not found witch may cause crash 
+2022-12-06 09:42:46,315 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sgin-zh/sign/temp/b947a823-3602-42e4-9004-1b8a2389fa93/Payload/????.app/Info.plist not found witch may cause crash 
+2022-12-06 09:42:47,757 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sgin-zh/sign/temp/37a14cf7-4b27-4c32-a077-2cea7d256b1c/Payload/????.app/Info.plist not found witch may cause crash 
+2022-12-06 09:42:49,162 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sgin-zh/sign/temp/c6dc6957-cdab-4c50-9ae1-f0367daff76a/Payload/????.app/Info.plist not found witch may cause crash 
+2022-12-06 16:57:55,640 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/黄金轮.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 16:57:56,010 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/bc2615f3-a32d-42d8-b9fd-553a820bc10a/Payload/黄金轮.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 16:57:57,372 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/e8ab5353-dad6-422b-a22a-256fee7256d0/Payload/黄金轮.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 16:57:58,762 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/cbd1a445-3ed6-4671-ae96-4d01ec14d801/Payload/黄金轮.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 17:01:09,159 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/共富国际.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 17:01:09,560 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/6399eb7e-5922-4c31-b9a5-74fef97a659f/Payload/共富国际.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 17:01:11,281 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/d411f03f-7b5b-4884-bf0f-9985c7584f70/Payload/共富国际.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 17:01:12,842 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/5fd13b5b-6cdd-43f2-9612-fb7d282ca4a9/Payload/共富国际.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 17:10:35,412 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 17:10:35,810 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/97074879-894b-4254-86c0-6a5cd886ae4d/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 17:10:37,275 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/11704af4-7041-48e0-a88b-8fff8d734a59/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 17:10:38,808 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/d537dadf-910d-48c7-a9a1-61760d8031f8/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 17:21:47,867 ERROR Thread-70 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-06 17:23:22,975 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 17:23:23,386 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/ae93a216-3dc6-49d2-a730-f3f6a2fb07d4/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 17:23:24,891 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/78d3b8e8-c9e4-4c6b-a389-2a99089a6012/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 17:23:26,362 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/6977e175-b667-488f-a71c-b893781a4572/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-06 18:46:26,712 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /Payload/????.app/Info.plist not found witch may cause crash 
+2022-12-06 18:46:27,104 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sgin-zh/sign/temp/1d9265ad-d14a-4acf-9298-e40d0ee9b49d/Payload/????.app/Info.plist not found witch may cause crash 
+2022-12-06 18:46:28,539 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sgin-zh/sign/temp/30dcd2ab-2f44-4aab-ab32-528611c2c3b6/Payload/????.app/Info.plist not found witch may cause crash 
+2022-12-06 18:46:29,943 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sgin-zh/sign/temp/da0424bd-1772-46f4-9e73-d5385bd56c7b/Payload/????.app/Info.plist not found witch may cause crash 

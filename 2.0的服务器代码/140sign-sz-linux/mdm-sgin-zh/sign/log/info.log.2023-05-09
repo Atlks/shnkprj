@@ -1,0 +1,16 @@
+2023-05-09 10:12:33,938 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-09 10:12:33,996 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/53b28445-2066-4f74-93aa-596156bcabe6/Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-09 10:12:34,215 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/05deee65-8f34-4f33-b14a-3a35d6631966/Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-09 10:12:34,425 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0e53d601-c6aa-4dd1-8695-356c77028199/Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-09 10:58:11,772 ERROR Thread-13 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-09 14:44:10,516 ERROR Thread-85 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-09 15:33:35,610 ERROR Thread-57 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-09 17:02:49,025 ERROR Thread-57 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-09 20:26:07,689 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-09 21:35:06,005 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

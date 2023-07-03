@@ -1,0 +1,17 @@
+2023-06-12 17:26:31,152 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 17:26:31,587 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/9b046de3-1c40-402f-81b8-027bec28f9dd/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 17:26:33,373 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/98ac654b-f52a-4890-ba59-763d2a8b33db/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 17:27:00,307 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 17:27:00,690 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/51d64890-558e-4532-827b-4b44b029031c/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 17:27:03,094 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/c36e51d6-91a9-4f68-9dfa-62366b2c9b30/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 17:28:38,816 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 17:28:39,192 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/5321d6e6-d189-4439-8201-09fcfacbdb0c/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 17:28:40,890 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/4c1c1ba6-d9a6-44ea-8ca4-cbf205828434/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-12 17:29:59,827 ERROR Thread-9 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 17:35:28,134 ERROR Thread-48 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 17:39:54,183 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-12 17:40:06,872 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

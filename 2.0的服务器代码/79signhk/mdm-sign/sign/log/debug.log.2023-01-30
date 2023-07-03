@@ -1,0 +1,2 @@
+2023-01-30 13:49:56,943 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/LWSY.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2023-01-30 13:49:59,086 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sign/sign/temp/d7d4cfc5-d981-4c17-98ec-91c3b74634ba/Payload/LWSY.app/5uwantw.bundle/Info.plist not found witch may cause crash 

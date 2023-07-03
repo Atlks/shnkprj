@@ -1,0 +1,94 @@
+2022-06-24 12:00:33,727 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1656043233727,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-06-24 12:00:33,892 INFO main net.appuploader.b.l.a(?:?)  binary 鸿运互娱 bundle in  /opt/mdm-sgin-zh/sign/temp/9d2c74d9-76c1-4c22-81c2-fe3fd1ac16b7/Payload/???˻???.app/Info.plist not found witch may cause crash 
+2022-06-24 12:00:33,906 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1656043233906,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-06-24 12:00:34,084 INFO main net.appuploader.b.l.a(?:?)  binary 鸿运互娱 bundle in  /opt/mdm-sgin-zh/sign/temp/e799b262-2a63-43c0-928d-816bd215c24e/Payload/???˻???.app/Info.plist not found witch may cause crash 
+2022-06-24 12:00:34,097 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1656043234097,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-06-24 14:23:18,269 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:23:18,836 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:23:20,116 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/4f78dcc4-9466-4933-a7fc-a28d57abbc08/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:23:20,117 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/4f78dcc4-9466-4933-a7fc-a28d57abbc08/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:23:28,494 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/f9cd8b9a-fc06-4b41-91d1-902605f086de/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:23:28,495 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/f9cd8b9a-fc06-4b41-91d1-902605f086de/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:23:59,684 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:23:59,684 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:24:00,549 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/cd88d9f9-9391-423f-ab8a-1f7c1f1882f8/Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:24:00,549 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/cd88d9f9-9391-423f-ab8a-1f7c1f1882f8/Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:24:05,635 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/4274a47f-5ffd-4105-8bad-943bc415b606/Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:24:05,635 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/4274a47f-5ffd-4105-8bad-943bc415b606/Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:24:09,372 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/ecd6574b-955b-48b0-bf73-e3da4f5460bb/Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:24:09,372 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/ecd6574b-955b-48b0-bf73-e3da4f5460bb/Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:25:07,999 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:25:07,999 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:25:09,299 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/8ad3b8cb-56fe-4763-812f-7a531a973f4d/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:25:09,299 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/8ad3b8cb-56fe-4763-812f-7a531a973f4d/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:25:17,637 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/8a1da152-8190-4b1f-b5ca-95c70c6a6c66/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:25:17,638 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/8a1da152-8190-4b1f-b5ca-95c70c6a6c66/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:25:26,033 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/7bc0b090-0a2c-4f30-a3e4-fff37f009d20/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 14:25:26,033 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/7bc0b090-0a2c-4f30-a3e4-fff37f009d20/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-06-24 15:07:45,430 INFO main net.appuploader.b.l.a(?:?)  binary DDProgressHUD bundle in  /Payload/FU.app/DDProgressHUD.bundle/Info.plist not found witch may cause crash 
+2022-06-24 15:07:45,843 INFO main net.appuploader.b.l.a(?:?)  binary DDProgressHUD bundle in  /opt/mdm-sgin-zh/sign/temp/b2d3614f-e0e4-4e5d-be30-cec134cc35e9/Payload/FU.app/DDProgressHUD.bundle/Info.plist not found witch may cause crash 
+2022-06-24 15:07:48,097 INFO main net.appuploader.b.l.a(?:?)  binary DDProgressHUD bundle in  /opt/mdm-sgin-zh/sign/temp/ad060906-2726-4eae-87f2-bc1aafa407d6/Payload/FU.app/DDProgressHUD.bundle/Info.plist not found witch may cause crash 
+2022-06-24 15:07:50,246 INFO main net.appuploader.b.l.a(?:?)  binary DDProgressHUD bundle in  /opt/mdm-sgin-zh/sign/temp/4c88f05b-f428-4b85-a941-23c7b5076598/Payload/FU.app/DDProgressHUD.bundle/Info.plist not found witch may cause crash 
+2022-06-24 15:35:09,126 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1656056109126,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-06-24 15:35:09,296 INFO main net.appuploader.b.l.a(?:?)  binary 鸿运互娱 bundle in  /opt/mdm-sgin-zh/sign/temp/cc9668d5-415f-4202-802e-d4577d2bb0ab/Payload/???˻???.app/Info.plist not found witch may cause crash 
+2022-06-24 15:35:09,310 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1656056109310,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-06-24 15:35:09,486 INFO main net.appuploader.b.l.a(?:?)  binary 鸿运互娱 bundle in  /opt/mdm-sgin-zh/sign/temp/ae855231-69b9-4dcd-8515-3ff560867f1f/Payload/???˻???.app/Info.plist not found witch may cause crash 
+2022-06-24 15:35:09,500 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1656056109500,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-06-24 21:30:17,593 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

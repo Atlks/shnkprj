@@ -1,0 +1,31 @@
+2023-05-26 19:21:41,861 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/JiuMengXianYu.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-26 19:21:42,522 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/f6ceb3ef-02d0-4d32-bb15-5c10e0f1bc8c/Payload/JiuMengXianYu.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-26 19:21:47,126 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/e47d5123-ed6c-4f15-bd2a-afd530181e7d/Payload/JiuMengXianYu.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-26 20:38:37,757 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1685104717757,"message":"MALFORMED[2]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[2]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-26 21:09:06,410 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1685106546410,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-26 23:17:34,563 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/cq_dev.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-26 23:17:35,366 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/516de42d-a537-4ddc-a520-b2f4f3003190/Payload/cq_dev.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-26 23:17:37,983 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/2d7e2188-b30e-4b86-8232-673a962c00a2/Payload/cq_dev.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 

@@ -1,0 +1,50 @@
+2023-04-17 00:34:49,957 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-17 11:54:58,350 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 11:54:58,424 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 11:55:01,163 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/d9b72ec3-9f6e-4a43-b5f3-482691da5e05/Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 11:55:01,174 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/d9b72ec3-9f6e-4a43-b5f3-482691da5e05/Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 11:55:20,318 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/bd4cf549-baba-4d5d-a760-230ba245baec/Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 11:55:20,329 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/bd4cf549-baba-4d5d-a760-230ba245baec/Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 11:55:39,505 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/5e0006ba-63fc-4795-b556-af3904ce83a6/Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 11:55:39,516 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/5e0006ba-63fc-4795-b556-af3904ce83a6/Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 12:07:13,131 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /Payload/传奇游戏合集.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2023-04-17 12:07:13,131 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/传奇游戏合集.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-17 12:07:13,205 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/91edbbea-4a3b-4dff-9ae8-5685565c1f9e/Payload/传奇游戏合集.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2023-04-17 12:07:13,206 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/91edbbea-4a3b-4dff-9ae8-5685565c1f9e/Payload/传奇游戏合集.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-17 12:07:13,585 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/7339e939-0f6b-40e8-8c94-cc24b61a7678/Payload/传奇游戏合集.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2023-04-17 12:07:13,585 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/7339e939-0f6b-40e8-8c94-cc24b61a7678/Payload/传奇游戏合集.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-17 12:07:13,959 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/b63c5654-6b18-4539-a36d-6d5746bba3c2/Payload/传奇游戏合集.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2023-04-17 12:07:13,959 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/b63c5654-6b18-4539-a36d-6d5746bba3c2/Payload/传奇游戏合集.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-17 13:49:01,786 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-17 13:53:20,089 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 13:53:20,164 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 13:53:22,924 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/5ed6217b-416a-4803-a83e-945d450bf34e/Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 13:53:22,935 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/5ed6217b-416a-4803-a83e-945d450bf34e/Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 13:53:42,114 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/c2040429-b19a-43e0-a0d3-43ebbb951612/Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 13:53:42,125 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/c2040429-b19a-43e0-a0d3-43ebbb951612/Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 13:54:01,255 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/e5da3486-e337-4b7b-9be4-62d79f822a0e/Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 13:54:01,266 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/e5da3486-e337-4b7b-9be4-62d79f822a0e/Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-17 14:55:52,422 ERROR Thread-24 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-17 15:57:21,828 ERROR Thread-26 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-17 15:59:35,661 ERROR Thread-26 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-17 16:01:31,721 ERROR Thread-26 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-17 17:05:37,261 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-17 18:08:27,561 ERROR Thread-50 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-17 18:10:16,525 ERROR Thread-12 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-17 19:18:50,753 ERROR Thread-56 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-17 19:19:08,659 ERROR Thread-55 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-17 19:19:10,805 ERROR Thread-55 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-17 20:24:28,102 ERROR Thread-52 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

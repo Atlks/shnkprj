@@ -1,0 +1,31 @@
+2022-07-13 15:35:03,523 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/NGameTest.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-13 15:35:04,357 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d6f8870a-783f-4346-9a98-55e962b2261a/Payload/NGameTest.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-13 15:35:09,938 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/11183768-b4ab-4522-a3a4-62d8acc1e571/Payload/NGameTest.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-13 15:36:56,714 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/NGameTest.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-13 15:36:58,242 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/06962326-16d8-4a87-b9bb-4444803344cf/Payload/NGameTest.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-13 15:37:03,669 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/67191ec7-c18e-44b8-9c31-f24cc643ead0/Payload/NGameTest.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-13 15:37:08,989 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/9467a04e-a7ad-460e-becf-fac26fd5dd9a/Payload/NGameTest.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-13 17:13:01,447 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-07-13 19:24:02,781 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:24:03,558 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/0a3156c8-7891-4c82-8262-6119aa677e4b/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:24:08,418 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/0afc9040-9987-4663-96e2-36cd276f07dd/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:24:25,371 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:24:26,171 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/f3d77fc7-a78a-4aac-a252-c7aa02eb4e32/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:24:30,960 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/6ef76fe5-f6ff-4be0-b28f-b435212534e7/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:28:46,546 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:28:47,327 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/995ea7d3-2717-45b9-883e-0917a8123fa4/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:28:52,176 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/74bdcbc5-d6f0-4777-9ef2-78efa2040671/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:28:57,017 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/8170bfaf-66a3-432d-aa72-c84a39c3093f/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:29:00,548 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:29:01,368 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/45b9f023-b50d-445c-aabe-44cd9030e4f3/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:29:06,352 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/d0f8cc0c-7bc1-4a5c-9af5-4b8810e8280f/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:29:11,302 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/ab424f81-a4c7-4366-9cd3-c64803fa7293/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:30:20,664 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:30:21,450 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/27d21b8f-0cc5-4b81-9561-a7fd55106f0d/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:30:26,286 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/8291c929-8d78-4522-bad0-719fa3775085/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 19:30:31,072 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/1b06659d-0322-48bb-801b-f403b278578b/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-13 23:33:21,776 INFO main net.appuploader.b.l.a(?:?)  binary 红河 bundle in  /Payload/绾㈡渤.app/Info.plist not found witch may cause crash 
+2022-07-13 23:33:22,565 INFO main net.appuploader.b.l.a(?:?)  binary 红河 bundle in  /opt/mdm-sgin-zh/sign/temp/ed2abe79-5e74-48de-9bdd-094184962bdc/Payload/绾㈡渤.app/Info.plist not found witch may cause crash 
+2022-07-13 23:33:25,770 INFO main net.appuploader.b.l.a(?:?)  binary 红河 bundle in  /opt/mdm-sgin-zh/sign/temp/4e25dd3b-d4da-4131-9db5-b4a8c1732d0e/Payload/绾㈡渤.app/Info.plist not found witch may cause crash 
+2022-07-13 23:33:28,885 INFO main net.appuploader.b.l.a(?:?)  binary 红河 bundle in  /opt/mdm-sgin-zh/sign/temp/53f67d95-ad2b-4406-8210-f56ecf741907/Payload/绾㈡渤.app/Info.plist not found witch may cause crash 

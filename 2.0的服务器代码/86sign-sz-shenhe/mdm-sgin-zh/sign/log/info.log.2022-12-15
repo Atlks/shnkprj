@@ -1,0 +1,42 @@
+2022-12-15 17:24:12,071 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1671096252071,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-15 17:24:12,285 INFO main net.appuploader.b.l.a(?:?)  binary 天下秀 bundle in  /opt/mdm-sgin-zh/sign/temp/74c40170-dc80-4b8a-a1ad-9bebd7c8864f/Payload/??????.app/Info.plist not found witch may cause crash 
+2022-12-15 17:24:12,296 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1671096252296,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-15 17:24:12,522 INFO main net.appuploader.b.l.a(?:?)  binary 天下秀 bundle in  /opt/mdm-sgin-zh/sign/temp/d3fc0b3f-7255-4c51-878b-78c4feab9951/Payload/??????.app/Info.plist not found witch may cause crash 
+2022-12-15 17:24:12,532 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1671096252532,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-15 17:24:12,545 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-12-15 17:24:13,116 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-12-15 17:24:14,509 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/4a8e7a16-098c-448b-a62e-d219a56d3e3f/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-12-15 17:24:14,509 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/4a8e7a16-098c-448b-a62e-d219a56d3e3f/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-12-15 17:24:25,220 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/79b71567-e320-47e7-a30d-e449748f7ed8/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-12-15 17:24:25,221 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/79b71567-e320-47e7-a30d-e449748f7ed8/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-12-15 20:31:36,671 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/FanXingSDKTest.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-15 20:31:36,684 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/4e4c7e16-d0de-4b5e-a39c-e135e5f484da/Payload/FanXingSDKTest.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-15 20:31:36,725 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/825a3835-1b38-4488-a67a-36eb2d950325/Payload/FanXingSDKTest.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 

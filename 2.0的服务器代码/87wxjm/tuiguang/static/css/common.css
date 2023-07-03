@@ -1,0 +1,249 @@
+﻿.headers {
+  width: 100%;
+  height: 64px;
+  background: #536BF5;
+}
+.float-headers {
+  position: absolute;
+  top: 0;
+  z-index: 1000;
+  background: transparent;
+}
+.header-wrap {
+  width: 1200px;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-wrap .logo img {
+  display: block;
+  width: 150px;
+  height: 51.5px;
+}
+.header-wrap .navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 50px;
+  font-size: 16px;
+  height: 64px;
+  line-height: 64px;
+  color: #fff;
+}
+.header-wrap .navigation li {
+  position: relative;
+  margin: 0 20px;
+}
+.header-wrap .navigation li.active {
+  transition: transform .4s;
+}
+.header-wrap .navigation li.active:after {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 50%;
+  bottom: 10px;
+  transform: translateX(-50%);
+  width: 30px;
+  height: 3px;
+  background: #fff;
+}
+
+.float {
+  position: fixed;
+  right: 60px;
+  bottom: 80px;
+  width: 100px;
+  text-align: center;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0 0 5px 5px rgba(200, 200, 200, .1);
+  z-index: 1000;
+}
+.float > ul > li {
+  padding: 13px 0;
+  border-bottom: 1px solid #E7E7E7;
+  position: relative;
+}
+.float > ul > li p {
+  font-size: 12px;
+}
+.float > ul > li img {
+  width: 36px;
+  height: 36px;
+}
+.float > ul > li img.qrcode {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  top: 0;
+  left: -120px;
+  display: none;
+}
+.float > ul > li.wx-area:hover .qrcode {
+  display: block;
+}
+.float > ul > li.qq-area:hover .qq-box {
+  display: block;
+}
+.float .qq-box {
+  border: 1px solid #E6E6E6;
+  position: absolute;
+  top: -60px;
+  right: 100px;
+  background: #fff;
+  display: none;
+  min-width: 170px;
+}
+.float .qq-box li a {
+  display: flex;
+  padding: 12px 13px;
+  font-size: 14px;
+}
+.float .qq-box li a img {
+  margin-right: 10px;
+}
+.float .qq-box li a p {
+  font-size: 14px;
+}
+.float .qq-box li a span {
+  color: #999;
+}
+.float .bottom {
+  background: #536BF5;
+  height: 40px;
+  line-height: 40px;
+  cursor: pointer;
+}
+.float .bottom img {
+  width: 16px;
+  height: 16px;
+  transform: rotate(180deg);
+}
+
+.footer {
+  background: #141818;
+  color: #A7A7A7;
+}
+.footer-body {
+  display: flex;
+  justify-content: space-between;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 77px 0 30px;
+}
+.footer-body h6 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+.footer-body ul {
+  display: flex;
+}
+.footer-body ul li {
+  border-left: 1px solid #A7A7A7;
+  padding-left: 50px;
+  width: 200px;
+}
+.footer-body ul li p {
+  margin: 20px 0;
+}
+.footer-body ul li p:last-child {
+  margin: 0;
+}
+.footer-body .qrcode-area {
+  text-align: center;
+}
+.footer-body .qrcode-area img {
+  display: block;
+  width: 120px;
+  height: 120px;
+  margin: 30px auto 20px;
+}
+.footer .friend {
+  padding-bottom: 20px;
+  width: 1000px;
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer .friend a {
+  margin-right: 10px;
+}
+.footer .backup {
+  padding: 30px 0;
+  width: 1000px;
+  margin: 0 auto;
+  /* display: none; */
+  justify-content: space-between;
+  align-items: center;
+}
+.footer .backup .auth-area img {
+  width: 100px;
+  height: 35px;
+  margin-left: 20px;
+}
+
+.notice {
+  position: relative;
+  z-index: 1500;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 0 0 5px 5px rgba(222, 222, 222, .3);
+}
+.notice p {
+  width: 50%;
+  text-align: center;
+  padding: 0 20px;
+  line-height: 1.5;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.notice .notice-right {
+  position: absolute;
+  top: 15px;
+  right: 25px;
+  display: flex;
+  align-items: center;
+}
+.notice button {
+  height: 30px;
+  margin-right: 25px;
+  padding: 0 10px;
+  cursor: pointer;
+  border-radius: 6px;
+  font-size: 14px;
+}
+.notice img.tip-qrcode {
+  display: block;
+  width: 50px;
+  height: 50px;
+  margin: 0 25px;
+}
+.notice .tip-img-wrap {
+  position: relative;
+}
+.notice .tip-img-wrap:hover .tip-qrcode-pop {
+  display: block;
+}
+.notice img.tip-qrcode-pop {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 50px;
+  right: 25px;
+  z-index: 1000;
+  display: none;
+}

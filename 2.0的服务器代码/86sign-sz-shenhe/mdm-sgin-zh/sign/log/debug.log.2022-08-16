@@ -1,0 +1,47 @@
+2022-08-16 09:50:24,624 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/qijimyqj.app/Frameworks/UnityFramework.framework/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 09:50:24,624 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/qijimyqj.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 09:50:26,667 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/a98ab121-7388-4425-9921-0db1b1dd4682/Payload/qijimyqj.app/Frameworks/UnityFramework.framework/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 09:50:26,667 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/a98ab121-7388-4425-9921-0db1b1dd4682/Payload/qijimyqj.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 09:50:36,578 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/a3cae5fa-7ea4-49ba-8d98-3a7db1a50b10/Payload/qijimyqj.app/Frameworks/UnityFramework.framework/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 09:50:36,579 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/a3cae5fa-7ea4-49ba-8d98-3a7db1a50b10/Payload/qijimyqj.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 11:58:11,279 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/Unity-iphone.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-16 11:58:12,335 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/2ec45166-5aaf-4720-b715-fdc518515387/Payload/Unity-iphone.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-16 11:58:19,127 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/5b2494cb-a983-48ee-8e4e-859382a4e0ea/Payload/Unity-iphone.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-16 12:04:30,420 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-08-16 12:04:31,238 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/1eff531b-43e6-4b4e-9ab6-b3334e403ea5/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-08-16 12:04:37,615 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/1b181168-8f0a-40fa-b995-aefa56c64f9b/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-08-16 14:31:52,749 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/qijimyqj.app/Frameworks/UnityFramework.framework/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 14:31:52,749 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/qijimyqj.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 14:31:54,781 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/2578da97-ee1b-45c5-b597-4b599d3aa9f6/Payload/qijimyqj.app/Frameworks/UnityFramework.framework/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 14:31:54,781 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/2578da97-ee1b-45c5-b597-4b599d3aa9f6/Payload/qijimyqj.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 14:32:05,774 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/5e3cd808-139f-48a4-a47c-0146096c4c5d/Payload/qijimyqj.app/Frameworks/UnityFramework.framework/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 14:32:05,775 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/5e3cd808-139f-48a4-a47c-0146096c4c5d/Payload/qijimyqj.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 14:32:39,098 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-08-16 14:32:39,976 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/251a426d-99c8-4898-a500-5eed72dc9885/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-08-16 14:32:50,018 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/8c530e39-b3f7-465d-8e3d-c84198f7ea72/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-08-16 16:53:23,979 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-08-16 16:53:24,794 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/1243540c-ee50-4751-8919-8f9c87165285/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-08-16 16:53:31,225 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/0b51459f-fee8-4673-bc36-ebe438f7efcb/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-08-16 17:34:32,181 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1660642472181,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-08-16 18:22:07,614 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/sanrenwushuang.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-16 18:22:08,905 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/94c3bd9b-28a0-425b-bdbd-2e94e0215dbc/Payload/sanrenwushuang.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-16 18:22:13,357 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/93793a62-2c07-4592-8c31-85fd04d4fb80/Payload/sanrenwushuang.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-16 19:27:29,953 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 19:27:30,503 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/ad41e1e2-100d-4d8d-ade8-ce322ab6ce5f/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-16 19:27:32,231 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/456301e5-5d15-4387-8aab-d36c3d0c7350/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 

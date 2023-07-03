@@ -1,0 +1,22 @@
+2022-10-25 08:02:40,797 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-25 08:02:41,813 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/13e59fe8-a545-466c-8290-b1319668311f/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-25 08:02:44,767 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/af97b2ff-9605-4e33-a7bc-0c1b6442280c/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-25 08:30:51,203 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-25 08:30:52,770 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/f8cceafb-788d-4c24-96ea-67267defdb77/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-25 08:30:58,556 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/f1ae9585-ee36-443e-840f-f079d7fb641e/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-25 11:31:19,839 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-10-25 13:30:16,937 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-25 13:30:16,937 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-25 13:30:17,816 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/65bd5017-e22b-493f-bcaa-1b882ddc01f0/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-25 13:30:17,854 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/65bd5017-e22b-493f-bcaa-1b882ddc01f0/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-25 16:24:25,422 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-25 16:24:26,122 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/fe0fe382-1d8e-42c5-a915-3a997883840e/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-25 16:24:29,175 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/9c5b6d67-2364-4740-baa2-ce90953c682d/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-25 17:16:59,000 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-25 17:16:59,000 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-25 17:17:00,629 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/ecf4607c-f8a4-4f21-a598-013947ef200e/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-25 17:17:00,666 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/ecf4607c-f8a4-4f21-a598-013947ef200e/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-25 23:59:30,259 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-25 23:59:30,908 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/5897b176-6cac-4a54-8e69-31ea74e92495/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-25 23:59:33,682 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/96e748c1-b02c-480f-97c6-13a54db6f25d/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

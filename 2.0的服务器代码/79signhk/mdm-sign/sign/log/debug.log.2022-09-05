@@ -1,0 +1,19 @@
+2022-09-05 16:09:24,207 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1662365364207,"message":"MALFORMED[2]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[2]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-09-05 16:09:24,375 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sign/sign/temp/8c811f39-5396-4f77-a912-0daecce4edc7/Payload/????.app/Info.plist not found witch may cause crash 
+2022-09-05 16:09:25,562 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sign/sign/temp/bce2735f-e9a0-44a4-9967-2abf5605bca2/Payload/????.app/Info.plist not found witch may cause crash 

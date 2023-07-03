@@ -1,0 +1,71 @@
+2022-12-10 07:57:25,680 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 07:57:26,127 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/8a4bc997-532d-4b1f-bd2d-f0485f8e3a1a/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 07:57:27,774 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/192377c3-e25d-489e-a1a1-94552179f9c5/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 07:57:49,160 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/Leiniulvse.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 07:57:50,117 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/fe5b5f5a-af85-442d-b29b-2217ec22d328/Payload/Leiniulvse.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 07:57:54,379 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0a11ff73-a6e6-4c91-ad82-3b522f991e0a/Payload/Leiniulvse.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 12:17:48,833 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/com.ultra.hw.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 12:17:49,895 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/efad6a4e-bbc8-4b87-b2ed-284d6f8c9297/Payload/com.ultra.hw.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 12:17:55,929 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/5c06f29f-fbde-4bfd-b3da-6c604c73000b/Payload/com.ultra.hw.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 17:50:35,861 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-12-10 17:50:41,979 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/70923278-e8f5-4665-97f4-d5d6539a5c8d/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-12-10 17:51:12,303 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/22f5725f-daa1-4de5-b726-19eec644b26e/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-12-10 19:15:57,504 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 19:15:58,720 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/60d09264-158f-4239-bc62-8bf127793055/Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 19:16:06,864 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/aec5b3bf-99ee-447b-bd4f-7ced1a9847f3/Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 19:38:59,599 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1670672339599,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-10 19:38:59,793 INFO main net.appuploader.b.l.a(?:?)  binary 天下秀 bundle in  /opt/mdm-sgin-zh/sign/temp/aa203e8c-7d2c-4f78-8956-48c3dd3601d3/Payload/??????.app/Info.plist not found witch may cause crash 
+2022-12-10 19:38:59,803 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1670672339803,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-10 19:39:00,023 INFO main net.appuploader.b.l.a(?:?)  binary 天下秀 bundle in  /opt/mdm-sgin-zh/sign/temp/158ec309-e4a0-4b4c-bced-01751512ab68/Payload/??????.app/Info.plist not found witch may cause crash 
+2022-12-10 19:39:00,033 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1670672340033,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-10 19:47:09,723 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-12-10 19:47:15,892 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/29d6e96e-265e-4e54-874f-2cfb01f74c05/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-12-10 19:47:46,796 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/0837d41b-132e-4458-9091-3ba5e9bb2cc5/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-12-10 20:34:40,145 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1670675680145,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-10 22:40:22,870 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 22:40:23,691 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/5d1436b1-678e-442c-b4ba-1b55b05cfeae/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-10 22:40:30,498 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/b007adfe-78fb-478e-97da-a2665505f513/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 

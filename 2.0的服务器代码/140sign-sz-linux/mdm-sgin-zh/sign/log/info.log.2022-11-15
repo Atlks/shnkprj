@@ -1,0 +1,100 @@
+2022-11-15 13:40:17,059 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1668490817059,"message":"Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages","status":0}
+java.util.MissingResourceException: Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:174)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:166)
+	at java.security.AccessController.doPrivileged(AccessController.java:81)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport.getResourceBundle(SecuritySupport.java:166)
+	at com.sun.org.apache.xerces.internal.impl.msg.XMLMessageFormatter.formatMessage(XMLMessageFormatter.java:74)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:357)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1472)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2923)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:121)
+	at com.dd.plist.XMLPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at net.appuploader.e.a.b.a(Unknown Source)
+	at net.appuploader.e.a.f.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-11-15 13:42:01,061 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1668490921061,"message":"Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages","status":0}
+java.util.MissingResourceException: Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:174)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:166)
+	at java.security.AccessController.doPrivileged(AccessController.java:81)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport.getResourceBundle(SecuritySupport.java:166)
+	at com.sun.org.apache.xerces.internal.impl.msg.XMLMessageFormatter.formatMessage(XMLMessageFormatter.java:74)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:357)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1472)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2923)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:121)
+	at com.dd.plist.XMLPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at net.appuploader.e.a.b.a(Unknown Source)
+	at net.appuploader.e.a.f.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-11-15 15:17:47,486 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/FGCQLibClient-mobile.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 15:17:47,975 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/53fb0f19-4d75-4a26-80a7-82f03e3f42eb/Payload/FGCQLibClient-mobile.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 15:17:49,544 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/b57e9946-75b2-4fc6-a6b1-8bf6a0d25f3b/Payload/FGCQLibClient-mobile.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 15:17:51,082 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/b6c68f5d-6fac-4425-8d2c-e960b7cb84bd/Payload/FGCQLibClient-mobile.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:02:59,182 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /Payload/FGCQLibClient-mobile.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:02:59,227 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /Payload/FGCQLibClient-mobile.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:02:59,726 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/7470a908-4927-489d-abaa-be2976e69adb/Payload/FGCQLibClient-mobile.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:02:59,732 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/7470a908-4927-489d-abaa-be2976e69adb/Payload/FGCQLibClient-mobile.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:03:01,260 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/b05b0113-8dc4-406a-bd79-09ba27b236e8/Payload/FGCQLibClient-mobile.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:03:01,266 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/b05b0113-8dc4-406a-bd79-09ba27b236e8/Payload/FGCQLibClient-mobile.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:03:02,776 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/2b4c66f8-6da8-4669-b437-c3f16f6cd90c/Payload/FGCQLibClient-mobile.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:03:02,782 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/2b4c66f8-6da8-4669-b437-c3f16f6cd90c/Payload/FGCQLibClient-mobile.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:26:57,411 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:26:57,888 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:26:59,254 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/4c346209-abff-4b83-93af-f45a4ce42139/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:26:59,321 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/4c346209-abff-4b83-93af-f45a4ce42139/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:27:06,348 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/e115903d-4a66-4167-9ab5-9f0f26bd7b8e/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:27:06,414 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/e115903d-4a66-4167-9ab5-9f0f26bd7b8e/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:27:13,407 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/158ad4c0-c29a-4294-b593-812d0843db61/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:27:13,475 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/158ad4c0-c29a-4294-b593-812d0843db61/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:32:14,300 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:32:14,478 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:32:15,098 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/2d02cc69-5d50-42f3-b466-8f2ba36f6709/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:32:15,120 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/2d02cc69-5d50-42f3-b466-8f2ba36f6709/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:32:18,216 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/70434660-75b0-4610-bf35-d0a94027f9d2/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:32:18,238 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/70434660-75b0-4610-bf35-d0a94027f9d2/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:32:21,283 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/0cdbaa72-76ee-4506-93e0-6ea1b0930f09/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-15 16:32:21,305 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/0cdbaa72-76ee-4506-93e0-6ea1b0930f09/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 

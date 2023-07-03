@@ -1,0 +1,26 @@
+2023-05-19 02:04:58,573 ERROR Thread-9 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-19 02:47:53,793 INFO main net.appuploader.b.l.a(?:?)  binary walletResources bundle in  /Payload/ProductName.app/walletResources.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 02:47:56,112 INFO main net.appuploader.b.l.a(?:?)  binary walletResources bundle in  /opt/mdm-sgin-zh/sign/temp/2534e7cc-3860-456b-8fcd-ce53ca2a16b3/Payload/ProductName.app/walletResources.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 02:48:09,599 INFO main net.appuploader.b.l.a(?:?)  binary walletResources bundle in  /opt/mdm-sgin-zh/sign/temp/37fd6698-31f2-441c-8521-0487fbc44706/Payload/ProductName.app/walletResources.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 02:48:23,139 INFO main net.appuploader.b.l.a(?:?)  binary walletResources bundle in  /opt/mdm-sgin-zh/sign/temp/928b5cd8-1680-4ffc-ab8f-7680a834ee3c/Payload/ProductName.app/walletResources.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 10:53:45,831 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-19 12:50:53,879 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 12:50:54,409 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/6ea316e4-1d98-4961-8ca6-c7ba1f026baf/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 12:50:57,587 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/f98e4994-26ea-46ef-8d7b-91d0bf77e7d2/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 12:51:00,743 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/88cb5caa-47f1-468d-915e-27255c12e3f4/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 13:21:49,368 ERROR Thread-21 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-19 13:22:20,147 ERROR Thread-21 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-19 13:22:34,552 ERROR Thread-21 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-19 17:16:37,255 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 17:16:37,255 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /Payload/daoguanxunlianjia.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 17:16:37,305 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/70bc9bea-971f-415a-8c23-6943aa772ea4/Payload/daoguanxunlianjia.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 17:16:37,305 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/70bc9bea-971f-415a-8c23-6943aa772ea4/Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 17:16:37,538 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/2d67aef2-3e89-479e-a4e6-2d7aee3b5fec/Payload/daoguanxunlianjia.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 17:16:37,538 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/2d67aef2-3e89-479e-a4e6-2d7aee3b5fec/Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 17:16:37,762 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/463fcaa5-a64f-4be0-a8d2-b34f3575a9e4/Payload/daoguanxunlianjia.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 17:16:37,762 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/463fcaa5-a64f-4be0-a8d2-b34f3575a9e4/Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 

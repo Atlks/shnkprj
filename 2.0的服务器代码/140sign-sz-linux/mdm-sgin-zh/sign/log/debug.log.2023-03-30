@@ -1,0 +1,18 @@
+2023-03-30 09:30:46,187 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-30 13:55:02,348 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/NGameTest.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-30 13:55:03,872 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f26faf56-8eb9-430c-a227-651de3b9cc83/Payload/NGameTest.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-30 13:55:09,193 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/700ae347-c6e3-4e60-b7ef-6f16a8bcf98b/Payload/NGameTest.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-30 13:55:14,485 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/b27d15c2-5895-49b2-b98f-dbd57269aa86/Payload/NGameTest.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-30 14:27:36,347 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-30 16:46:06,339 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-30 16:48:21,160 ERROR Thread-55 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-30 16:48:28,932 ERROR Thread-14 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-30 21:25:41,973 ERROR Thread-51 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-30 23:11:21,350 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

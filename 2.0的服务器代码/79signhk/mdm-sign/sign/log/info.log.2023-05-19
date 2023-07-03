@@ -1,0 +1,7 @@
+2023-05-19 09:06:57,334 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-05-19 09:06:59,008 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sign/sign/temp/fa5057b2-ad95-4fd0-bdf7-0132fd69ce95/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-05-19 09:07:05,777 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sign/sign/temp/61f0fab0-e3f4-4797-8ed1-96151afe0ee5/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-05-19 11:28:07,617 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-19 12:45:37,480 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-19 12:45:38,003 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sign/sign/temp/2664cf17-4281-43a0-821b-b4c61a5e3ad6/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 

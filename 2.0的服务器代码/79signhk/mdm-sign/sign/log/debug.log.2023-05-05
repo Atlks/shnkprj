@@ -1,0 +1,190 @@
+2023-05-05 01:22:46,596 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1683220966596,"message":"Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages","status":0}
+java.util.MissingResourceException: Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:174)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:166)
+	at java.security.AccessController.doPrivileged(AccessController.java:81)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport.getResourceBundle(SecuritySupport.java:166)
+	at com.sun.org.apache.xerces.internal.impl.msg.XMLMessageFormatter.formatMessage(XMLMessageFormatter.java:74)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:357)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1472)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2923)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:121)
+	at com.dd.plist.XMLPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at net.appuploader.e.a.b.a(Unknown Source)
+	at net.appuploader.e.a.f.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-05 01:22:46,721 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1683220966721,"message":"Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages","status":0}
+java.util.MissingResourceException: Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:174)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:166)
+	at java.security.AccessController.doPrivileged(AccessController.java:81)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport.getResourceBundle(SecuritySupport.java:166)
+	at com.sun.org.apache.xerces.internal.impl.msg.XMLMessageFormatter.formatMessage(XMLMessageFormatter.java:74)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:357)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1472)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2923)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:121)
+	at com.dd.plist.XMLPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at net.appuploader.e.a.b.a(Unknown Source)
+	at net.appuploader.e.a.f.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-05 01:23:40,590 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1683221020590,"message":"Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages","status":0}
+java.util.MissingResourceException: Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:174)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:166)
+	at java.security.AccessController.doPrivileged(AccessController.java:81)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport.getResourceBundle(SecuritySupport.java:166)
+	at com.sun.org.apache.xerces.internal.impl.msg.XMLMessageFormatter.formatMessage(XMLMessageFormatter.java:74)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:357)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1472)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2923)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:121)
+	at com.dd.plist.XMLPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at net.appuploader.e.a.b.a(Unknown Source)
+	at net.appuploader.e.a.f.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-05 01:23:40,704 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1683221020704,"message":"Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages","status":0}
+java.util.MissingResourceException: Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:174)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:166)
+	at java.security.AccessController.doPrivileged(AccessController.java:81)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport.getResourceBundle(SecuritySupport.java:166)
+	at com.sun.org.apache.xerces.internal.impl.msg.XMLMessageFormatter.formatMessage(XMLMessageFormatter.java:74)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:357)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1472)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2923)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:121)
+	at com.dd.plist.XMLPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at net.appuploader.e.a.b.a(Unknown Source)
+	at net.appuploader.e.a.f.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-05 02:28:53,027 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 02:28:53,411 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/e4f7b43b-e88a-404c-af1e-15feeb4db39c/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 02:28:55,066 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/d5fc1cc0-ed53-4804-9948-ff1a7d81f589/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 02:43:06,432 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/Unity-iPhone.app/Frameworks/UnityFramework.framework/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-05 02:43:06,444 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/Unity-iPhone.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-05 02:43:07,690 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sign/sign/temp/d9d118f0-462f-4c9c-93a2-d1510c9e1402/Payload/Unity-iPhone.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-05 02:43:07,696 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sign/sign/temp/d9d118f0-462f-4c9c-93a2-d1510c9e1402/Payload/Unity-iPhone.app/Frameworks/UnityFramework.framework/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-05 03:29:54,121 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 03:29:54,501 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/612f09b2-8070-455d-b8d6-bdec1a755784/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 03:29:56,192 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/317a140c-9e0d-4843-a37c-e925ac32b73b/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 13:45:57,018 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-05 13:45:57,019 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-05 13:45:57,481 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/fcce5b07-40bf-40c3-944c-8abebd06bd11/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-05 13:45:57,523 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/fcce5b07-40bf-40c3-944c-8abebd06bd11/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-05 13:46:14,019 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-05 13:46:14,020 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-05 13:46:14,481 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/0265aa00-a7cd-4e36-a7e7-47f770380999/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-05 13:46:14,523 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/0265aa00-a7cd-4e36-a7e7-47f770380999/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-05 15:03:35,944 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼新春版 bundle in  /Payload/ 鑫鑫街机捕鱼新春版.app/Info.plist not found witch may cause crash 
+2023-05-05 15:03:36,041 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1683270216041,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-05 15:03:36,299 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼新春版 bundle in  /opt/mdm-sign/sign/temp/4dc42c82-4c5a-40cd-9f1d-543699ee35a3/Payload/ 鑫鑫街机捕鱼新春版.app/Info.plist not found witch may cause crash 
+2023-05-05 15:03:36,310 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1683270216310,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-05 15:23:15,926 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 15:23:16,308 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/bb6fb2a1-fb40-45f8-997f-0212ac0ce77e/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 15:23:17,969 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/67c00638-2fba-4149-bcdb-46e768736eb9/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 21:57:39,794 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 21:57:40,175 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/d4a8a40f-e36f-40bd-8dbf-1d6bf4d55ad0/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 21:57:41,827 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/569ed1e2-71af-425d-93e7-124cf2e08b66/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 22:47:46,824 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 22:47:47,208 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/2b09006d-0890-4bdd-aca9-7e7788311ca2/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 22:47:48,847 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/98085527-4646-4390-be66-df6238e5f39a/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 23:51:26,962 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 23:51:27,344 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/40e26e1a-21b6-4d40-97a7-6ea3f7b797ec/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-05 23:51:28,982 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/4cdcf8f1-444a-4e12-a623-bd2cf17a25a5/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

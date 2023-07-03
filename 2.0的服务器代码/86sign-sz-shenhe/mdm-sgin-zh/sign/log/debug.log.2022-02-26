@@ -1,0 +1,184 @@
+2022-02-26 01:34:13,406 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-26 01:34:13,407 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645810453407,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-26 03:39:16,978 INFO main net.appuploader.b.l.a(?:?)  binary TPSDKBundle bundle in  /Payload/Runner.app/TPSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-02-26 03:39:17,248 INFO main net.appuploader.b.l.a(?:?)  binary TPSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/88171f91-f8e9-41c0-b66d-875118717d4c/Payload/Runner.app/TPSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-02-26 03:39:18,532 INFO main net.appuploader.b.l.a(?:?)  binary TPSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/faa50327-6a7d-4f83-9dfa-245b0ec29fc7/Payload/Runner.app/TPSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-02-26 03:39:48,838 INFO main net.appuploader.b.l.a(?:?)  binary TPSDKBundle bundle in  /Payload/Runner.app/TPSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-02-26 03:39:49,116 INFO main net.appuploader.b.l.a(?:?)  binary TPSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/bf0c3ada-b486-4d16-ae21-de74522c83b9/Payload/Runner.app/TPSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-02-26 03:39:50,398 INFO main net.appuploader.b.l.a(?:?)  binary TPSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/f9764296-7a6b-4db3-ae34-b8b19b38ab34/Payload/Runner.app/TPSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-02-26 03:39:51,649 INFO main net.appuploader.b.l.a(?:?)  binary TPSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/0a55930d-5053-4754-b11f-1bba00cce615/Payload/Runner.app/TPSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:44:23,147 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:44:24,600 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/dd51d392-7198-4d73-9971-d57c6b3ceb12/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:44:34,543 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/892a252c-bae0-45fa-8f12-8a0bfc4af67b/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:46:51,844 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:46:53,441 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/ea7a9fef-86e9-4110-8c2f-15e101c5ca42/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:47:05,597 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/488f3424-756e-4f95-a6c5-8b0cb013d195/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:47:14,940 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/b58779ad-ede8-4e4a-9938-e299c18f3a3d/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:48:46,726 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:48:48,335 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/b1919c77-8735-436b-96b7-1b462083f82d/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:48:59,868 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/e3d3796f-ace4-4e0e-8278-e35d8d52c178/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:49:13,390 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/1ab960fd-8483-468b-b04d-f5fc56eda5fb/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:58:22,401 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/7749GH5.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:58:22,503 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/3e1908e7-a22f-40e6-9309-f43a6b48167a/Payload/7749GH5.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 10:58:23,134 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/dc74d97d-1a2e-4ed7-a2c7-4908fa589bee/Payload/7749GH5.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 11:04:59,761 ERROR Thread-68 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-26 11:06:19,507 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-26 11:06:19,507 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645844779507,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-26 11:07:24,868 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-26 11:07:24,868 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645844844868,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-26 11:28:02,790 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/7749GH5.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 11:28:02,892 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/fab870e4-509c-4424-b1df-5dae17d4ca18/Payload/7749GH5.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 11:28:03,526 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/9c0be75d-02f9-4987-991f-0d43dd97ac36/Payload/7749GH5.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 11:28:04,139 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/e2ab6801-9a99-4b2b-8b06-78ae0e639cf3/Payload/7749GH5.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 11:56:02,446 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 11:56:02,812 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/a37b9b60-85b8-46a7-94e3-de195539d68b/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 11:56:04,182 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/18ea9471-dbf0-4253-924c-423622a1ee7f/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 11:56:05,697 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 11:56:06,064 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/5010c845-c424-4122-a744-c72b2ecea8ef/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 11:56:07,454 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/74f7909f-37c0-4c86-88dc-d1e35856064a/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 13:41:39,900 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-26 13:41:39,900 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645854099900,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-26 16:37:03,567 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:03,570 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:03,583 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:03,583 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:03,586 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:03,586 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:06,144 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3b464798-49ae-409b-8459-b587bf183a53/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:06,146 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3b464798-49ae-409b-8459-b587bf183a53/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:06,147 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3b464798-49ae-409b-8459-b587bf183a53/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:06,173 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/b53ab6d7-3dab-4a29-9789-aecc7a270bcc/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:06,175 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/b53ab6d7-3dab-4a29-9789-aecc7a270bcc/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:06,176 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/b53ab6d7-3dab-4a29-9789-aecc7a270bcc/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:32,015 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d9c0f3cf-aad4-48db-9fb0-79115bf8a305/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:32,017 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d9c0f3cf-aad4-48db-9fb0-79115bf8a305/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:32,019 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d9c0f3cf-aad4-48db-9fb0-79115bf8a305/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:33,445 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/970d4212-baac-43ad-a73a-79f5c4b31eb0/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:33,447 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/970d4212-baac-43ad-a73a-79f5c4b31eb0/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:33,449 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/970d4212-baac-43ad-a73a-79f5c4b31eb0/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:35,288 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:35,310 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:35,310 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:37,083 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:37,100 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:37,100 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:38,330 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/6b595251-0e46-474d-8f68-8e2bf384462b/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:38,371 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/6b595251-0e46-474d-8f68-8e2bf384462b/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:38,392 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/6b595251-0e46-474d-8f68-8e2bf384462b/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:40,090 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f1ece068-838b-414e-9924-99f9e0a85023/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:40,092 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f1ece068-838b-414e-9924-99f9e0a85023/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:37:40,093 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f1ece068-838b-414e-9924-99f9e0a85023/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:03,830 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3af326c2-d6e7-4447-87e7-ef6b4a955532/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:03,858 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3af326c2-d6e7-4447-87e7-ef6b4a955532/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:03,860 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3af326c2-d6e7-4447-87e7-ef6b4a955532/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:10,031 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:10,229 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:10,229 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:19,912 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/4fcaf054-b2dc-4307-9c06-81bcd1c1edd2/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:20,128 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/4fcaf054-b2dc-4307-9c06-81bcd1c1edd2/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:20,258 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/4fcaf054-b2dc-4307-9c06-81bcd1c1edd2/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:31,993 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:32,330 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:32,331 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:39,303 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f929f3e9-7e10-4d49-89f7-c68b3851b9e8/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:39,483 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f929f3e9-7e10-4d49-89f7-c68b3851b9e8/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:39,573 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f929f3e9-7e10-4d49-89f7-c68b3851b9e8/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:45,068 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:45,332 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:45,333 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:57,035 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/1996cab5-6435-412c-8e1b-1bf143d5c117/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:57,150 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/1996cab5-6435-412c-8e1b-1bf143d5c117/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:38:57,187 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/1996cab5-6435-412c-8e1b-1bf143d5c117/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:39:03,657 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/98aae59b-1234-4796-8bb4-3787263e6fcc/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:39:03,697 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/98aae59b-1234-4796-8bb4-3787263e6fcc/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:39:03,699 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/98aae59b-1234-4796-8bb4-3787263e6fcc/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:39:26,493 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/03168f44-0e80-45e3-a325-08cba5a46c89/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:39:26,621 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/03168f44-0e80-45e3-a325-08cba5a46c89/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:39:26,706 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/03168f44-0e80-45e3-a325-08cba5a46c89/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:39:47,594 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/35e05a6e-e77d-475c-90aa-fca0a7e37ef6/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:39:47,703 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/35e05a6e-e77d-475c-90aa-fca0a7e37ef6/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:39:47,730 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/35e05a6e-e77d-475c-90aa-fca0a7e37ef6/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:39:52,239 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f301c007-7e5c-4e7a-914a-e6ab72557c7a/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:39:52,294 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f301c007-7e5c-4e7a-914a-e6ab72557c7a/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:39:52,322 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f301c007-7e5c-4e7a-914a-e6ab72557c7a/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:55:32,209 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:55:32,225 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:55:32,226 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:55:34,891 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/2a99eeb1-319f-4d17-beb7-db8db2783b2d/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:55:34,894 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/2a99eeb1-319f-4d17-beb7-db8db2783b2d/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:55:34,896 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/2a99eeb1-319f-4d17-beb7-db8db2783b2d/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:55:53,224 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/bbc02351-fec1-4996-8cd6-c6d6bbcf1aa5/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:55:53,226 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/bbc02351-fec1-4996-8cd6-c6d6bbcf1aa5/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:55:53,228 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/bbc02351-fec1-4996-8cd6-c6d6bbcf1aa5/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:56:55,490 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:56:55,506 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:56:55,506 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:56:57,855 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d96f8b2e-87d9-484e-9bbd-31a1ac849ca2/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:56:57,857 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d96f8b2e-87d9-484e-9bbd-31a1ac849ca2/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:56:57,859 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d96f8b2e-87d9-484e-9bbd-31a1ac849ca2/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:57:15,309 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/c70d691a-912a-481a-9e2a-b75f42b3ce09/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:57:15,311 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/c70d691a-912a-481a-9e2a-b75f42b3ce09/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 16:57:15,313 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/c70d691a-912a-481a-9e2a-b75f42b3ce09/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-26 17:04:12,631 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:04:13,533 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/e97384c6-6824-484b-835e-e8b0a9a1a0c0/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:04:20,135 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/44e72f19-2028-47db-8827-bf310ac3d8d5/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:06:07,290 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:06:08,267 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/1a3af999-3066-4ca3-9bcc-eb4f27301dc3/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:06:15,179 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/6b97301c-de3d-4ddb-8843-9d50e192e57a/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:06:21,664 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/916a97cf-66d1-4cbf-bfd4-b6a720346758/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:08:20,934 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:08:21,844 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/24eb87ba-280e-4c34-ab04-8873aa6603fc/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:08:28,369 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/43937f3c-35fa-427f-a710-5f18061b19a0/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:08:34,833 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/7747adb0-1ffd-4e4e-96f9-6c1705f7530e/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:13:24,854 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:13:25,758 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/10280f76-704d-46c3-8694-92ae3f1bf060/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:13:32,917 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/67f638b7-e5c8-4840-86a8-3eeaabeb97b9/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 17:13:39,355 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/3806db3d-57a6-4fbd-a69e-a4e7a02cf08c/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-26 19:08:07,270 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 19:08:07,634 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/01b20b1a-e377-4b2c-bc23-8119b0fd7322/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 19:08:09,004 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/33e46da4-2898-4880-9ab0-efe663aa8bab/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 20:26:06,853 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 20:26:07,212 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/81c8c13a-dcf2-41bb-8e00-a624f46b5381/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 20:26:08,596 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/51e34eb1-4c38-47da-b516-4ebc35b67da0/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 20:44:38,495 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 20:44:38,864 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/0c6018e2-0689-4389-99eb-c973ea3e159b/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 20:44:40,232 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/ba445b70-be8e-4eeb-95b6-6622acf33965/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 20:44:40,682 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 20:44:41,070 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/dfdd8b57-d6dd-4d7c-98ec-dd86ff860be3/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 20:44:42,456 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/c6e44563-e8e9-4371-a9e5-e0e0825b315a/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-26 21:02:18,019 INFO main net.appuploader.b.l.a(?:?)  binary iFengwooAI bundle in  /Payload/tszz.app/HWXFCAI.framework/iFengwooAI.bundle/Info.plist not found witch may cause crash 
+2022-02-26 21:02:20,111 INFO main net.appuploader.b.l.a(?:?)  binary iFengwooAI bundle in  /opt/mdm-sgin-zh/sign/temp/91405b71-f255-4a25-8979-6ba26373aae1/Payload/tszz.app/HWXFCAI.framework/iFengwooAI.bundle/Info.plist not found witch may cause crash 
+2022-02-26 21:02:30,352 INFO main net.appuploader.b.l.a(?:?)  binary iFengwooAI bundle in  /opt/mdm-sgin-zh/sign/temp/390326d6-6561-49cd-b750-c96a520a66dd/Payload/tszz.app/HWXFCAI.framework/iFengwooAI.bundle/Info.plist not found witch may cause crash 
+2022-02-26 21:08:20,703 INFO main net.appuploader.b.l.a(?:?)  binary iFengwooAI bundle in  /Payload/tszz.app/HWXFCAI.framework/iFengwooAI.bundle/Info.plist not found witch may cause crash 
+2022-02-26 21:08:22,232 INFO main net.appuploader.b.l.a(?:?)  binary iFengwooAI bundle in  /opt/mdm-sgin-zh/sign/temp/6e8ea552-2a17-4452-ade7-e77086aa7ef7/Payload/tszz.app/HWXFCAI.framework/iFengwooAI.bundle/Info.plist not found witch may cause crash 
+2022-02-26 21:08:29,726 INFO main net.appuploader.b.l.a(?:?)  binary iFengwooAI bundle in  /opt/mdm-sgin-zh/sign/temp/618e2b05-201a-4d0e-8e38-d7617a568d6c/Payload/tszz.app/HWXFCAI.framework/iFengwooAI.bundle/Info.plist not found witch may cause crash 
+2022-02-26 21:08:37,985 INFO main net.appuploader.b.l.a(?:?)  binary iFengwooAI bundle in  /opt/mdm-sgin-zh/sign/temp/ee6f21b0-658e-4b7b-a344-2876eb7409bc/Payload/tszz.app/HWXFCAI.framework/iFengwooAI.bundle/Info.plist not found witch may cause crash 

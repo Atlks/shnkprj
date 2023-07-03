@@ -1,0 +1,48 @@
+2023-04-09 09:13:44,203 INFO main net.appuploader.b.l.a(?:?)  binary YTUHD bundle in  /Payload/YouTube.app/YTUHD.bundle/Info.plist not found witch may cause crash 
+2023-04-09 09:13:44,203 INFO main net.appuploader.b.l.a(?:?)  binary RYD bundle in  /Payload/YouTube.app/RYD.bundle/Info.plist not found witch may cause crash 
+2023-04-09 09:13:44,286 INFO main net.appuploader.b.l.a(?:?)  binary Tranzlo bundle in  /Payload/YouTube.app/uYouBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-09 09:13:44,286 INFO main net.appuploader.b.l.a(?:?)  binary YouPiP bundle in  /Payload/YouTube.app/YouPiP.bundle/Info.plist not found witch may cause crash 
+2023-04-09 09:13:45,950 INFO main net.appuploader.b.l.a(?:?)  binary YouPiP bundle in  /opt/mdm-sign/sign/temp/92797b26-f502-4231-83dc-76bce597270a/Payload/YouTube.app/YouPiP.bundle/Info.plist not found witch may cause crash 
+2023-04-09 09:13:45,950 INFO main net.appuploader.b.l.a(?:?)  binary Tranzlo bundle in  /opt/mdm-sign/sign/temp/92797b26-f502-4231-83dc-76bce597270a/Payload/YouTube.app/uYouBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-09 09:13:45,961 INFO main net.appuploader.b.l.a(?:?)  binary RYD bundle in  /opt/mdm-sign/sign/temp/92797b26-f502-4231-83dc-76bce597270a/Payload/YouTube.app/RYD.bundle/Info.plist not found witch may cause crash 
+2023-04-09 09:13:45,961 INFO main net.appuploader.b.l.a(?:?)  binary YTUHD bundle in  /opt/mdm-sign/sign/temp/92797b26-f502-4231-83dc-76bce597270a/Payload/YouTube.app/YTUHD.bundle/Info.plist not found witch may cause crash 
+2023-04-09 09:13:54,597 INFO main net.appuploader.b.l.a(?:?)  binary YouPiP bundle in  /opt/mdm-sign/sign/temp/42e45db5-b975-4028-b2e9-2fbf24ede00a/Payload/YouTube.app/YouPiP.bundle/Info.plist not found witch may cause crash 
+2023-04-09 09:13:54,597 INFO main net.appuploader.b.l.a(?:?)  binary Tranzlo bundle in  /opt/mdm-sign/sign/temp/42e45db5-b975-4028-b2e9-2fbf24ede00a/Payload/YouTube.app/uYouBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-09 09:13:54,608 INFO main net.appuploader.b.l.a(?:?)  binary RYD bundle in  /opt/mdm-sign/sign/temp/42e45db5-b975-4028-b2e9-2fbf24ede00a/Payload/YouTube.app/RYD.bundle/Info.plist not found witch may cause crash 
+2023-04-09 09:13:54,608 INFO main net.appuploader.b.l.a(?:?)  binary YTUHD bundle in  /opt/mdm-sign/sign/temp/42e45db5-b975-4028-b2e9-2fbf24ede00a/Payload/YouTube.app/YTUHD.bundle/Info.plist not found witch may cause crash 
+2023-04-09 12:53:40,675 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼 bundle in  /Payload/ 鑫鑫街机捕鱼.app/Info.plist not found witch may cause crash 
+2023-04-09 12:53:40,771 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1681016020771,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-04-09 12:53:40,994 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼 bundle in  /opt/mdm-sign/sign/temp/13c114e1-6975-40f0-9a04-e047135a4645/Payload/ 鑫鑫街机捕鱼.app/Info.plist not found witch may cause crash 
+2023-04-09 12:53:41,005 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1681016021005,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-04-09 20:27:20,321 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1681043240321,"message":"MALFORMED[2]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[2]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-04-09 21:50:32,007 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-09 21:50:34,483 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sign/sign/temp/0c7fc1a2-0d9c-4342-a231-7dec6fe2b111/Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-09 21:50:57,321 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sign/sign/temp/555dfa5f-3643-4e64-b23a-e0ea7ad59fcf/Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 

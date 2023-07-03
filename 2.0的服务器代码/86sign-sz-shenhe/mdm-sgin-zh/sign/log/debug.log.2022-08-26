@@ -1,0 +1,25 @@
+2022-08-26 16:55:56,654 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1661504156654,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-08-26 16:55:57,223 INFO main net.appuploader.b.l.a(?:?)  binary 三宝联盟 bundle in  /opt/mdm-sgin-zh/sign/temp/193060da-9051-4adc-ba46-f0d5092b3a86/Payload/????????.app/Info.plist not found witch may cause crash 
+2022-08-26 16:56:00,219 INFO main net.appuploader.b.l.a(?:?)  binary 三宝联盟 bundle in  /opt/mdm-sgin-zh/sign/temp/de409b5c-9ea1-43a6-9a8f-721bd07542bd/Payload/????????.app/Info.plist not found witch may cause crash 
+2022-08-26 18:55:59,473 INFO main net.appuploader.b.l.a(?:?)  binary MCSDKRes bundle in  /Payload/XianMengYunGe.app/MCSDKRes.bundle/Info.plist not found witch may cause crash 
+2022-08-26 18:56:01,213 INFO main net.appuploader.b.l.a(?:?)  binary MCSDKRes bundle in  /opt/mdm-sgin-zh/sign/temp/680d5b93-b471-43c5-be7e-896ef9209d98/Payload/XianMengYunGe.app/MCSDKRes.bundle/Info.plist not found witch may cause crash 
+2022-08-26 18:56:12,386 INFO main net.appuploader.b.l.a(?:?)  binary MCSDKRes bundle in  /opt/mdm-sgin-zh/sign/temp/7e7013f9-0938-4faa-a2f9-56b0ba4f706e/Payload/XianMengYunGe.app/MCSDKRes.bundle/Info.plist not found witch may cause crash 
+2022-08-26 21:49:32,803 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /Payload/LWSY.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-08-26 21:49:34,886 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/d4a3a23c-925f-4230-99a7-9c4a108bef8b/Payload/LWSY.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-08-26 21:49:51,476 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/0ea5dd64-9e4a-4653-b46f-7bb8f2aab4c4/Payload/LWSY.app/HySdkResource.bundle/Info.plist not found witch may cause crash 

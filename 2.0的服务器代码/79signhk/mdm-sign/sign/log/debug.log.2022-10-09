@@ -1,0 +1,23 @@
+2022-10-09 16:25:43,621 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /Payload/daoguanxunlianjia.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-10-09 16:25:43,621 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-09 16:25:43,664 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sign/sign/temp/9f0cea33-817c-4341-9b69-5b963b2d7176/Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-09 16:25:43,665 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sign/sign/temp/9f0cea33-817c-4341-9b69-5b963b2d7176/Payload/daoguanxunlianjia.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-10-09 17:17:17,252 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-09 17:17:17,903 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/cbaa39d8-4abd-42bb-a225-005f35c524c1/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-09 17:17:20,587 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/f9410ef3-50d2-4c00-943b-e407972912a4/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-09 22:13:01,063 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼 bundle in  /Payload/ 鑫鑫街机捕鱼.app/Info.plist not found witch may cause crash 
+2022-10-09 22:13:01,166 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1665324781166,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-09 22:13:01,453 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼 bundle in  /opt/mdm-sign/sign/temp/823085a9-c397-4a18-a670-de9f1871a19e/Payload/ 鑫鑫街机捕鱼.app/Info.plist not found witch may cause crash 
+2022-10-09 22:13:01,465 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1665324781465,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

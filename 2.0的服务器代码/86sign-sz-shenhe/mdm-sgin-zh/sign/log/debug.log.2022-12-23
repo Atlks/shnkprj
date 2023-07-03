@@ -1,0 +1,46 @@
+2022-12-23 13:40:03,242 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-12-23 13:40:03,811 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-12-23 13:40:05,094 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/2ad29ddf-b54a-4695-9aa5-9489ce6fa9c0/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-12-23 13:40:05,094 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/2ad29ddf-b54a-4695-9aa5-9489ce6fa9c0/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-12-23 13:40:13,476 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/8ae65be6-53a8-4de9-9d0e-85ab6649b1f1/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-12-23 13:40:13,476 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/8ae65be6-53a8-4de9-9d0e-85ab6649b1f1/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-12-23 13:57:36,535 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1671775056535,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-23 14:07:54,184 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1671775674184,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-23 14:08:57,948 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/LWSY.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-12-23 14:09:00,066 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/02e1dd69-6f1a-4c74-b011-ecdeeda4cc98/Payload/LWSY.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-12-23 14:09:16,884 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/2c3d00b9-c4a4-4eaf-8436-e699a1fae6bd/Payload/LWSY.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-12-23 16:56:50,307 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2022-12-23 16:56:50,496 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /opt/mdm-sgin-zh/sign/temp/bbec0744-873a-446e-9e26-a844505326ea/Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2022-12-23 16:56:52,487 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /opt/mdm-sgin-zh/sign/temp/683a85aa-c1f6-4d84-842d-75ee2a272617/Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 

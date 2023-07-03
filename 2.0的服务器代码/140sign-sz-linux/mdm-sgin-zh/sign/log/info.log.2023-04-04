@@ -1,0 +1,31 @@
+2023-04-04 08:22:21,839 ERROR Thread-51 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-04 08:25:23,042 ERROR Thread-51 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-04 09:31:38,262 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-04 13:16:06,248 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-04-04 13:16:06,502 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /opt/mdm-sgin-zh/sign/temp/c1b8ab58-963d-483c-9862-b351799ca647/Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-04-04 13:16:07,447 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /opt/mdm-sgin-zh/sign/temp/aa893ff6-c037-473a-afc3-d2143050ca28/Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-04-04 15:18:24,542 ERROR Thread-48 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-04 18:08:52,382 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-04 18:08:52,913 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/f3a8f231-0d6f-4f96-9afb-3dbd43eacc2b/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-04 18:08:55,890 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/eccd3b58-9204-49cb-859a-37f302540171/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-04 18:08:58,880 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/a5243acb-a766-48e2-a9ac-373867d9ce22/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-04 18:09:33,366 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-04 18:09:33,881 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/edda3a29-0069-483f-a5bf-2bbde9f58aed/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-04 18:09:36,870 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/53a7deff-aee2-4e21-af8f-0e32783e8858/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-04 18:09:39,837 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/21f2ace7-f63c-4668-b68f-1e9a71e6dc7b/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-04 18:55:16,430 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-04 20:46:51,133 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-04-04 20:46:51,394 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /opt/mdm-sgin-zh/sign/temp/a358b69b-613c-46ac-9f25-4c30854f2ed0/Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-04-04 20:46:52,280 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /opt/mdm-sgin-zh/sign/temp/559cc7f7-d6eb-4e22-b901-e8daae7ebd45/Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-04-04 20:54:25,057 ERROR Thread-8 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-04-04 20:54:36,507 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-04-04 20:54:36,770 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /opt/mdm-sgin-zh/sign/temp/f8226e3f-7120-4913-9359-6906abb33e11/Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-04-04 20:54:37,663 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /opt/mdm-sgin-zh/sign/temp/cf625e9d-15d2-47b0-99be-4179e514acb6/Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-04-04 22:02:10,716 ERROR Thread-21 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

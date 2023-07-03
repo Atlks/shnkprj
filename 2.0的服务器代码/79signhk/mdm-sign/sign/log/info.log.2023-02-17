@@ -1,0 +1,108 @@
+2023-02-17 16:44:29,710 INFO main net.appuploader.b.l.a(?:?)  binary 皇马 bundle in  /Payload/皇马.app/Info.plist not found witch may cause crash 
+2023-02-17 16:44:29,747 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676623469747,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-17 16:44:29,783 INFO main net.appuploader.b.l.a(?:?)  binary 皇马 bundle in  /opt/mdm-sign/sign/temp/b457008b-33e5-4fc6-b8a7-7a39b65fd575/Payload/皇马.app/Info.plist not found witch may cause crash 
+2023-02-17 16:44:29,790 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676623469790,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-17 16:54:15,705 INFO main net.appuploader.b.l.a(?:?)  binary 皇马 bundle in  /Payload/皇马.app/Info.plist not found witch may cause crash 
+2023-02-17 16:54:15,742 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676624055742,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-17 16:54:15,778 INFO main net.appuploader.b.l.a(?:?)  binary 皇马 bundle in  /opt/mdm-sign/sign/temp/f4e9d9ae-d4c8-46ee-9839-1cf04f82b0ed/Payload/皇马.app/Info.plist not found witch may cause crash 
+2023-02-17 16:54:15,786 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676624055786,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-17 16:54:47,636 INFO main net.appuploader.b.l.a(?:?)  binary 皇马 bundle in  /Payload/皇马.app/Info.plist not found witch may cause crash 
+2023-02-17 16:54:47,673 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676624087673,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-17 16:54:47,709 INFO main net.appuploader.b.l.a(?:?)  binary 皇马 bundle in  /opt/mdm-sign/sign/temp/e60bcf6a-3e54-4fbf-a2b0-6214f5982d69/Payload/皇马.app/Info.plist not found witch may cause crash 
+2023-02-17 16:54:47,716 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676624087716,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-17 17:11:01,596 INFO main net.appuploader.b.l.a(?:?)  binary 皇马 bundle in  /Payload/皇马.app/Info.plist not found witch may cause crash 
+2023-02-17 17:11:01,633 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676625061633,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-17 17:11:01,670 INFO main net.appuploader.b.l.a(?:?)  binary 皇马 bundle in  /opt/mdm-sign/sign/temp/74c63096-5e98-4b8d-935d-eadb686bdc63/Payload/皇马.app/Info.plist not found witch may cause crash 
+2023-02-17 17:11:01,678 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676625061678,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-17 17:16:21,685 INFO main net.appuploader.b.l.a(?:?)  binary 皇马 bundle in  /Payload/皇马.app/Info.plist not found witch may cause crash 
+2023-02-17 17:16:21,723 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676625381723,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-17 17:16:21,758 INFO main net.appuploader.b.l.a(?:?)  binary 皇马 bundle in  /opt/mdm-sign/sign/temp/df94dfa3-2a7c-4705-b17f-0b511a151c59/Payload/皇马.app/Info.plist not found witch may cause crash 
+2023-02-17 17:16:21,766 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676625381766,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-17 17:16:41,584 INFO main net.appuploader.b.l.a(?:?)  binary 皇马 bundle in  /Payload/皇马.app/Info.plist not found witch may cause crash 
+2023-02-17 17:16:41,622 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676625401622,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-17 17:16:41,657 INFO main net.appuploader.b.l.a(?:?)  binary 皇马 bundle in  /opt/mdm-sign/sign/temp/8de0b6a6-c58f-47f0-85ac-5c06e3cb95cd/Payload/皇马.app/Info.plist not found witch may cause crash 
+2023-02-17 17:16:41,665 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1676625401665,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-02-17 19:48:25,478 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-17 19:48:26,066 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/328c280a-7d50-48bb-ac8d-251d7e095a7b/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-17 19:48:28,864 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/74139911-4532-451e-9053-ee2fedaec99c/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-17 19:48:31,017 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-17 19:48:31,634 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/4145f877-fbe0-401b-99b6-af8392051c4c/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-17 19:48:31,649 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-17 19:48:32,404 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/1e10cd08-d2aa-4c82-b709-2bf627012264/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-17 19:48:34,522 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/68276c99-40a8-4ee1-be77-903a0c916871/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-17 19:48:35,354 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/daa1f49b-d25d-4d8b-8037-4c3675c33c68/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-17 20:16:44,981 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-17 20:16:45,367 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/8fad78ca-41ef-4219-b123-a08a34774b91/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-17 20:16:47,017 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/4dd73ff8-7797-4d5f-8926-78b9aae7304d/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

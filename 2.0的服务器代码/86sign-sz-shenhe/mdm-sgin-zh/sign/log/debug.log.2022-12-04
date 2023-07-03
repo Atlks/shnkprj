@@ -1,0 +1,6 @@
+2022-12-04 17:02:43,711 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/LWSY.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-12-04 17:02:46,138 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/99848879-b5d7-44ee-93de-08a9202171e8/Payload/LWSY.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-12-04 17:03:01,925 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/f91b7742-0d64-4023-a6cc-7e5f6401a139/Payload/LWSY.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-12-04 18:32:06,025 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-04 18:32:06,852 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/80873a9a-c54b-40c3-b357-2b378ae1d23a/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-04 18:32:13,322 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/4a5319b5-d4e0-4981-bf08-cd6f862fbc2e/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 

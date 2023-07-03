@@ -1,0 +1,8 @@
+2023-03-31 10:30:58,668 ERROR main net.appuploader.e.e.c(?:?) Init File Fail 
+java.nio.file.FileAlreadyExistsException: /opt/mdm-sign/sign/ausign_runtime/token.data
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.createFile(Files.java:632)
+	at net.appuploader.e.e.c(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

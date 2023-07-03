@@ -1,0 +1,52 @@
+2022-10-17 13:23:41,474 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-17 13:23:42,129 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/52c81b09-06a2-4f49-a9c5-c961b03d77a9/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-17 13:23:44,851 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/fe0f41dd-d923-4312-bdef-debd7a64508a/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-17 14:29:03,675 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-17 14:29:04,324 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/f9bbbce5-6525-4305-82b1-093eb4fd8e48/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-17 14:29:07,060 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/3471334d-b49f-4795-8130-3acb5e27ac83/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-17 17:49:25,962 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1666000165962,"message":"extract file fail with copy file fail invalid code lengths set","status":0}
+net.appuploader.b.d: extract file fail with copy file fail invalid code lengths set
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-17 17:49:26,517 ERROR pool-2-thread-2 net.appuploader.b.x.run(?:?)  unzip fail with invalid code lengths set
+2022-10-17 17:49:26,519 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sign/sign/temp/6b91375a-db93-4705-a2cf-5377d20ca57c/Payload/u.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-10-17 17:49:26,519 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/6b91375a-db93-4705-a2cf-5377d20ca57c/Payload/u.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-17 17:52:05,430 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1666000325430,"message":"extract file fail with copy file fail invalid code lengths set","status":0}
+net.appuploader.b.d: extract file fail with copy file fail invalid code lengths set
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-17 17:52:05,981 ERROR pool-2-thread-1 net.appuploader.b.x.run(?:?)  unzip fail with invalid code lengths set
+2022-10-17 17:52:05,983 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sign/sign/temp/f87c1b08-7cb0-4082-a573-9f2bbdaf2884/Payload/u.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-10-17 17:52:05,983 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/f87c1b08-7cb0-4082-a573-9f2bbdaf2884/Payload/u.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-17 18:12:20,421 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1666001540421,"message":"extract file fail with copy file fail invalid code lengths set","status":0}
+net.appuploader.b.d: extract file fail with copy file fail invalid code lengths set
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-17 18:12:20,982 ERROR pool-2-thread-7 net.appuploader.b.x.run(?:?)  unzip fail with invalid code lengths set
+2022-10-17 18:12:20,984 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sign/sign/temp/d6a94cd1-8669-400f-ba2b-735f4243fef9/Payload/u.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-10-17 18:12:20,984 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/d6a94cd1-8669-400f-ba2b-735f4243fef9/Payload/u.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-17 18:41:31,655 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-17 18:41:31,655 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-17 18:41:32,526 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/733abfbc-e9f3-41c7-8bee-5b9f355ce42e/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-17 18:41:32,562 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/733abfbc-e9f3-41c7-8bee-5b9f355ce42e/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 

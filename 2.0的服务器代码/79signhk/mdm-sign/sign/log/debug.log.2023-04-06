@@ -1,0 +1,52 @@
+2023-04-06 04:08:11,318 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-04-06 04:08:11,703 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/6f459dba-162d-4840-b511-9966d6e436d7/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-04-06 04:08:13,345 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/08a73d5b-73ae-48e3-bbd2-7fb2d9550507/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-04-06 10:08:56,445 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-04-06 10:08:57,549 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /opt/mdm-sign/sign/temp/9b6886fc-b2a0-4257-8155-b39b501a8eb4/Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-04-06 10:09:04,988 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /opt/mdm-sign/sign/temp/4152357f-7ce3-4371-94fa-02293862895c/Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-04-06 10:09:20,299 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-04-06 10:09:21,551 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /opt/mdm-sign/sign/temp/e0945eb8-d861-462f-8ed4-7df4316ab6e0/Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-04-06 10:09:35,710 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /opt/mdm-sign/sign/temp/f9a290d6-552d-4d16-90ef-9a440cda5354/Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-04-06 10:14:30,856 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼 bundle in  /Payload/ 鑫鑫街机捕鱼.app/Info.plist not found witch may cause crash 
+2023-04-06 10:14:30,954 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1680747270954,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-04-06 10:14:31,178 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼 bundle in  /opt/mdm-sign/sign/temp/df4c023a-0587-48ae-9f43-034eb0d4ea3f/Payload/ 鑫鑫街机捕鱼.app/Info.plist not found witch may cause crash 
+2023-04-06 10:14:31,190 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1680747271190,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-04-06 11:54:06,861 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-04-06 11:54:07,986 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /opt/mdm-sign/sign/temp/4ea3547d-24d5-47f5-9f5f-88158d2382ea/Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-04-06 11:54:15,365 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /opt/mdm-sign/sign/temp/947223d7-09cd-4cca-9954-67d121ad2d32/Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-04-06 12:58:22,504 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-04-06 12:58:23,110 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/fcde6ad5-5443-48f6-a910-0074b9ba2b88/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-04-06 12:58:25,993 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/8f3c06b8-cf4a-4732-bda1-07e5fdeb1cd0/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-04-06 14:13:50,577 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2023-04-06 14:13:50,895 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sign/sign/temp/2276a031-14d1-40be-ab55-809051e8a612/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2023-04-06 14:13:52,224 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sign/sign/temp/378f1416-eb42-4a68-aaec-7e0924f28e7b/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2023-04-06 17:23:44,189 INFO main net.appuploader.b.l.a(?:?)  binary YTUHD bundle in  /Payload/YouTube.app/YTUHD.bundle/Info.plist not found witch may cause crash 
+2023-04-06 17:23:44,189 INFO main net.appuploader.b.l.a(?:?)  binary RYD bundle in  /Payload/YouTube.app/RYD.bundle/Info.plist not found witch may cause crash 
+2023-04-06 17:23:44,272 INFO main net.appuploader.b.l.a(?:?)  binary Tranzlo bundle in  /Payload/YouTube.app/uYouBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-06 17:23:44,272 INFO main net.appuploader.b.l.a(?:?)  binary YouPiP bundle in  /Payload/YouTube.app/YouPiP.bundle/Info.plist not found witch may cause crash 
+2023-04-06 17:23:45,802 INFO main net.appuploader.b.l.a(?:?)  binary YouPiP bundle in  /opt/mdm-sign/sign/temp/3642eb6d-5de0-46d3-801a-0c1a0f36f161/Payload/YouTube.app/YouPiP.bundle/Info.plist not found witch may cause crash 
+2023-04-06 17:23:45,802 INFO main net.appuploader.b.l.a(?:?)  binary Tranzlo bundle in  /opt/mdm-sign/sign/temp/3642eb6d-5de0-46d3-801a-0c1a0f36f161/Payload/YouTube.app/uYouBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-06 17:23:45,812 INFO main net.appuploader.b.l.a(?:?)  binary RYD bundle in  /opt/mdm-sign/sign/temp/3642eb6d-5de0-46d3-801a-0c1a0f36f161/Payload/YouTube.app/RYD.bundle/Info.plist not found witch may cause crash 
+2023-04-06 17:23:45,812 INFO main net.appuploader.b.l.a(?:?)  binary YTUHD bundle in  /opt/mdm-sign/sign/temp/3642eb6d-5de0-46d3-801a-0c1a0f36f161/Payload/YouTube.app/YTUHD.bundle/Info.plist not found witch may cause crash 
+2023-04-06 17:23:56,522 INFO main net.appuploader.b.l.a(?:?)  binary YouPiP bundle in  /opt/mdm-sign/sign/temp/ae9e10b1-3c70-4897-93c0-61127d54926d/Payload/YouTube.app/YouPiP.bundle/Info.plist not found witch may cause crash 
+2023-04-06 17:23:56,522 INFO main net.appuploader.b.l.a(?:?)  binary Tranzlo bundle in  /opt/mdm-sign/sign/temp/ae9e10b1-3c70-4897-93c0-61127d54926d/Payload/YouTube.app/uYouBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-06 17:23:56,533 INFO main net.appuploader.b.l.a(?:?)  binary RYD bundle in  /opt/mdm-sign/sign/temp/ae9e10b1-3c70-4897-93c0-61127d54926d/Payload/YouTube.app/RYD.bundle/Info.plist not found witch may cause crash 
+2023-04-06 17:23:56,533 INFO main net.appuploader.b.l.a(?:?)  binary YTUHD bundle in  /opt/mdm-sign/sign/temp/ae9e10b1-3c70-4897-93c0-61127d54926d/Payload/YouTube.app/YTUHD.bundle/Info.plist not found witch may cause crash 
+2023-04-06 20:47:46,091 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-04-06 20:47:46,474 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/0c1709d8-f3b5-4758-a64f-7dc063b7afd6/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-04-06 20:47:48,117 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/9ec33042-ac21-4466-a019-94f952289b15/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-04-06 21:35:35,939 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2023-04-06 21:35:36,299 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sign/sign/temp/47b4289d-7d0f-4ae7-b46a-381111bd9509/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2023-04-06 21:35:37,628 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sign/sign/temp/fe083a3b-532a-43cb-b70d-ce7ef1f13a74/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 

@@ -1,0 +1,4 @@
+2022-07-11 13:47:55,921 INFO main net.appuploader.b.l.a(?:?)  binary 互娱联盟 bundle in  /Payload/寰宇互娱.app/Info.plist not found witch may cause crash 
+2022-07-11 13:47:56,196 INFO main net.appuploader.b.l.a(?:?)  binary 互娱联盟 bundle in  /opt/mdm-sgin-zh/sign/temp/6c61f739-aba4-4e31-9555-4f5476c6d2f2/Payload/寰宇互娱.app/Info.plist not found witch may cause crash 
+2022-07-11 13:47:57,242 INFO main net.appuploader.b.l.a(?:?)  binary 互娱联盟 bundle in  /opt/mdm-sgin-zh/sign/temp/e5f210e5-e502-4ec9-b12e-604d7d4b531a/Payload/寰宇互娱.app/Info.plist not found witch may cause crash 
+2022-07-11 13:47:58,285 INFO main net.appuploader.b.l.a(?:?)  binary 互娱联盟 bundle in  /opt/mdm-sgin-zh/sign/temp/fe66603c-951c-4b8e-af99-9b1154f42219/Payload/寰宇互娱.app/Info.plist not found witch may cause crash 

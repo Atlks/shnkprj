@@ -1,0 +1,20 @@
+2022-11-11 11:42:57,554 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1668138177554,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-11-11 16:57:26,474 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/测试.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-11 16:57:26,776 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/c59ac45b-a80c-45e1-bcfb-b46046527c53/Payload/测试.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-11 16:57:28,212 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/8ed68665-60d1-4fdb-bb82-a232c510260d/Payload/测试.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-11 16:57:29,615 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/f6353c6c-019a-4ab7-bf12-3901fe040ddc/Payload/测试.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-11 19:26:12,374 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/zll2.app/Frameworks/JJRHSdk.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-11 19:26:12,539 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/zll2.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-11 19:26:16,145 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0df081c4-0d21-4bb1-aecc-ae470ab90e3b/Payload/zll2.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-11 19:26:16,159 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0df081c4-0d21-4bb1-aecc-ae470ab90e3b/Payload/zll2.app/Frameworks/JJRHSdk.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-11 19:26:38,630 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/2b204311-50ba-4410-baec-a5a8164bbf2c/Payload/zll2.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-11 19:26:38,644 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/2b204311-50ba-4410-baec-a5a8164bbf2c/Payload/zll2.app/Frameworks/JJRHSdk.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-11 19:27:00,971 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/c86836b1-1833-4634-acc4-978f2b175ebe/Payload/zll2.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-11 19:27:00,985 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/c86836b1-1833-4634-acc4-978f2b175ebe/Payload/zll2.app/Frameworks/JJRHSdk.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 

@@ -1,0 +1,23 @@
+2022-08-08 09:42:35,403 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-08 09:42:35,950 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/37e4cec3-4371-44f9-924d-192ec277cfa5/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-08 09:42:37,666 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/278b9016-571a-45df-8dc3-c17b6a511876/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-08 14:43:13,378 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-08-08 14:43:14,517 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/9008c273-d889-41e8-acca-2750bd3264dd/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-08-08 14:43:21,971 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/18c001dd-6515-487f-9c17-f087cd410bb7/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-08-08 18:02:12,745 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1659952932745,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

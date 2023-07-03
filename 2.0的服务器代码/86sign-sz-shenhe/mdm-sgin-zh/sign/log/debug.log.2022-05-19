@@ -1,0 +1,59 @@
+2022-05-19 10:17:37,596 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1652926657596,"message":"Index 0 out of bounds for length 0","status":0}
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at com.dd.plist.BinaryPropertyListParser.parseObject(Unknown Source)
+	at com.dd.plist.BinaryPropertyListParser.doParse(Unknown Source)
+	at com.dd.plist.BinaryPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.BinaryPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at net.appuploader.e.a.b.a(Unknown Source)
+	at net.appuploader.e.a.f.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-05-19 11:55:36,637 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/ZhanMoWenDao.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-05-19 11:55:38,754 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/523824fe-badb-42d0-9b2b-ff0066b3536c/Payload/ZhanMoWenDao.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-05-19 11:55:50,737 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/5e760980-6881-4e44-a76d-b67ba151bef3/Payload/ZhanMoWenDao.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-05-19 11:58:49,941 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/ZhanMoWenDao.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-05-19 11:58:51,850 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/b59e7c9f-8ec5-44c0-8b70-1ddcd14eee54/Payload/ZhanMoWenDao.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-05-19 11:59:08,591 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/2e21ca93-cea1-4232-881b-572ac1e0cb8f/Payload/ZhanMoWenDao.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-05-19 11:59:24,609 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/173cb6b4-803b-473d-9599-f2ad7daf26e7/Payload/ZhanMoWenDao.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-05-19 16:44:16,240 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-19 16:59:36,204 ERROR Thread-13 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-19 17:30:21,284 ERROR Thread-29 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-19 17:31:20,750 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-19 17:31:36,703 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-19 18:14:37,890 ERROR Thread-24 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-19 18:16:00,445 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-19 18:18:38,007 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-19 19:54:41,125 ERROR Thread-67 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-19 20:10:25,663 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-05-19 20:10:26,088 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/aba34cfe-071e-4f0f-98ee-669f04952274/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-05-19 20:10:29,113 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-19 20:10:29,426 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/8f03f590-f3c2-41b1-9ffd-b7d51264b27b/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-05-19 20:10:30,975 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/b6d7dbeb-b4e5-4a4f-b857-4fd1e939f6ed/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-05-19 21:20:37,468 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-19 22:15:46,596 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-19 22:55:29,871 ERROR Thread-69 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

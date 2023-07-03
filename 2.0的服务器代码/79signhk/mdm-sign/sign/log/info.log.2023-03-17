@@ -1,0 +1,9 @@
+2023-03-17 01:45:24,081 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-17 01:45:24,467 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/35a73815-fcfa-4cee-89fb-39ce5d488b18/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-17 01:45:26,133 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/cb77568a-957d-4fdf-a69c-bff52578a470/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-17 11:22:49,162 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/奥宇国际.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-17 11:22:49,454 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sign/sign/temp/17cd9cc2-c33a-40a3-b4ec-7fb1ca67f23f/Payload/奥宇国际.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-17 11:22:51,174 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sign/sign/temp/546cc6c5-6ae4-45f1-a44c-cbf45023dc76/Payload/奥宇国际.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-17 13:07:38,265 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-17 13:07:38,650 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/ec47c97d-6314-414c-aabb-b10aee71adda/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-17 13:07:40,282 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/ac566c6f-0f6c-422e-8e1e-caddc0ec40a1/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

@@ -1,0 +1,102 @@
+2023-06-03 00:00:24,019 ERROR Thread-56 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-03 00:00:37,959 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-03 00:00:37,959 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1685721637959,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-03 00:03:36,448 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1685721816448,"message":"extract file fail with copy file fail No space left on device","status":0}
+net.appuploader.b.d: extract file fail with copy file fail No space left on device
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-03 00:04:00,990 ERROR pool-2-thread-1 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:00,992 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1685721840992,"message":"extract file fail /opt/mdm-sign/sign/temp/02403b81-d4ac-4fc6-a846-d0587964826f/Payload/B2_A_BETL.app/B020_A_BETL -> /opt/mdm-sign/sign/temp/e85aa593-7df6-4e87-aba1-6456d11e16a5/B020_A_BETL1685721840960_857: No space left on device","status":0}
+net.appuploader.b.d: extract file fail /opt/mdm-sign/sign/temp/02403b81-d4ac-4fc6-a846-d0587964826f/Payload/B2_A_BETL.app/B020_A_BETL -> /opt/mdm-sign/sign/temp/e85aa593-7df6-4e87-aba1-6456d11e16a5/B020_A_BETL1685721840960_857: No space left on device
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-03 00:04:01,142 ERROR pool-2-thread-7 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:01,143 ERROR pool-2-thread-8 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:01,143 ERROR main net.appuploader.b.e.a(?:?) java.io.IOException: No space left on device
+2023-06-03 00:04:01,143 ERROR pool-2-thread-5 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:01,143 ERROR pool-2-thread-6 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:01,143 ERROR pool-2-thread-2 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:01,143 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1685721841143,"message":"Copy file fail No space left on device","status":0}
+net.appuploader.b.d: Copy file fail No space left on device
+	at net.appuploader.b.e.a(Unknown Source)
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-03 00:04:01,919 ERROR main net.appuploader.b.e.a(?:?) java.io.IOException: No space left on device
+2023-06-03 00:04:01,919 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1685721841919,"message":"Copy file fail No spac2023-06-03 00:04:01,927 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1685721841927,"message":"Create zip file fail No space left on device","status":0}
+net.appuploader.b.d: Create zip file fail No space left on device
+	at net.appuploader.b.x.a(Unknown Source)
+	at net.appuploader.b.x.b(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-03 00:04:03,078 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1685721843078,"message":"Create zip file fail java.io.IOException: No space left on device","status":0}
+net.appuploader.b.d: Create zip file fail java.io.IOException: No space left on device
+	at net.appuploader.b.x.a(Unknown Source)
+	at net.appuploader.b.x.b(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-03 00:04:15,682 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1685721855682,"message":"extract file fail with copy file fail No space left on device","status":0}
+net.appuploader.b.d: extract file fail with copy file fail No space left on device
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-03 00:04:15,762 ERROR pool-2-thread-7 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,762 ERROR pool-2-thread-7 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,762 ERROR pool-2-thread-7 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,762 ERROR pool-2-thread-7 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,762 ERROR pool-2-thread-7 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,762 ERROR pool-2-thread-3 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,762 ERROR pool-2-thread-5 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,762 ERROR pool-2-thread-8 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,762 ERROR pool-2-thread-6 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,762 ERROR pool-2-thread-4 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,762 ERROR pool-2-thread-2 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,762 ERROR pool-2-thread-7 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,762 ERROR pool-2-thread-1 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,762 ERROR pool-2-thread-3 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,763 ERROR pool-2-thread-5 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,763 ERROR pool-2-thread-8 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,763 ERROR pool-2-thread-6 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,764 ERROR pool-2-thread-4 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,764 ERROR pool-2-thread-2 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,764 ERROR pool-2-thread-7 net.appuploader.b.x.run(?:?)  unzip fail with No space left on device
+2023-06-03 00:04:15,764 ERROR pool-2-thread-1 net.appuploader.b.x.

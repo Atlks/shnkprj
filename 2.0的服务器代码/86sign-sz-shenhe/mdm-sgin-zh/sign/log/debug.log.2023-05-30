@@ -1,0 +1,32 @@
+2023-05-30 10:59:53,784 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼·极速版 bundle in  /Payload/ 鑫鑫街机捕鱼·极速版.app/Info.plist not found witch may cause crash 
+2023-05-30 10:59:53,887 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1685415593887,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-30 10:59:54,139 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼·极速版 bundle in  /opt/mdm-sgin-zh/sign/temp/2633170c-0f08-40cc-9979-808376a517b6/Payload/ 鑫鑫街机捕鱼·极速版.app/Info.plist not found witch may cause crash 
+2023-05-30 10:59:54,151 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1685415594151,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-30 10:59:54,436 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼·极速版 bundle in  /opt/mdm-sgin-zh/sign/temp/2a5c764e-4381-4c25-b46f-7faf58310ff0/Payload/ 鑫鑫街机捕鱼·极速版.app/Info.plist not found witch may cause crash 
+2023-05-30 10:59:54,448 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1685415594448,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-30 13:13:40,726 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-30 13:13:41,277 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/000c0203-4c41-4161-b89f-443f804ab67a/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-30 13:13:44,698 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/3c689f91-7b25-4192-b121-8b724fb8e968/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-30 22:40:44,023 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-05-30 22:40:44,031 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-05-30 22:40:47,953 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/7c5e36d5-a500-44d2-9c83-1677dab2ed65/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-05-30 22:40:48,075 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /opt/mdm-sgin-zh/sign/temp/7c5e36d5-a500-44d2-9c83-1677dab2ed65/Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-05-30 22:41:01,213 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/6043413b-b617-4f5f-beb8-2e953259b40f/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 

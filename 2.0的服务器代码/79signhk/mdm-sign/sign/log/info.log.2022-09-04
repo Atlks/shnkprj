@@ -1,0 +1,26 @@
+2022-09-04 22:18:12,507 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1662301092507,"message":"MALFORMED[2]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[2]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-09-04 22:18:12,681 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sign/sign/temp/21a0b4ae-f7c7-4120-9167-1c4b3ce6ff68/Payload/????.app/Info.plist not found witch may cause crash 
+2022-09-04 22:18:13,863 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sign/sign/temp/d7ec502c-6690-49c9-89ac-eb0d8f20e5cc/Payload/????.app/Info.plist not found witch may cause crash 
+2022-09-04 23:41:57,671 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-04 23:41:58,342 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/a4a6c5b6-f79d-4424-b5fe-bf89fa55c7e1/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-04 23:42:01,191 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/96edae4e-5b70-4ddb-b18b-e4e753639346/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-04 23:54:19,657 INFO main net.appuploader.b.l.a(?:?)  binary EaseUIResource bundle in  /Payload/leduo.app/EaseUIResource.bundle/Info.plist not found witch may cause crash 
+2022-09-04 23:54:19,740 INFO main net.appuploader.b.l.a(?:?)  binary EaseUIResource bundle in  /opt/mdm-sign/sign/temp/16c50712-90fb-4cd9-b8a8-4a5682cbe8d5/Payload/leduo.app/EaseUIResource.bundle/Info.plist not found witch may cause crash 
+2022-09-04 23:54:58,644 INFO main net.appuploader.b.l.a(?:?)  binary EaseUIResource bundle in  /Payload/lebao.app/EaseUIResource.bundle/Info.plist not found witch may cause crash 
+2022-09-04 23:54:58,727 INFO main net.appuploader.b.l.a(?:?)  binary EaseUIResource bundle in  /opt/mdm-sign/sign/temp/57f3714d-e152-4ff9-82e7-ae2f4dc0fe09/Payload/lebao.app/EaseUIResource.bundle/Info.plist not found witch may cause crash 

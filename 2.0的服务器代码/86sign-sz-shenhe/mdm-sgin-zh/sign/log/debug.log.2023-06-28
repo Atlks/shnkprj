@@ -1,0 +1,22 @@
+2023-06-28 00:38:14,030 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1687883894030,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-28 21:37:36,197 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-06-28 21:37:36,205 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-06-28 21:37:43,779 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/62018546-d0e1-4850-91a2-58bccdf965b6/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-06-28 21:37:43,792 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /opt/mdm-sgin-zh/sign/temp/62018546-d0e1-4850-91a2-58bccdf965b6/Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-06-28 21:38:01,189 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/88e94dc3-047f-4a88-ba09-461a261f0f7d/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 

@@ -1,0 +1,67 @@
+2022-05-24 00:56:25,589 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1653324985589,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-05-24 14:13:16,426 ERROR Thread-10 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 14:28:18,756 ERROR Thread-8 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 14:33:10,388 ERROR Thread-10 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 14:44:19,412 ERROR Thread-48 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 14:45:00,668 ERROR Thread-20 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 14:53:42,992 ERROR Thread-15 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 14:56:06,773 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 15:01:33,462 ERROR Thread-33 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 15:04:35,862 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 15:05:28,023 ERROR Thread-48 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 15:06:03,097 ERROR Thread-48 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 15:55:37,626 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 16:49:09,167 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 17:43:21,239 ERROR Thread-10 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 17:43:22,426 ERROR Thread-10 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 18:16:20,393 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 18:17:01,859 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 18:23:27,687 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 18:25:04,279 ERROR Thread-13 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 19:00:24,995 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 19:17:49,674 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 19:17:58,860 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 19:18:47,991 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 19:19:46,340 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-24 19:48:39,860 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

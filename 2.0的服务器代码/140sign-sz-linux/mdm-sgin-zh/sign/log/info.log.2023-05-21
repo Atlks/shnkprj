@@ -1,0 +1,12 @@
+2023-05-21 15:23:12,816 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-21 15:23:13,358 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/73089022-a1e0-4db8-883c-4e5dd7412e5f/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-21 15:23:16,531 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/fbb01515-500b-473e-a87e-19024cc57ab1/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-21 15:23:19,722 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/45bb3baf-c42a-46f4-8c10-d637e548167f/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-21 15:27:55,356 ERROR Thread-56 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-21 15:30:02,595 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-21 21:33:05,261 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-21 21:33:05,677 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/6fc719ce-112c-4b3b-903e-60f087869e62/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-21 21:33:07,196 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/333440eb-6fc7-4311-b63b-786eaf5da8eb/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-21 21:33:08,703 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/6aa74de8-d752-4177-afa4-b73246e9ad24/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

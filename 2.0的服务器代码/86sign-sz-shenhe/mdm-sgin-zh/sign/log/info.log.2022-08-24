@@ -1,0 +1,6 @@
+2022-08-24 15:33:27,359 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-08-24 15:33:28,782 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/a3bc87b0-ea7a-45c8-81c6-6aa8f2e5b2c1/Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-08-24 15:33:36,343 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/417e5b6e-0d1e-406f-87df-3962adc7a3ec/Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-08-24 15:59:20,870 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-08-24 15:59:22,304 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/09bfb2f5-97ac-407e-aaf3-d9c395a7c638/Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-08-24 15:59:29,898 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/93a173c9-cff5-4356-a953-a7516e94f70c/Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 

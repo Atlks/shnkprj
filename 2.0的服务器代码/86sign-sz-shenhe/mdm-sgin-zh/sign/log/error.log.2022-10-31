@@ -1,0 +1,12 @@
+2022-10-31 09:47:04,848 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1667180824848,"message":"extract file fail with copy file fail invalid stored block lengths","status":0}
+net.appuploader.b.d: extract file fail with copy file fail invalid stored block lengths
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-31 09:47:05,023 ERROR pool-2-thread-3 net.appuploader.b.x.run(?:?)  unzip fail with invalid stored block lengths

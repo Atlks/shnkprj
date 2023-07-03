@@ -1,0 +1,6 @@
+framework module AliyunFYDunSDK {
+  umbrella header "AliyunFYDunSDK.h"
+
+  export *
+  module * { export * }
+}

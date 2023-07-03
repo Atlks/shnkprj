@@ -1,0 +1,3 @@
+2023-03-19 10:16:12,408 INFO main net.appuploader.b.l.a(?:?)  binary YWGameSDK bundle in  /Payload/风流霸业.app/res/images/Pzhan.app/YWGameSDK.bundle/Info.plist not found witch may cause crash 
+2023-03-19 10:16:15,736 INFO main net.appuploader.b.l.a(?:?)  binary YWGameSDK bundle in  /opt/mdm-sgin-zh/sign/temp/9597b2f2-cdea-4516-969a-f8ba49c0cd7c/Payload/风流霸业.app/res/images/Pzhan.app/YWGameSDK.bundle/Info.plist not found witch may cause crash 
+2023-03-19 10:16:31,093 INFO main net.appuploader.b.l.a(?:?)  binary YWGameSDK bundle in  /opt/mdm-sgin-zh/sign/temp/30be8310-ae81-49f6-8831-dcdb847d9752/Payload/风流霸业.app/res/images/Pzhan.app/YWGameSDK.bundle/Info.plist not found witch may cause crash 

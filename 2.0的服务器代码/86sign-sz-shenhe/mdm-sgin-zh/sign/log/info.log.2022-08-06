@@ -1,0 +1,6 @@
+2022-08-06 16:15:11,248 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-08-06 16:15:11,249 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-06 16:15:12,108 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/bf256a91-489a-444e-b805-192ba8ee1c71/Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-06 16:15:12,108 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/bf256a91-489a-444e-b805-192ba8ee1c71/Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-08-06 16:15:16,042 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/5de4c34c-1a25-4672-b93d-baad0e4b4aec/Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-06 16:15:16,042 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/5de4c34c-1a25-4672-b93d-baad0e4b4aec/Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 

@@ -1,0 +1,56 @@
+2022-09-02 11:26:17,100 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1662089177100,"message":"MALFORMED[2]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[2]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-09-02 11:26:17,303 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sign/sign/temp/06024225-69ec-46aa-b417-e951f1a7a0f3/Payload/????.app/Info.plist not found witch may cause crash 
+2022-09-02 11:26:18,617 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sign/sign/temp/e6f1d757-88e4-48aa-a623-b4b69f320a6e/Payload/????.app/Info.plist not found witch may cause crash 
+2022-09-02 11:27:39,644 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1662089259644,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-09-02 13:16:18,150 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Orange bundle in  /Payload/Game1537.app/SDTheme-Orange.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:18,178 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Purple bundle in  /Payload/Game1537.app/SDTheme-Purple.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:18,193 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Blue bundle in  /Payload/Game1537.app/SDTheme-Blue.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:18,193 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Red bundle in  /Payload/Game1537.app/SDTheme-Red.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:18,193 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Orchid bundle in  /Payload/Game1537.app/SDTheme-Orchid.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:18,193 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Green bundle in  /Payload/Game1537.app/SDTheme-Green.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:18,356 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Red bundle in  /opt/mdm-sign/sign/temp/f7cae171-b219-4aab-ae6c-c83c5db674c0/Payload/Game1537.app/SDTheme-Red.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:18,356 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Orange bundle in  /opt/mdm-sign/sign/temp/f7cae171-b219-4aab-ae6c-c83c5db674c0/Payload/Game1537.app/SDTheme-Orange.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:18,360 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Green bundle in  /opt/mdm-sign/sign/temp/f7cae171-b219-4aab-ae6c-c83c5db674c0/Payload/Game1537.app/SDTheme-Green.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:18,365 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Orchid bundle in  /opt/mdm-sign/sign/temp/f7cae171-b219-4aab-ae6c-c83c5db674c0/Payload/Game1537.app/SDTheme-Orchid.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:18,365 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Purple bundle in  /opt/mdm-sign/sign/temp/f7cae171-b219-4aab-ae6c-c83c5db674c0/Payload/Game1537.app/SDTheme-Purple.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:18,365 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Blue bundle in  /opt/mdm-sign/sign/temp/f7cae171-b219-4aab-ae6c-c83c5db674c0/Payload/Game1537.app/SDTheme-Blue.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:19,164 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Red bundle in  /opt/mdm-sign/sign/temp/ff7f0f6d-77f3-4a36-b71c-dbe31eaf326d/Payload/Game1537.app/SDTheme-Red.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:19,164 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Orange bundle in  /opt/mdm-sign/sign/temp/ff7f0f6d-77f3-4a36-b71c-dbe31eaf326d/Payload/Game1537.app/SDTheme-Orange.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:19,168 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Green bundle in  /opt/mdm-sign/sign/temp/ff7f0f6d-77f3-4a36-b71c-dbe31eaf326d/Payload/Game1537.app/SDTheme-Green.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:19,174 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Orchid bundle in  /opt/mdm-sign/sign/temp/ff7f0f6d-77f3-4a36-b71c-dbe31eaf326d/Payload/Game1537.app/SDTheme-Orchid.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:19,174 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Purple bundle in  /opt/mdm-sign/sign/temp/ff7f0f6d-77f3-4a36-b71c-dbe31eaf326d/Payload/Game1537.app/SDTheme-Purple.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:16:19,174 INFO main net.appuploader.b.l.a(?:?)  binary SDTheme-Blue bundle in  /opt/mdm-sign/sign/temp/ff7f0f6d-77f3-4a36-b71c-dbe31eaf326d/Payload/Game1537.app/SDTheme-Blue.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:31:54,467 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /Payload/ProductName.app/Frameworks/UnityFramework.framework/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:31:54,467 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/ProductName.app/Frameworks/UnityFramework.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:31:54,467 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /Payload/ProductName.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:31:54,467 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/ProductName.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:31:55,247 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sign/sign/temp/fc65be02-e7b4-442f-b3cc-6fb675ad3559/Payload/ProductName.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:31:55,247 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/fc65be02-e7b4-442f-b3cc-6fb675ad3559/Payload/ProductName.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:31:55,248 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sign/sign/temp/fc65be02-e7b4-442f-b3cc-6fb675ad3559/Payload/ProductName.app/Frameworks/UnityFramework.framework/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-09-02 13:31:55,248 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/fc65be02-e7b4-442f-b3cc-6fb675ad3559/Payload/ProductName.app/Frameworks/UnityFramework.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-02 22:58:33,054 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-02 22:58:33,413 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/cc902932-36fa-48eb-96a2-36f630536cac/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-02 22:58:36,161 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/681466eb-6a99-4d1b-8ca3-1057fda81d33/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

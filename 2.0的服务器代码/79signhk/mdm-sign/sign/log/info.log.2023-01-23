@@ -1,0 +1,6 @@
+2023-01-23 01:26:16,545 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/奥创棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-01-23 01:26:16,943 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sign/sign/temp/545aaab5-f78c-4bd1-871f-96d788f1f183/Payload/奥创棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-01-23 01:26:18,613 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sign/sign/temp/c722d9b3-6cfb-4324-a11b-525044de4fac/Payload/奥创棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-01-23 16:18:49,461 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-23 16:18:52,360 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sign/sign/temp/97c936fa-65bd-4cbf-999b-45c04f089b0d/Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-23 16:19:13,467 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sign/sign/temp/f0f3fd1a-3df4-4834-8375-d6e3f9cc2e8f/Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 

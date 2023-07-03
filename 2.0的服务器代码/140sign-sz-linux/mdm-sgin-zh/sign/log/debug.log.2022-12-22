@@ -1,0 +1,18 @@
+2022-12-22 11:00:34,541 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/jh2.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-12-22 11:00:38,160 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/de800eaa-06c6-4044-9dad-d9617fa20372/Payload/jh2.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-12-22 11:00:52,356 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/9748b564-3f47-4ea8-8730-ca5303ad68f6/Payload/jh2.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-12-22 11:01:06,737 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/f6ceb085-2f65-48a6-9abe-d50dddf86067/Payload/jh2.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-12-22 16:09:43,607 ERROR Thread-20 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-22 16:09:45,411 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-22 16:09:49,141 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-22 16:31:42,653 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-22 16:31:42,957 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/2c4c5b80-846a-467e-b566-77cb61396532/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-22 16:31:44,450 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/d362f532-1b13-42b8-a5df-17daf0abee85/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-22 16:31:45,940 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/573304ee-5abf-468f-863e-47eda1e0af0b/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-22 19:12:14,768 ERROR Thread-49 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-22 19:13:16,179 ERROR Thread-71 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

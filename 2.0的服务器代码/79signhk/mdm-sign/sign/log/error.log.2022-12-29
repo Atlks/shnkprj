@@ -1,0 +1,103 @@
+2022-12-29 10:16:06,318 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1672280166318,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-29 10:16:20,022 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1672280180022,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-29 14:46:12,081 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1672296372081,"message":"extract file fail /opt/mdm-sign/sign/temp/11924481-e54c-44db-88ec-dbaacc319c46/Payload/Hẹnhò.app/Frameworks/NMC.framework/NMC -> /opt/mdm-sign/sign/temp/ae2ffe96-c5ae-421e-810c-390b05af6b13/NMC1672296371754_446: No space left on device","status":0}
+net.appuploader.b.d: extract file fail /opt/mdm-sign/sign/temp/11924481-e54c-44db-88ec-dbaacc319c46/Payload/Hẹnhò.app/Frameworks/NMC.framework/NMC -> /opt/mdm-sign/sign/temp/ae2ffe96-c5ae-421e-810c-390b05af6b13/NMC1672296371754_446: No space left on device
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-29 14:46:24,531 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1672296384531,"message":"Create zip file fail java.io.IOException: No space left on device","status":0}
+net.appuploader.b.d: Create zip file fail java.io.IOException: No space left on device
+	at net.appuploader.b.x.a(Unknown Source)
+	at net.appuploader.b.x.b(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-29 14:46:33,323 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1672296393323,"message":"Create zip file fail java.io.IOException: No space left on device","status":0}
+net.appuploader.b.d: Create zip file fail java.io.IOException: No space left on device
+	at net.appuploader.b.x.a(Unknown Source)
+	at net.appuploader.b.x.b(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-29 14:46:33,624 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1672296393624,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-29 14:51:07,410 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1672296667410,"message":"extract file fail with copy file fail No space left on device","status":0}
+net.appuploader.b.d: extract file fail with copy file fail No space left on device
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-29 14:51:07,462 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1672296667462,"message":"Create zip file fail No space left on device","status":0}
+net.appuploader.b.d: Create zip file fail No space left on device
+	at net.appuploader.b.x.a(Unknown Source)
+	at net.appuploader.b.x.b(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-29 14:51:07,864 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1672296667864,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.x.b(Unknown Source)
+	at net.appuploader.b.x.a(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-29 14:52:07,320 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1672296727320,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.x.b(Unknown Source)
+	at net.appuploader.b.x.a(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

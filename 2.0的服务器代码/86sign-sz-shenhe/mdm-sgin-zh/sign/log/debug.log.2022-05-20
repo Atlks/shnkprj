@@ -1,0 +1,54 @@
+2022-05-20 09:52:36,684 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-20 14:14:24,123 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/ringtail_glumpiness.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 14:14:25,715 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/03f47b4f-d5e3-4654-a798-82d6593765ce/Payload/ringtail_glumpiness.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 14:14:40,924 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/7834273e-95b2-4da2-9b55-fcf670ac3957/Payload/ringtail_glumpiness.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 14:17:21,967 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/ringtail_glumpiness.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 14:17:23,596 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/56f3fa2c-02cd-41e0-b85a-6d0b2bbc2341/Payload/ringtail_glumpiness.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 14:17:40,096 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/8c545078-262a-403e-82d0-edde7860f438/Payload/ringtail_glumpiness.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 14:17:51,164 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/dafe812e-073b-46a8-a77c-d1fdbf33276e/Payload/ringtail_glumpiness.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 14:21:58,334 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-20 14:22:22,618 INFO main net.appuploader.b.l.a(?:?)  binary 全民娱乐城 bundle in  /Payload/大福茶庄.app/Info.plist not found witch may cause crash 
+2022-05-20 14:22:22,747 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1653027742747,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-05-20 14:22:22,918 INFO main net.appuploader.b.l.a(?:?)  binary 全民娱乐城 bundle in  /opt/mdm-sgin-zh/sign/temp/1ff12c16-cb6c-49b3-8ed3-55425e5fc14d/Payload/大福茶庄.app/Info.plist not found witch may cause crash 
+2022-05-20 14:22:22,931 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1653027742931,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-05-20 14:22:23,102 INFO main net.appuploader.b.l.a(?:?)  binary 全民娱乐城 bundle in  /opt/mdm-sgin-zh/sign/temp/9d2214e4-4e0d-418e-8186-a35c8ff0d787/Payload/大福茶庄.app/Info.plist not found witch may cause crash 
+2022-05-20 14:22:23,115 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1653027743115,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-05-20 16:57:11,553 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/teliospore_tirage.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 16:57:13,155 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/1b6b3517-7f3b-4fbb-a3db-3df165e61872/Payload/teliospore_tirage.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 16:57:29,706 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/c0513e0e-457c-44f9-9ce5-b41afdb9bfbf/Payload/teliospore_tirage.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 17:23:48,026 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/teliospore_tirage.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 17:23:49,652 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0dea6427-26c0-497a-a058-3cf714f7413f/Payload/teliospore_tirage.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 17:24:01,027 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3af34743-5a69-41a0-af58-f485a9637bcc/Payload/teliospore_tirage.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 17:24:16,981 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/086c1d83-fd3a-4ad2-bbba-51628836db57/Payload/teliospore_tirage.app/FXMLSYResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-05-20 18:09:53,664 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-20 18:40:24,450 ERROR Thread-37 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-20 19:55:21,940 ERROR Thread-79 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-20 20:02:10,841 ERROR Thread-72 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-05-20 23:37:13,333 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-05-20 23:37:13,981 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/de7fbf61-95d8-4f6a-9b3c-2e8649eb137b/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-05-20 23:37:16,595 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/d14fc993-16ab-4e0b-9f15-bce63efaf612/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-05-20 23:37:19,188 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/a0d00e62-9d87-4d9a-b7d7-dc7f8dd64eb0/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

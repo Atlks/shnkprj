@@ -1,0 +1,36 @@
+2022-11-25 00:40:00,717 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/flok.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-25 00:40:00,718 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /Payload/flok.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-11-25 00:40:01,757 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/4139fa86-689e-4a6e-b2fd-cc8b4d587d02/Payload/flok.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-11-25 00:40:01,757 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/4139fa86-689e-4a6e-b2fd-cc8b4d587d02/Payload/flok.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-25 00:40:06,506 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/a370657e-886f-48cd-ae79-248420ffca60/Payload/flok.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-11-25 00:40:06,507 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/a370657e-886f-48cd-ae79-248420ffca60/Payload/flok.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-25 00:40:11,180 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/d80fefe9-6ca6-4a23-bf01-ea553d89081b/Payload/flok.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-11-25 00:40:11,181 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/d80fefe9-6ca6-4a23-bf01-ea553d89081b/Payload/flok.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-25 11:02:49,942 INFO main net.appuploader.b.l.a(?:?)  binary 德森 bundle in  /Payload/寰锋．.app/Info.plist not found witch may cause crash 
+2022-11-25 11:02:50,195 INFO main net.appuploader.b.l.a(?:?)  binary 德森 bundle in  /opt/mdm-sgin-zh/sign/temp/db56ef70-f40b-4ab7-b7f4-f141545460a2/Payload/寰锋．.app/Info.plist not found witch may cause crash 
+2022-11-25 11:02:51,138 INFO main net.appuploader.b.l.a(?:?)  binary 德森 bundle in  /opt/mdm-sgin-zh/sign/temp/0cb8fe78-59f3-4001-8d4f-1a53c8521373/Payload/寰锋．.app/Info.plist not found witch may cause crash 
+2022-11-25 11:02:52,088 INFO main net.appuploader.b.l.a(?:?)  binary 德森 bundle in  /opt/mdm-sgin-zh/sign/temp/5199722e-5002-4b7b-8a8e-4d17cd59283d/Payload/寰锋．.app/Info.plist not found witch may cause crash 
+2022-11-25 11:28:05,789 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1669346885789,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-11-25 16:48:27,940 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-11-25 16:48:28,240 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/36e13961-5951-46ff-8cb7-9297e014893f/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-11-25 16:48:29,775 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/7df29226-bf0a-42fc-a1d3-873db712e205/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-11-25 16:48:31,306 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/3c6d6bf6-ad94-4b35-962b-df78eb39291d/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-11-25 19:17:06,328 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /Payload/ProductName.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2022-11-25 19:17:08,477 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/d02b16c3-65a8-4471-9ce6-6183c444701a/Payload/ProductName.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2022-11-25 19:17:19,560 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/9031fd08-7fb3-4400-904e-8322f0f8557e/Payload/ProductName.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2022-11-25 19:17:30,743 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/2fd7e114-9a3d-49af-aa51-500315a0bc3b/Payload/ProductName.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:48:53,211 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /Payload/FGCQLibClient-mobile.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:48:53,256 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /Payload/FGCQLibClient-mobile.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:48:53,716 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/8e2bdd2f-0ad1-44ed-a6e6-69f7e2d62dcd/Payload/FGCQLibClient-mobile.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:48:53,722 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/8e2bdd2f-0ad1-44ed-a6e6-69f7e2d62dcd/Payload/FGCQLibClient-mobile.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:48:55,187 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/64b4f7e0-ac17-4480-a0a7-22a5694f021c/Payload/FGCQLibClient-mobile.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:48:55,193 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/64b4f7e0-ac17-4480-a0a7-22a5694f021c/Payload/FGCQLibClient-mobile.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:48:56,660 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/99e23517-ddbf-4d6c-b22e-485ad8c4db23/Payload/FGCQLibClient-mobile.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:48:56,666 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/99e23517-ddbf-4d6c-b22e-485ad8c4db23/Payload/FGCQLibClient-mobile.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 

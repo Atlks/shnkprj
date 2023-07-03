@@ -1,0 +1,4 @@
+2022-10-07 19:30:35,888 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-07 19:30:36,717 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sign/sign/temp/88f2ab58-f93f-41e2-a4c4-0d8b3fabc80d/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-07 19:36:32,188 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/jyqy.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-07 19:36:33,508 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sign/sign/temp/0092b2c3-4bcf-4e1b-923e-4445dbeba699/Payload/jyqy.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 

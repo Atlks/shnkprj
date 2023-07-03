@@ -1,0 +1,671 @@
+2022-02-23 00:12:08,607 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 00:12:10,085 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/ae391222-9a77-4ab9-90a7-e069db96a936/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 00:12:18,334 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/525ffd7f-7121-44d6-a566-887ce295cee1/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 00:12:43,591 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 00:12:44,934 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/cd0543fd-99cf-4a75-9dfd-44b466697b97/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 00:12:56,424 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/1008c0e4-2df5-4ee9-87f5-fcabc7f21cc8/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 00:17:34,180 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 00:17:35,419 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/9894a9ca-951e-489b-975b-fad6e8713214/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 00:17:43,205 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/8081ae29-3b19-4375-a5fe-e9b9a40fde69/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 00:17:50,953 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/cd3eae9a-e99b-4f06-8551-2030ed0308f1/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 11:15:07,142 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 11:23:24,921 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 11:23:24,922 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645586604922,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 11:23:31,168 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 11:23:31,168 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645586611168,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 11:23:34,530 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 11:23:55,212 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 11:24:18,495 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 11:24:18,496 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645586658496,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 11:24:21,879 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:13:02,895 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:13:02,895 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645589582895,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:13:06,724 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:13:37,447 ERROR Thread-57 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:28:54,420 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:28:54,420 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645590534420,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:28:57,999 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:31:36,591 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:31:36,591 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645590696591,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:31:40,144 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:31:41,402 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:31:41,402 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645590701402,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:31:44,785 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:32:54,181 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:36:04,424 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:36:04,424 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645590964424,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:36:44,191 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:36:44,191 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645591004191,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:43:09,229 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:43:09,229 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645591389229,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:43:13,061 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:43:31,776 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:43:31,776 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645591411776,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:44:47,232 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:44:47,232 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645591487232,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:44:51,202 ERROR Thread-52 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:46:54,983 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:46:54,984 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645591614984,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:46:58,783 ERROR Thread-69 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:47:04,218 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:47:04,218 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645591624218,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:47:05,201 ERROR Thread-69 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:47:08,010 ERROR Thread-69 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:47:09,263 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:47:09,263 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645591629263,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:47:13,107 ERROR Thread-69 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:47:14,254 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:47:14,254 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645591634254,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:47:16,971 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:47:16,971 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645591636971,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:47:18,082 ERROR Thread-69 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:49:50,748 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 12:49:50,748 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645591790748,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 12:49:54,329 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 13:06:25,317 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-23 13:06:25,333 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-23 13:06:25,333 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-23 13:06:27,745 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/532a7649-20dd-4931-a464-a575b81c7e5a/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-23 13:06:27,747 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/532a7649-20dd-4931-a464-a575b81c7e5a/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-23 13:06:27,748 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/532a7649-20dd-4931-a464-a575b81c7e5a/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-23 13:06:45,006 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/04439d87-5b4d-4738-9d6c-befa72179bef/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-23 13:06:45,008 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/04439d87-5b4d-4738-9d6c-befa72179bef/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-23 13:06:45,009 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/04439d87-5b4d-4738-9d6c-befa72179bef/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-23 13:42:37,082 ERROR Thread-49 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 13:42:42,209 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 13:42:42,209 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645594962209,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 13:44:27,163 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 13:44:27,163 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645595067163,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 13:53:56,172 ERROR Thread-69 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 13:55:12,053 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 14:00:31,596 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 14:00:31,596 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645596031596,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 14:00:34,938 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 14:00:46,535 ERROR Thread-49 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 14:01:40,543 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 14:02:19,640 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 14:02:19,640 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645596139640,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 15:07:15,288 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 15:07:16,713 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/46b6b743-468d-44e2-960c-4aeba2db8674/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 15:07:26,022 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/4a26ee19-9601-4341-9db5-b422dc5ee9fe/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 15:30:09,608 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:30:09,608 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645601409608,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 15:30:27,608 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:30:27,608 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645601427608,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 15:30:48,055 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:30:49,356 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:30:49,356 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645601449356,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 15:31:56,140 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:31:56,140 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645601516140,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 15:32:44,030 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:33:52,801 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:33:52,801 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645601632801,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 15:33:57,526 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:34:37,018 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:34:37,018 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645601677018,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 15:39:19,751 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:39:19,751 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645601959751,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 15:40:16,985 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:41:17,407 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:41:17,407 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645602077407,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 15:41:20,944 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:42:11,620 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:42:11,620 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645602131620,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 15:42:57,493 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:44:23,387 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:44:23,387 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645602263387,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 15:44:27,565 ERROR Thread-26 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:44:54,042 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:45:02,018 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 15:45:02,018 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645602302018,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 16:10:07,996 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 16:10:07,996 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645603807996,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 16:25:43,423 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 16:25:44,904 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/2290c29a-2638-44fe-8c2a-a9128bfdd91e/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 16:25:55,015 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/af67953c-7e5d-47f2-99a9-ee522ad66f2f/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 16:26:04,369 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/de128281-8eb5-4c3b-8682-6f77b261f0a6/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 16:48:11,126 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 16:48:11,126 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645606091126,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 16:48:14,703 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 16:48:47,495 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 16:48:47,496 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645606127496,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 16:48:50,881 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 16:48:54,293 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 16:48:54,293 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645606134293,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 16:48:56,589 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 16:48:57,676 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 16:49:09,327 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 16:49:09,327 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645606149327,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 16:49:13,133 ERROR Thread-69 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 16:53:20,007 ERROR Thread-62 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 17:07:16,362 INFO main net.appuploader.b.l.a(?:?)  binary xlua bundle in  /Payload/tianfujiyun.app/xlua.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-23 17:07:17,862 INFO main net.appuploader.b.l.a(?:?)  binary xlua bundle in  /opt/mdm-sgin-zh/sign/temp/c083ff24-e8f9-4f33-bab1-2f9fc020f495/Payload/tianfujiyun.app/xlua.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-23 17:07:28,013 INFO main net.appuploader.b.l.a(?:?)  binary xlua bundle in  /opt/mdm-sgin-zh/sign/temp/81cd6bae-a30e-4b66-8a87-3c94845f9f75/Payload/tianfujiyun.app/xlua.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-23 17:07:38,212 INFO main net.appuploader.b.l.a(?:?)  binary xlua bundle in  /opt/mdm-sgin-zh/sign/temp/b2ebdbf3-7217-4640-ab48-edfd0d2cb010/Payload/tianfujiyun.app/xlua.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-23 17:52:59,779 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 17:53:00,957 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/b0569dac-4880-4aee-a869-645c4532bcfc/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 17:53:08,919 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/254d2f0c-98db-48cb-afaf-e4fd1c9c8b05/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 17:54:15,150 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 17:54:16,354 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/199917b3-8927-4fb8-9bf4-62235c098f14/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 17:54:23,748 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/124327ce-6bee-41fd-9655-6d66adda41c2/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 17:54:31,173 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/f7987c62-78ec-4be3-8d54-57bdd295fc59/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-23 18:09:08,301 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 18:13:15,275 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 18:13:15,275 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645611195275,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 19:19:41,280 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:19:41,281 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645615181281,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 19:19:54,106 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:19:54,106 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645615194106,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 19:19:55,205 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:19:55,205 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645615195205,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 19:19:57,497 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:19:58,600 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:20:52,346 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:20:52,346 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645615252346,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 19:20:56,521 ERROR Thread-68 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:21:52,594 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:22:29,560 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:22:29,560 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645615349560,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 19:23:17,339 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:23:17,339 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645615397339,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 19:23:20,723 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:24:41,833 ERROR Thread-68 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:25:19,797 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:25:19,797 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645615519797,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 19:25:33,084 ERROR Thread-68 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:25:47,150 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:26:00,854 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:26:00,854 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645615560854,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 19:26:21,197 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:26:36,105 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:26:52,941 ERROR Thread-68 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:27:09,270 ERROR Thread-68 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:27:45,354 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 19:27:45,354 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645615665354,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 20:13:00,980 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 20:13:00,981 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645618380981,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 20:13:04,590 ERROR Thread-9 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 20:13:12,229 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 20:13:12,229 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645618392229,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 20:13:32,937 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 20:13:32,938 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645618412938,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 20:13:37,119 ERROR Thread-68 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 20:13:50,804 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 20:13:58,221 ERROR Thread-68 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 20:14:32,605 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 20:14:32,605 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645618472605,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 20:14:36,401 ERROR Thread-69 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 20:16:18,548 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 20:17:42,650 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 20:17:42,650 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645618662650,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 20:17:45,109 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 20:17:55,483 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 20:18:02,857 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 21:24:55,907 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 21:24:55,907 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645622695907,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 21:25:27,726 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 21:25:27,726 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645622727726,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 21:26:54,464 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 21:27:53,530 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 21:28:13,637 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-23 21:28:13,637 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645622893637,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-23 21:43:00,372 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-23 21:43:00,738 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/3bd3bd90-83ad-49c9-ba2a-8fb45452ecdd/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-23 21:43:02,133 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/932c2b2c-7b8e-4292-9783-784b2a59f150/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-23 22:50:15,475 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-23 22:50:15,834 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/523d3d57-8a77-4b3a-9a6a-c8232b97821d/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-23 22:50:17,238 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/7d757b84-d3b3-4952-b572-732bc2847105/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 

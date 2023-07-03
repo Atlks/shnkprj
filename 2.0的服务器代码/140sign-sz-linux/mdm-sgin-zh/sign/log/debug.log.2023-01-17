@@ -1,0 +1,48 @@
+2023-01-17 02:43:46,869 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1673894626869,"message":"Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages","status":0}
+java.util.MissingResourceException: Could not load any resource bundle by com.sun.org.apache.xerces.internal.impl.msg.XMLMessages
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:174)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport$7.run(SecuritySupport.java:166)
+	at java.security.AccessController.doPrivileged(AccessController.java:81)
+	at com.sun.org.apache.xerces.internal.utils.SecuritySupport.getResourceBundle(SecuritySupport.java:166)
+	at com.sun.org.apache.xerces.internal.impl.msg.XMLMessageFormatter.formatMessage(XMLMessageFormatter.java:74)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:357)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:327)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1472)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2923)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:602)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:505)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:842)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339)
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:121)
+	at com.dd.plist.XMLPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at net.appuploader.e.a.b.a(Unknown Source)
+	at net.appuploader.e.a.f.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-01-17 20:13:06,951 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-01-17 20:13:07,265 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/b54080ef-ee70-48c4-8476-f96cd0a570de/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-01-17 20:13:08,806 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/d720fdb6-caa1-4b28-aa53-edf2fbdba5bb/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-01-17 20:13:10,075 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-01-17 20:13:11,373 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/946db6ab-d79f-41a0-bc59-dd609838bba5/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-01-17 20:13:12,111 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/b96b3b2c-73c0-463f-8b2c-7c0ff4d5719a/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-01-17 20:13:19,119 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/06bfb6ab-395b-4a76-91cf-f748d8ccd328/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-01-17 20:13:26,126 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/65c9f036-d61e-4a2d-acab-724d58035528/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-01-17 20:33:39,166 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-17 20:33:40,465 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/eb9cc9a5-0518-4f48-9cf8-2e41157ac0f5/Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-17 20:33:46,315 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/c63ced35-8636-49b3-a17b-4c4866faedd8/Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-17 20:33:52,038 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/ba5efff0-4407-4622-9f4e-85ea516fa841/Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 

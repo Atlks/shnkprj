@@ -1,0 +1,30 @@
+2023-04-10 09:52:13,204 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼 bundle in  /Payload/ 鑫鑫街机捕鱼.app/Info.plist not found witch may cause crash 
+2023-04-10 09:52:13,308 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1681091533308,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-04-10 09:52:13,546 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼 bundle in  /opt/mdm-sgin-zh/sign/temp/3a73bcd4-d3c9-42a8-9db6-9af8fed0aecb/Payload/ 鑫鑫街机捕鱼.app/Info.plist not found witch may cause crash 
+2023-04-10 09:52:13,558 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1681091533558,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-04-10 09:52:13,829 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼 bundle in  /opt/mdm-sgin-zh/sign/temp/f3380d6e-cf9b-4593-8efe-0f533a04519d/Payload/ 鑫鑫街机捕鱼.app/Info.plist not found witch may cause crash 
+2023-04-10 09:52:13,841 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1681091533841,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-04-10 11:24:05,051 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /Payload/传奇游戏合集.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2023-04-10 11:24:05,051 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/传奇游戏合集.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-10 11:24:05,116 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/c7a802bb-e747-427d-a589-23e0af34cca8/Payload/传奇游戏合集.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2023-04-10 11:24:05,116 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/c7a802bb-e747-427d-a589-23e0af34cca8/Payload/传奇游戏合集.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-10 11:24:05,519 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/a6faf5e7-39bd-4859-a0b3-dc85b3d4174b/Payload/传奇游戏合集.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2023-04-10 11:24:05,519 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/a6faf5e7-39bd-4859-a0b3-dc85b3d4174b/Payload/传奇游戏合集.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 

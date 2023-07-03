@@ -1,0 +1,30 @@
+2023-05-27 02:19:14,596 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-05-27 02:19:14,604 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-05-27 02:19:17,723 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/51277cc1-546c-48ca-810c-0d9ce5c144cb/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-05-27 02:19:17,846 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /opt/mdm-sgin-zh/sign/temp/51277cc1-546c-48ca-810c-0d9ce5c144cb/Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-05-27 02:19:26,086 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/98244978-d9a1-4879-9520-b90e676b72fb/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-05-27 14:45:13,504 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-27 14:45:14,073 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/a93776dd-68b3-4691-80e0-422c20e2292a/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-27 14:45:17,703 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/da15440f-832a-4353-9715-c291467f2561/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-27 16:51:01,587 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1685177461587,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-27 18:33:36,038 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-05-27 18:33:36,046 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-05-27 18:33:38,514 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/5d45ecce-4055-4f96-b44d-7ba2cc82cd25/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-05-27 18:33:38,636 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /opt/mdm-sgin-zh/sign/temp/5d45ecce-4055-4f96-b44d-7ba2cc82cd25/Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-05-27 18:33:43,829 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/851313e0-9d71-46b7-a2a1-2c1f68fcb725/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 

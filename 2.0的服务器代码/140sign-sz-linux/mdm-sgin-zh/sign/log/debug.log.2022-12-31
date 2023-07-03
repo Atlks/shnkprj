@@ -1,0 +1,60 @@
+2022-12-31 15:16:14,316 ERROR Thread-12 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-31 17:08:57,501 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1672477737501,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-31 22:21:43,010 ERROR Thread-26 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-31 23:13:39,415 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/大满贯.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:13:39,809 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/e8956a1e-4da2-467d-89f8-43bc46cb920e/Payload/大满贯.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:13:41,175 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/cae01f6f-916d-4309-92df-eb0ec44a325d/Payload/大满贯.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:13:42,553 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/5d2aab34-d1d5-4cf4-93d7-562cd4407fdc/Payload/大满贯.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:33,006 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/UnityFramework.framework/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:33,006 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /Payload/gl.app/Frameworks/UnityFramework.framework/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:33,007 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/UnityFramework.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:33,060 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:33,060 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /Payload/gl.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:33,061 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:34,176 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/3507996f-bf65-4d4e-b53f-a8fd57013aa3/Payload/gl.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:34,176 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/3507996f-bf65-4d4e-b53f-a8fd57013aa3/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:34,177 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/3507996f-bf65-4d4e-b53f-a8fd57013aa3/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:34,182 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/3507996f-bf65-4d4e-b53f-a8fd57013aa3/Payload/gl.app/Frameworks/UnityFramework.framework/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:34,183 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/3507996f-bf65-4d4e-b53f-a8fd57013aa3/Payload/gl.app/Frameworks/UnityFramework.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:34,225 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/3507996f-bf65-4d4e-b53f-a8fd57013aa3/Payload/gl.app/Frameworks/UnityFramework.framework/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:39,527 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/9552a5f4-25e1-422c-aad9-2300ea7fbc87/Payload/gl.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:39,527 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/9552a5f4-25e1-422c-aad9-2300ea7fbc87/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:39,528 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/9552a5f4-25e1-422c-aad9-2300ea7fbc87/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:39,533 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/9552a5f4-25e1-422c-aad9-2300ea7fbc87/Payload/gl.app/Frameworks/UnityFramework.framework/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:39,534 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/9552a5f4-25e1-422c-aad9-2300ea7fbc87/Payload/gl.app/Frameworks/UnityFramework.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:39,575 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/9552a5f4-25e1-422c-aad9-2300ea7fbc87/Payload/gl.app/Frameworks/UnityFramework.framework/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:44,901 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/0e279fcc-cdde-4671-89b5-e6372a8ce4c9/Payload/gl.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:44,902 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/0e279fcc-cdde-4671-89b5-e6372a8ce4c9/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:44,903 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/0e279fcc-cdde-4671-89b5-e6372a8ce4c9/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:44,908 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/0e279fcc-cdde-4671-89b5-e6372a8ce4c9/Payload/gl.app/Frameworks/UnityFramework.framework/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:44,909 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/0e279fcc-cdde-4671-89b5-e6372a8ce4c9/Payload/gl.app/Frameworks/UnityFramework.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:23:44,950 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/0e279fcc-cdde-4671-89b5-e6372a8ce4c9/Payload/gl.app/Frameworks/UnityFramework.framework/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:35:10,052 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:35:10,481 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/93c7381e-00df-49e4-9ce7-94f6db6b9e55/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:35:11,981 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/bccb4b21-1c26-437a-80c6-ea47d69aef83/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:35:13,482 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/32613fbb-7d41-4e5e-8120-98c1c1e8084a/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:35:40,280 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:35:40,708 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/617fee9b-5e0b-411b-9a68-395f7908be6f/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:35:42,224 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/982586cd-dc0f-4b60-859a-91d9c480abcb/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:35:43,742 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/0a7ccf91-5c9e-408d-838d-254233ce9eb8/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:35:50,266 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:35:50,916 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/16c88c32-076b-4692-957f-e8fd67a134c2/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:35:53,476 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/2fe463af-c23c-4c64-be5d-7dfabc309cfb/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:35:56,035 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/389ee818-b062-4365-8903-985d9417e0af/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:36:20,640 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:36:21,118 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/c1958bf5-1f84-4fef-8929-07005e4a0432/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:36:22,597 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/3197dcab-ec81-4436-8ede-73d78c350c53/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:36:24,093 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/6dac4e8d-afba-496a-a20a-bde7413412d2/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:37:57,910 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:37:58,338 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/5ef5fa3f-a28f-4f02-9248-2226800e30ee/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:37:59,928 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/0c7fe19c-a72d-4e56-b155-c47f6ba87376/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-31 23:38:01,445 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/495da0a7-904a-4cf9-a28c-e4236f0a6274/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

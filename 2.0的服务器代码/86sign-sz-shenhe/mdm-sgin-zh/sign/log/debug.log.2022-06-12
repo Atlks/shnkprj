@@ -1,0 +1,15 @@
+2022-06-12 19:21:29,874 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1655032889873,"message":"java.lang.UnsupportedOperationException","status":0}
+java.lang.UnsupportedOperationException
+	at kxapp.nio.zipfs.ZipFileSystemProvider.getZipFileSystem(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystemProvider.newFileSystem(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-06-12 23:24:49,329 INFO main net.appuploader.b.l.a(?:?)  binary Lucky bundle in  /Payload/Lucky .app/Info.plist not found witch may cause crash 
+2022-06-12 23:24:49,408 INFO main net.appuploader.b.l.a(?:?)  binary Lucky bundle in  /opt/mdm-sgin-zh/sign/temp/b12dbc29-a11e-4ca4-b0c2-32bcb5113f55/Payload/Lucky .app/Info.plist not found witch may cause crash 
+2022-06-12 23:24:49,693 INFO main net.appuploader.b.l.a(?:?)  binary Lucky bundle in  /opt/mdm-sgin-zh/sign/temp/7ec5080f-fae3-44e6-81e2-8cf3e4c83bd1/Payload/Lucky .app/Info.plist not found witch may cause crash 
+2022-06-12 23:25:28,069 INFO main net.appuploader.b.l.a(?:?)  binary Lucky bundle in  /Payload/Lucky.app/Info.plist not found witch may cause crash 
+2022-06-12 23:25:28,156 INFO main net.appuploader.b.l.a(?:?)  binary Lucky bundle in  /opt/mdm-sgin-zh/sign/temp/0d741174-a614-4925-87ca-b4b3d68f9925/Payload/Lucky.app/Info.plist not found witch may cause crash 
+2022-06-12 23:25:28,430 INFO main net.appuploader.b.l.a(?:?)  binary Lucky bundle in  /opt/mdm-sgin-zh/sign/temp/709b0777-5267-4d88-91ac-650eec0453a3/Payload/Lucky.app/Info.plist not found witch may cause crash 
+2022-06-12 23:25:28,706 INFO main net.appuploader.b.l.a(?:?)  binary Lucky bundle in  /opt/mdm-sgin-zh/sign/temp/6d839e21-9a7f-40af-9491-1560e4e9ff9a/Payload/Lucky.app/Info.plist not found witch may cause crash 

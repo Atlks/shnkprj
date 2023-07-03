@@ -1,0 +1,31 @@
+2023-05-15 00:32:50,376 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-05-15 00:32:52,068 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sign/sign/temp/a3f57465-b8d7-4542-83f8-d28fa67e06f6/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-05-15 00:32:58,723 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sign/sign/temp/2e3295fe-6acc-4c9a-bd54-7d60a6eb48a4/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-05-15 00:57:25,365 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-05-15 00:57:27,067 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sign/sign/temp/10ea66fb-ba9c-477d-ae66-da46c353ab23/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-05-15 00:57:33,743 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sign/sign/temp/9e8e936e-b39a-4d57-b013-83b1b1cc860c/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-05-15 03:27:17,341 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1684092437341,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-15 08:40:10,046 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-15 08:40:12,550 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sign/sign/temp/f8466fb8-5782-455f-a681-c7a71a2d1387/Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-15 08:40:33,473 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sign/sign/temp/31c5cfe5-bb02-468e-9512-a23442aa64cb/Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-15 17:46:45,845 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/Leiniulvse.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-15 17:46:46,743 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sign/sign/temp/ae6dce87-779f-471b-8e2f-941551611d87/Payload/Leiniulvse.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-15 20:43:50,216 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-15 20:43:50,597 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/b3937b38-964b-4c1a-923e-67abadbe8e50/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-15 20:43:52,233 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/e2462cde-e681-462a-b518-8b9bd3240dc4/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

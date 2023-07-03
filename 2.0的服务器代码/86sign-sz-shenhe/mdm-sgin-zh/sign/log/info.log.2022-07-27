@@ -1,0 +1,29 @@
+2022-07-27 14:40:00,810 INFO main net.appuploader.b.l.a(?:?)  binary 金豆扑克 bundle in  /Payload/qq.app/Info.plist not found witch may cause crash 
+2022-07-27 14:40:00,811 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1658904000811,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-07-27 17:08:42,400 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /Payload/ios.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-07-27 17:08:42,400 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /Payload/ios.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-07-27 17:08:44,906 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/afc8ea01-cddd-472f-b00b-210cadeec317/Payload/ios.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-07-27 17:08:44,938 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/afc8ea01-cddd-472f-b00b-210cadeec317/Payload/ios.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-07-27 17:09:05,996 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/29a137d0-d253-4078-9339-d658c64c5ab0/Payload/ios.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-07-27 17:09:06,028 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/29a137d0-d253-4078-9339-d658c64c5ab0/Payload/ios.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-07-27 17:39:18,612 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-27 17:39:19,396 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/f746ff9c-4dee-49b4-a5ef-b1d7f4e18dc7/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-27 17:39:24,237 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/a144d0fe-0105-4fc7-890e-1b5d1d8dea5e/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-27 21:13:44,007 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/黄金轮.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-07-27 21:13:44,280 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/2e339845-fc45-4c4d-bb07-560cf10048c9/Payload/黄金轮.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-07-27 21:13:45,676 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/973887fc-e748-48f1-a2c0-4f29af9a92dc/Payload/黄金轮.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 

@@ -1,0 +1,36 @@
+2022-10-06 16:07:59,249 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1665043679249,"message":"extract file fail with copy file fail invalid block type","status":0}
+net.appuploader.b.d: extract file fail with copy file fail invalid block type
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-06 16:07:59,285 ERROR pool-2-thread-7 net.appuploader.b.x.run(?:?)  unzip fail with invalid stored block lengths
+2022-10-06 16:07:59,304 ERROR pool-2-thread-8 net.appuploader.b.x.run(?:?)  unzip fail with invalid block type
+2022-10-06 16:07:59,366 ERROR pool-2-thread-2 net.appuploader.b.x.run(?:?)  unzip fail with invalid stored block lengths
+2022-10-06 16:29:39,179 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1665044979179,"message":"extract file fail with copy file fail invalid block type","status":0}
+net.appuploader.b.d: extract file fail with copy file fail invalid block type
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-06 16:29:39,215 ERROR pool-2-thread-2 net.appuploader.b.x.run(?:?)  unzip fail with invalid stored block lengths
+2022-10-06 16:29:39,234 ERROR pool-2-thread-2 net.appuploader.b.x.run(?:?)  unzip fail with invalid block type
+2022-10-06 16:29:39,298 ERROR pool-2-thread-3 net.appuploader.b.x.run(?:?)  unzip fail with invalid stored block lengths
+2022-10-06 16:41:55,919 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1665045715919,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

@@ -1,0 +1,17 @@
+2022-08-17 10:46:29,203 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /Payload/dgame.app/heepayImage.bundle/Info.plist not found witch may cause crash 
+2022-08-17 10:46:32,328 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/aace2bf3-7e61-445e-9f08-96d75f1481b9/Payload/dgame.app/heepayImage.bundle/Info.plist not found witch may cause crash 
+2022-08-17 10:46:47,583 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/b47c8515-cfcc-4485-bc79-934686721c5b/Payload/dgame.app/heepayImage.bundle/Info.plist not found witch may cause crash 
+2022-08-17 15:54:25,984 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1660722865984,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-08-17 18:28:46,804 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/com.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-17 18:28:48,000 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/89096060-d2ee-412c-b19e-21911c8d387f/Payload/com.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-17 18:28:56,284 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/cd3339c6-4bc5-45ca-b212-953cb35fd10d/Payload/com.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-17 18:30:23,567 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/jh2.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-17 18:30:27,170 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/f1b77ab9-d2cc-49c0-9a8f-f35fd520ba34/Payload/jh2.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-17 18:30:55,907 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/a9ff91e2-bbd9-4e08-8f00-78704e7f03c8/Payload/jh2.app/5uwantw.bundle/Info.plist not found witch may cause crash 

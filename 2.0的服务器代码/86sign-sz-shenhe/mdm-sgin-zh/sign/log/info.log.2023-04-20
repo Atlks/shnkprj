@@ -1,0 +1,6 @@
+2023-04-20 16:57:10,863 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /Payload/YouLong.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-20 16:57:10,871 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /Payload/YouLong.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-20 16:57:11,955 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/5c750aed-9bec-4b8e-9f69-5a4f4946e18f/Payload/YouLong.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-20 16:57:11,993 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/5c750aed-9bec-4b8e-9f69-5a4f4946e18f/Payload/YouLong.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-20 16:57:16,947 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/aee34861-1b81-4dfe-a272-149a8c9a0a9d/Payload/YouLong.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-04-20 16:57:16,985 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/aee34861-1b81-4dfe-a272-149a8c9a0a9d/Payload/YouLong.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 

@@ -1,0 +1,9 @@
+2022-11-17 15:44:29,353 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/client.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-17 15:44:29,353 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-17 15:44:29,353 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /Payload/client.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-17 15:44:30,937 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/19e31478-7181-429f-99ec-de4cfc603208/Payload/client.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-17 15:44:30,937 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/19e31478-7181-429f-99ec-de4cfc603208/Payload/client.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-17 15:44:30,999 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/19e31478-7181-429f-99ec-de4cfc603208/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-17 15:44:39,321 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/da36ca83-bb19-4c29-96cc-f0691169178d/Payload/client.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-17 15:44:39,321 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/da36ca83-bb19-4c29-96cc-f0691169178d/Payload/client.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-17 15:44:39,384 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/da36ca83-bb19-4c29-96cc-f0691169178d/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 

@@ -1,0 +1,44 @@
+2023-06-29 13:02:37,831 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-29 13:02:38,255 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/139d0e0f-9da5-4b0b-85d0-22bd6760cbc3/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-29 13:02:39,805 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/baab2582-85b8-45e6-a8d7-233cdc0e76ce/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-29 13:02:41,357 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/a11bdc04-7e8a-4a6f-9441-abf574ea2339/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-29 13:02:48,810 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-29 13:02:49,255 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/077063fb-6303-483a-a622-e3bd0a213d07/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-29 13:02:50,831 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/fa373a8b-690b-44a6-bf86-a11be7d83405/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-29 13:02:52,381 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/2cb42675-aa6d-4185-850c-63cef6f5df98/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-29 13:22:06,253 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-29 13:22:06,675 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/4f24e3a7-3868-41c3-b6ac-b6263c472544/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-29 13:22:08,265 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/b7301b71-025f-4f09-86be-50c9e0caf494/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-29 13:22:09,806 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/d1c377f0-8583-43f4-bfb4-2e1016b5ba69/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-29 16:09:30,954 ERROR Thread-11 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-29 17:01:31,689 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:01:32,084 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/f473028d-c684-4fdb-a869-a622025ea854/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:01:33,593 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/bed0a5f9-a787-4013-8aa0-ed38bc47c65a/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:01:35,116 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/5e85cc7d-ba0a-48c1-942e-14211c53a28f/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:01:51,673 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/澳博城.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:01:52,081 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/632e154f-ab65-4157-9fcc-88aa8bfd6fbc/Payload/澳博城.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:01:53,728 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/60e2111e-51ce-4c62-a395-5ec51979bb47/Payload/澳博城.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:01:55,334 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/5b6e9289-5633-4879-8b3c-abe61d4fdcaf/Payload/澳博城.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:01:55,683 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/鸿飞棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:01:56,069 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/b27e1e6a-4d70-4562-b11f-3c7d93224450/Payload/鸿飞棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:01:57,572 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/33825bb4-9ad7-4018-a49a-84f1c56d83c2/Payload/鸿飞棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:01:59,055 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/dc85e6a6-5307-4300-971a-74a0adff02f4/Payload/鸿飞棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:02:47,121 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/共富国际.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:02:47,535 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/4a692bd8-12ab-4f60-9bcd-ac4934b1643a/Payload/共富国际.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:02:49,072 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/71259b33-1bd3-44fe-9039-07783245e83b/Payload/共富国际.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:02:50,621 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/e72dbed5-ffba-4d65-b92d-241ee4dda06a/Payload/共富国际.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:02:53,256 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/澳博城.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:02:53,667 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/54eee1d6-ed4d-41e9-8ccd-f5067bfaa46b/Payload/澳博城.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:02:55,262 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/34dcf3ba-4441-4c8d-aec1-637c2c3c3c5e/Payload/澳博城.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:02:55,834 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/鸿飞棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:02:56,225 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/e93c1dd0-8f3e-41ec-b3ac-041cebaea0f2/Payload/鸿飞棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:02:56,890 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/ea6224b4-edbd-4a4d-b4ec-12ef3efd4d8f/Payload/澳博城.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:02:57,807 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/62bde8b8-32dd-4606-b4a3-c7bdc96a6c5a/Payload/鸿飞棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 17:02:59,261 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/2858db8d-811a-491a-9bab-37777f36e897/Payload/鸿飞棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-06-29 18:22:46,243 ERROR Thread-40 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-29 18:27:36,092 ERROR Thread-51 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-29 18:38:04,351 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

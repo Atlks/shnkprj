@@ -1,0 +1,29 @@
+2022-06-30 01:04:28,775 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1656522268775,"message":"java.lang.UnsupportedOperationException","status":0}
+java.lang.UnsupportedOperationException
+	at kxapp.nio.zipfs.ZipFileSystemProvider.getZipFileSystem(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystemProvider.newFileSystem(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-06-30 14:48:01,420 INFO main net.appuploader.b.l.a(?:?)  binary 金豆扑克 bundle in  /Payload/qq.app/Info.plist not found witch may cause crash 
+2022-06-30 14:48:01,420 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1656571681420,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-06-30 19:04:21,085 INFO main net.appuploader.b.l.a(?:?)  binary WebApp bundle in  /Payload/jstt.app/Frameworks/WebAppSDK.framework/WebApp.bundle/Info.plist not found witch may cause crash 
+2022-06-30 19:04:21,472 INFO main net.appuploader.b.l.a(?:?)  binary WebApp bundle in  /opt/mdm-sgin-zh/sign/temp/20d735ef-cd28-4a66-b0ea-7e622b04228a/Payload/jstt.app/Frameworks/WebAppSDK.framework/WebApp.bundle/Info.plist not found witch may cause crash 
+2022-06-30 19:04:22,455 INFO main net.appuploader.b.l.a(?:?)  binary WebApp bundle in  /opt/mdm-sgin-zh/sign/temp/ba37bb3b-30b1-4f2f-ad8a-5360079b5b11/Payload/jstt.app/Frameworks/WebAppSDK.framework/WebApp.bundle/Info.plist not found witch may cause crash 
+2022-06-30 19:04:23,450 INFO main net.appuploader.b.l.a(?:?)  binary WebApp bundle in  /opt/mdm-sgin-zh/sign/temp/bfd384fe-c404-4c9c-9a47-85d9c9e3e51a/Payload/jstt.app/Frameworks/WebAppSDK.framework/WebApp.bundle/Info.plist not found witch may cause crash 

@@ -1,0 +1,14 @@
+2023-06-01 15:27:34,348 ERROR Thread-20 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-01 15:28:19,244 ERROR Thread-20 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-01 16:28:11,106 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-06-01 20:02:58,220 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-01 20:02:58,711 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/e50f9286-bbaa-4a3a-b5a7-4ad18859523a/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-01 20:03:01,680 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/c2ba1367-b838-4bad-ae8f-572ab7726353/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-01 20:03:04,585 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/21e0c59e-5f14-4193-893c-407f468b59c0/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-01 20:27:30,931 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-01 20:27:31,403 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/313f798a-2cad-4d0e-b6bc-112b9d2b35fa/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-01 20:27:32,916 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/4ce3beb8-2db6-43f1-89f5-b9bde6b01efa/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-06-01 20:27:34,438 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/579266c5-2875-4525-8a09-1ff2280ea4fe/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

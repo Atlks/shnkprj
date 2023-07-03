@@ -1,0 +1,6 @@
+2023-01-02 13:00:27,944 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2023-01-02 13:00:28,214 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /opt/mdm-sign/sign/temp/d122184f-a1ce-41ab-9311-b7591e11a989/Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2023-01-02 13:00:29,344 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /opt/mdm-sign/sign/temp/7d5597c8-e10b-4c91-8223-dc66d7485670/Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2023-01-02 13:56:38,301 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-01-02 13:56:38,718 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/339d832d-a2e6-48ad-bf2f-ecbe349f02cc/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-01-02 13:56:40,308 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/efb3dd13-f913-4df7-ba03-a46e32ffeeed/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

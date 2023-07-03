@@ -1,0 +1,6 @@
+2023-03-08 16:19:23,518 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/fltx.app/76box.bundle/Info.plist not found witch may cause crash 
+2023-03-08 16:19:23,537 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/fltx.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2023-03-08 16:19:24,903 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/158044c1-e306-4178-8c84-c91e0fe667af/Payload/fltx.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2023-03-08 16:19:24,903 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/158044c1-e306-4178-8c84-c91e0fe667af/Payload/fltx.app/76box.bundle/Info.plist not found witch may cause crash 
+2023-03-08 16:19:32,576 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/1fd0d21d-d74f-46a7-895a-c73c5ad69c99/Payload/fltx.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2023-03-08 16:19:32,577 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/1fd0d21d-d74f-46a7-895a-c73c5ad69c99/Payload/fltx.app/76box.bundle/Info.plist not found witch may cause crash 

@@ -1,0 +1,6 @@
+2022-12-03 19:53:45,863 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-12-03 19:53:46,430 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-12-03 19:53:47,717 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/149afd42-1ac2-4b3c-b393-ed46dff6e4ce/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-12-03 19:53:47,717 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/149afd42-1ac2-4b3c-b393-ed46dff6e4ce/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2022-12-03 19:53:56,091 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/f5a80cd1-2678-41a0-8cc2-023db641adff/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2022-12-03 19:53:56,091 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/f5a80cd1-2678-41a0-8cc2-023db641adff/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 

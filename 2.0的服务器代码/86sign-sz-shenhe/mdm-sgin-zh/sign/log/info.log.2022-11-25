@@ -1,0 +1,23 @@
+2022-11-25 00:33:50,080 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /Payload/flok.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-11-25 00:33:50,080 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/flok.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-25 00:33:51,141 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/56a97240-e29e-41e3-9bc3-188de6c0a59c/Payload/flok.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-11-25 00:33:51,141 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/56a97240-e29e-41e3-9bc3-188de6c0a59c/Payload/flok.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-25 00:33:56,088 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/e62e3a39-8b2f-4d46-a574-bfe4d2eb5a57/Payload/flok.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-11-25 00:33:56,088 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/e62e3a39-8b2f-4d46-a574-bfe4d2eb5a57/Payload/flok.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-25 10:55:10,396 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1669344910396,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-11-25 19:12:05,873 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /Payload/ProductName.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2022-11-25 19:12:08,024 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/880306fb-130f-41b7-a970-15e1845722f0/Payload/ProductName.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2022-11-25 19:12:25,863 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/d84e629e-f742-45d6-9815-4962f60ea80e/Payload/ProductName.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:45:05,871 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /Payload/FGCQLibClient-mobile.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:45:05,871 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /Payload/FGCQLibClient-mobile.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:45:06,316 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/047dedb5-bad6-4e5e-9557-bf6c0ca53f9f/Payload/FGCQLibClient-mobile.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:45:06,322 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/047dedb5-bad6-4e5e-9557-bf6c0ca53f9f/Payload/FGCQLibClient-mobile.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:45:08,005 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/8b89d824-216f-4444-9e34-5b70684e2945/Payload/FGCQLibClient-mobile.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2022-11-25 23:45:08,010 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/8b89d824-216f-4444-9e34-5b70684e2945/Payload/FGCQLibClient-mobile.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 

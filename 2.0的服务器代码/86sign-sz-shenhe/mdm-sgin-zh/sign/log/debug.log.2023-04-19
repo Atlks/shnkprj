@@ -1,0 +1,6 @@
+2023-04-19 10:42:04,429 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/ninek.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-19 10:42:06,523 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/87439415-6f8a-4cb0-9fdf-897db92bd9e3/Payload/ninek.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-19 10:42:24,582 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/a9a05c8d-e479-4954-b3db-9f47fe647ffa/Payload/ninek.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-19 20:40:24,833 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/ninek.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-19 20:40:26,982 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f7ccf3e0-e50f-4f64-80d2-04c764ee34e1/Payload/ninek.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-19 20:40:41,073 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/eb4ccce5-0a8d-466d-aa07-84222c138dc3/Payload/ninek.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 

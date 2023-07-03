@@ -1,0 +1,20 @@
+2023-03-26 12:59:32,135 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-26 12:59:32,443 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/a52398d7-ac79-40e1-ac30-34a45dddfec9/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-26 12:59:34,004 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/213c9193-572a-4e2f-b419-bd23ea508bf2/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-26 12:59:35,507 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/7e734cdf-ff6a-45ca-97dc-a4ef51e91c9b/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-26 21:45:03,526 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1679838303526,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-03-26 21:47:10,565 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1679838430565,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

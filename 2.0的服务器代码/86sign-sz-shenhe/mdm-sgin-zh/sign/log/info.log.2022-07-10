@@ -1,0 +1,24 @@
+2022-07-10 17:55:09,634 INFO main net.appuploader.b.l.a(?:?)  binary Resource bundle in  /Payload/xinlewan.app/Resource.bundle/Info.plist not found witch may cause crash 
+2022-07-10 17:55:10,142 INFO main net.appuploader.b.l.a(?:?)  binary Resource bundle in  /opt/mdm-sgin-zh/sign/temp/09f1edc4-01f2-49ad-be02-fcc1586bb995/Payload/xinlewan.app/Resource.bundle/Info.plist not found witch may cause crash 
+2022-07-10 17:55:13,423 INFO main net.appuploader.b.l.a(?:?)  binary Resource bundle in  /opt/mdm-sgin-zh/sign/temp/761bc9ed-bbea-4d4c-b938-8fe3f3433ae9/Payload/xinlewan.app/Resource.bundle/Info.plist not found witch may cause crash 
+2022-07-10 17:56:28,826 INFO main net.appuploader.b.l.a(?:?)  binary Resource bundle in  /Payload/xinlewan.app/Resource.bundle/Info.plist not found witch may cause crash 
+2022-07-10 17:56:29,303 INFO main net.appuploader.b.l.a(?:?)  binary Resource bundle in  /opt/mdm-sgin-zh/sign/temp/e472727b-e12c-47bf-ba4b-6ca88bc02166/Payload/xinlewan.app/Resource.bundle/Info.plist not found witch may cause crash 
+2022-07-10 17:56:32,626 INFO main net.appuploader.b.l.a(?:?)  binary Resource bundle in  /opt/mdm-sgin-zh/sign/temp/8085095e-7f7c-4871-8888-17bde21bb769/Payload/xinlewan.app/Resource.bundle/Info.plist not found witch may cause crash 
+2022-07-10 17:56:35,904 INFO main net.appuploader.b.l.a(?:?)  binary Resource bundle in  /opt/mdm-sgin-zh/sign/temp/702b4693-2d0f-4240-aed1-04da38a090dc/Payload/xinlewan.app/Resource.bundle/Info.plist not found witch may cause crash 
+2022-07-10 23:18:39,331 INFO main net.appuploader.b.l.a(?:?)  binary 金豆扑克 bundle in  /Payload/qq.app/Info.plist not found witch may cause crash 
+2022-07-10 23:18:39,331 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1657466319331,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

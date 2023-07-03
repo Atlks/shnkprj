@@ -1,0 +1,34 @@
+2022-12-08 01:16:00,530 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1670433360530,"message":"MALFORMED[2]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[2]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-08 01:16:00,807 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sgin-zh/sign/temp/f55b39e5-bf86-488f-a691-8eb4ed30ef8e/Payload/????.app/Info.plist not found witch may cause crash 
+2022-12-08 01:16:02,488 INFO main net.appuploader.b.l.a(?:?)  binary 寰宇互娱 bundle in  /opt/mdm-sgin-zh/sign/temp/c5c4174d-9458-4d48-ac57-35389e80b4e1/Payload/????.app/Info.plist not found witch may cause crash 
+2022-12-08 11:05:11,092 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/XMQYZPX.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-08 11:05:12,715 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/ace71f37-58ef-423d-a038-fc35e005e038/Payload/XMQYZPX.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-08 11:05:24,263 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/a6856923-d6b2-4186-9cfd-3d298388f936/Payload/XMQYZPX.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-08 18:16:45,745 INFO main net.appuploader.b.l.a(?:?)  binary 萊恩刀鋒 bundle in  /Payload/mbbi.app/Info.plist not found witch may cause crash 
+2022-12-08 18:16:47,722 INFO main net.appuploader.b.l.a(?:?)  binary 萊恩刀鋒 bundle in  /opt/mdm-sgin-zh/sign/temp/f0d54f53-10b4-40f7-ac6c-f880da85a323/Payload/mbbi.app/Info.plist not found witch may cause crash 
+2022-12-08 18:16:59,205 INFO main net.appuploader.b.l.a(?:?)  binary 萊恩刀鋒 bundle in  /opt/mdm-sgin-zh/sign/temp/c6c0909c-6e47-4228-b8ee-ccf93cf7b4da/Payload/mbbi.app/Info.plist not found witch may cause crash 
+2022-12-08 19:04:29,633 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-08 19:04:30,105 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/b61361a0-fe81-47ac-a1d9-cc318d889128/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-08 19:04:31,903 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f613095c-6db3-40e5-af40-7df2de1a2ff6/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-08 19:06:26,576 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-08 19:06:27,080 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/263e1182-1561-4257-ae7f-0d58b0ab568c/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-08 19:06:28,730 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/ab066441-d7e4-44d4-a0df-e7453c153204/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-08 19:10:12,774 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/Leiniulvse.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-08 19:10:13,736 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/772a6ee9-c9c4-4f3b-869e-6d2e8a5e079e/Payload/Leiniulvse.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-08 19:10:18,065 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/4d279a66-408c-41c5-a183-085ffbce8274/Payload/Leiniulvse.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 

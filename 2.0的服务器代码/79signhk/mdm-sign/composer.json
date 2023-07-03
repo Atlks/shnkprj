@@ -1,0 +1,17 @@
+{
+    "require": {
+        "easyswoole/easyswoole": "3.x",
+        "easyswoole/http-client": "^1.4",
+        "easyswoole/orm": "^1.4",
+        "rodneyrehm/plist": "^2.0",
+        "aliyuncs/oss-sdk-php": "^2.4",
+        "nelexa/zip": "^3.3",
+        "easyswoole/redis-pool": "^2.2",
+        "google/cloud-storage": "^1.24"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}

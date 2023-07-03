@@ -1,0 +1,8 @@
+2023-02-20 15:44:36,841 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-20 15:44:37,140 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/3e955e98-f40d-4924-8c87-363b6f28ddf4/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-20 15:44:38,673 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/6abde98e-7bc6-4f6d-aa99-8372f661f624/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-20 15:44:40,153 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/7fd49da4-0f3c-407b-9d33-1d0ac268ab7e/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-02-20 20:42:32,611 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/Unity-iPhone.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-20 20:42:33,203 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/dea6148d-c9d6-4db6-99d6-952e5326a010/Payload/Unity-iPhone.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-20 20:42:35,967 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/dc4241cd-5e5f-42c3-aa8e-6158f80b7ace/Payload/Unity-iPhone.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-20 20:42:38,606 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/9f81522a-5dc9-4c74-b4f4-6b5b45fc9e53/Payload/Unity-iPhone.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 

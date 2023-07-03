@@ -1,0 +1,235 @@
+2022-02-22 11:36:18,580 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-22 11:36:18,597 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-22 11:36:18,597 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-22 11:36:20,977 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0a1ad348-a876-4e56-9c7b-386ab532b5f6/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-22 11:36:20,979 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0a1ad348-a876-4e56-9c7b-386ab532b5f6/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-22 11:36:20,981 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0a1ad348-a876-4e56-9c7b-386ab532b5f6/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-22 11:36:38,000 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/5868a25d-b139-49a6-9f6e-d74eb2ef7e19/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-22 11:36:38,002 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/5868a25d-b139-49a6-9f6e-d74eb2ef7e19/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-22 11:36:38,003 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/5868a25d-b139-49a6-9f6e-d74eb2ef7e19/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-22 11:52:55,738 ERROR Thread-69 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 11:53:48,761 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 11:54:14,305 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 11:54:14,305 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645502054305,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-22 11:54:17,636 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 11:54:35,901 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 11:54:35,901 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645502075901,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-22 11:54:39,234 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 11:54:57,217 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 11:54:57,218 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645502097218,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-22 11:54:59,685 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 11:54:59,685 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645502099685,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-22 11:55:03,031 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 12:01:18,040 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 12:01:18,040 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645502478040,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-22 12:18:56,230 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/怒火一刀.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:18:56,230 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/怒火一刀.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:18:57,037 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/cf4abcc5-1bdf-41ec-a2f4-5926fecc77df/Payload/怒火一刀.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:18:57,044 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/cf4abcc5-1bdf-41ec-a2f4-5926fecc77df/Payload/怒火一刀.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:19:00,933 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/4f972e9b-f53a-4ac7-8488-9458c0e39b49/Payload/怒火一刀.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:19:00,940 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/4f972e9b-f53a-4ac7-8488-9458c0e39b49/Payload/怒火一刀.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:20:25,348 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/怒火一刀.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:20:25,398 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/怒火一刀.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:20:26,337 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/287a3f59-b0f2-47fc-8647-d142b10eb4a4/Payload/怒火一刀.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:20:26,344 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/287a3f59-b0f2-47fc-8647-d142b10eb4a4/Payload/怒火一刀.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:20:30,487 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/cd159e63-ef3a-4bbf-acb7-3d0945bfd7c8/Payload/怒火一刀.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:20:30,493 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/cd159e63-ef3a-4bbf-acb7-3d0945bfd7c8/Payload/怒火一刀.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:20:34,597 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/a7cf029e-555c-478d-891e-055cb74be32f/Payload/怒火一刀.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:20:34,604 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/a7cf029e-555c-478d-891e-055cb74be32f/Payload/怒火一刀.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:22:00,144 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/怒火一刀.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:22:00,194 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/怒火一刀.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:22:01,044 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/0f84504b-be50-4cb7-9d47-2aec32c859df/Payload/怒火一刀.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:22:01,051 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/0f84504b-be50-4cb7-9d47-2aec32c859df/Payload/怒火一刀.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:22:05,014 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/26db506f-6c47-467f-97b5-5b6ba8857d9f/Payload/怒火一刀.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:22:05,020 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/26db506f-6c47-467f-97b5-5b6ba8857d9f/Payload/怒火一刀.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:22:08,873 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/1d126bbe-7749-4f1f-a566-2af2a7ab7670/Payload/怒火一刀.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 12:22:08,880 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/1d126bbe-7749-4f1f-a566-2af2a7ab7670/Payload/怒火一刀.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:18:20,444 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/aqios.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:18:20,444 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/aqios.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:18:25,230 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/1f2f4695-26b5-4bcb-a569-498b7868063c/Payload/aqios.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:18:25,268 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/1f2f4695-26b5-4bcb-a569-498b7868063c/Payload/aqios.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:18:56,718 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/90378dbe-48d6-4983-af72-13571c742721/Payload/aqios.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:18:56,757 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/90378dbe-48d6-4983-af72-13571c742721/Payload/aqios.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:21:00,403 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/aqios.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:21:00,861 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/aqios.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:21:05,719 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/f073d596-a586-4191-944b-affc34b9d5ed/Payload/aqios.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:21:05,758 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/f073d596-a586-4191-944b-affc34b9d5ed/Payload/aqios.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:21:36,913 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/4754678d-e783-4d47-9d0f-95ae69a6720d/Payload/aqios.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:21:36,956 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/4754678d-e783-4d47-9d0f-95ae69a6720d/Payload/aqios.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:22:21,146 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/ddda62ed-3ee5-4dbd-bbd3-a3e52b6e3874/Payload/aqios.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:22:21,189 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/ddda62ed-3ee5-4dbd-bbd3-a3e52b6e3874/Payload/aqios.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:25:20,028 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/aqios.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:25:20,507 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/aqios.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:25:25,711 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/1bbae602-d15c-43f7-ac8b-a63f04c09528/Payload/aqios.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:25:25,751 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/1bbae602-d15c-43f7-ac8b-a63f04c09528/Payload/aqios.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:25:56,950 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/d4dac13f-3183-4983-be56-9c88aaaaab29/Payload/aqios.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:25:56,990 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/d4dac13f-3183-4983-be56-9c88aaaaab29/Payload/aqios.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:26:27,917 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/06e79ad8-9e4a-40e7-b558-8e57d51c8d36/Payload/aqios.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:26:27,957 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/06e79ad8-9e4a-40e7-b558-8e57d51c8d36/Payload/aqios.app/Frameworks/JHToolsSDK_CommonSDK.framework/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 14:27:01,781 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 15:09:17,757 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 15:09:18,972 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/655361ea-c2a2-4f76-969e-884b9ed395bf/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 15:09:27,523 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/80455ff0-97e0-4dd9-804d-ad584af23a87/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 15:09:28,764 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 15:10:28,136 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 15:10:28,136 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645513828136,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-22 15:10:33,392 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 15:13:58,713 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 15:13:59,985 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/088ef811-cba1-498e-85ca-875fb8016c91/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 15:14:08,719 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/3660bc56-2701-480d-b132-ac38af377301/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 15:14:20,137 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/18e92426-7c64-4087-a79b-19766e41c85c/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 16:44:45,475 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-22 16:44:45,844 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/bdec35b9-dd1a-4c28-a866-58ffce5b9d61/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-22 16:44:47,221 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/a8cdabcd-0256-4d39-ab60-5584151da7a8/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-22 20:49:08,560 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:49:09,777 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/276872f2-0547-42d5-a7b8-29a244af5f9c/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:49:17,811 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/23c59255-6fd6-4c1a-82b1-8a2c0bfdf8f0/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:49:22,172 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:49:23,525 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/a0355da3-4668-41e4-b083-e8197067a4ca/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:49:34,713 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/0be4b405-1999-4eaa-aa83-127a8e044e82/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:53:23,522 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:53:24,785 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/6db1ae2b-5562-4fc4-8e90-68115ed79bf4/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:53:32,736 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/bed71b85-a747-44e6-870b-7dd675a6fc8a/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:53:41,344 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/6ee947c7-60cc-4af9-b5ce-7b1011411c6e/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:55:51,850 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:55:53,222 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/69d581a1-a41e-41a9-b725-08ce4ead77ba/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:56:01,566 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/1a887ca5-d24a-41cf-9562-a040dcd0a4bd/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:56:09,487 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/b214dad9-8610-4ed7-afbd-58f8cdda3e2c/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:56:16,300 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:56:17,658 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/527c47c0-928d-4f6e-88e0-68548f3c6ed0/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:56:29,429 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/9f7c28f1-3bf8-4dcb-b1c9-95225a0e4681/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 20:56:38,350 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/7d2b6a36-e34d-4605-85d5-aa4a9875cac3/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-22 22:59:35,057 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 22:59:35,057 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645541975057,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-22 22:59:38,635 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 23:00:41,327 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 23:00:41,327 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645542041327,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-22 23:01:15,071 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 23:01:15,071 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645542075071,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-22 23:01:19,591 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 23:01:26,763 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 23:01:26,763 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645542086763,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-22 23:02:10,514 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 23:02:10,514 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645542130514,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-22 23:02:14,317 ERROR Thread-69 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 23:02:48,790 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 23:02:48,790 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645542168790,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-22 23:02:52,612 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 23:03:21,923 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 23:03:36,121 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 23:03:36,121 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645542216121,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-22 23:03:39,695 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 23:03:51,078 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-22 23:03:51,078 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645542231078,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

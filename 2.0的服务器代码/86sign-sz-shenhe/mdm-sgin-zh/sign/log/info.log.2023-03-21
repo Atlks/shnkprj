@@ -1,0 +1,60 @@
+2023-03-21 11:40:24,011 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1679370024011,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-03-21 13:49:09,273 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /Payload/ping.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-03-21 13:49:09,685 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/64495d5d-a681-400f-942d-0284558b1819/Payload/ping.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-03-21 13:49:11,912 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/13fd906d-e1d8-4d09-9efd-74d98fc38f76/Payload/ping.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-03-21 14:14:18,196 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-21 14:14:19,299 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/72d56de1-c495-4323-bc2f-9fc12ed3fd1e/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-21 14:14:28,061 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/a20e8602-1ff1-402e-84c8-717aba5d7207/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-21 17:05:36,705 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-21 17:05:37,939 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/38febcc1-7086-48dd-b70a-6665d4f01442/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-21 17:05:46,605 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/b2fe2569-1793-4e2e-b024-8f556bcd3695/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-21 20:16:49,228 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1679401009228,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-03-21 22:11:30,813 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1679407890813,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

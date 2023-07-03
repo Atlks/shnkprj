@@ -1,0 +1,9 @@
+2023-01-18 18:00:13,633 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-01-18 18:00:13,941 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/0aadaa3f-c158-420c-9efd-7f7684bc8011/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-01-18 18:00:15,514 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/fdd0ef7a-ffd6-4ce2-8858-71fb70b8a712/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-01-18 22:17:24,558 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2023-01-18 22:17:27,259 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/0311f0ae-0b0f-4d47-b4be-46fed03d7883/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2023-01-18 22:17:43,334 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/0a003eb7-9072-404b-82e9-05aeabdea8b7/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2023-01-18 23:53:16,297 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2023-01-18 23:53:19,018 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/b1d59982-1d20-40eb-b5c0-553756a7dca9/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2023-01-18 23:53:35,362 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/f50b7c69-5926-4789-ae97-ffb61a38fdd2/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 

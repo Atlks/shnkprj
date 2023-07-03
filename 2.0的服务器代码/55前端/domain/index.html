@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset=utf-8>
+    <meta name=viewport
+          content="width=device-width,user-scalable=yes,initial-scale=0.3,maximum-scale=1,minimum-scale=0.3">
+    <title>超级签名</title>
+    <script src="https://cstaticdun.126.net/load.min.js?t=201903281201"></script>
+    <style>* {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    html, body, #app {
+        width: 100%;
+        height: 100%;
+        overflow-x: hidden;
+    }</style>
+
+    <script src="/jquery-3.6.0.min.js"></script>
+    <!--<script src="https://storage.googleapis.com/qksign/jquery-3.6.0.min.js"></script>-->
+</head>
+<body>
+<div id="app"></div>
+<script>
+    $.ajax({
+        //url: "https://api.qksign88.com:7643/api/index/style",
+	url: "https://wxpp.qksign66.com/api/index/style",
+        type: "POST",
+        async: false,
+        data:{domain:window.location.hostname},
+        success: function (res) {
+            if (res.code === 200) {
+                res.data.js.forEach(function (value, i) {
+                    $("head").append("<script src=\""+value+"\"><\/script>");
+                });
+                res.data.css.forEach(function (value, i) {
+                    $("head").append("<link>");
+                    $("head").children(":last").attr({
+                        rel: "stylesheet",
+                        type: "text/css",
+                        href: value
+                    });
+                });
+            }
+        }
+    })
+</script>
+</body>
+</html>

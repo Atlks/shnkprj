@@ -1,0 +1,35 @@
+2022-06-11 11:50:40,466 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/bt2sqios_test.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-11 11:50:40,668 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/28b5e70c-2f8c-4146-a95b-143ad3a38424/Payload/bt2sqios_test.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-11 11:50:41,294 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/10553995-4572-4fdc-9885-f6fb5181fcbe/Payload/bt2sqios_test.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-11 11:54:58,441 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/bt2sqios_test.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-11 11:54:58,498 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/5f05c0de-efbb-44c9-b90d-eda49c491ff8/Payload/bt2sqios_test.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-11 11:54:58,800 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/9ba7d770-9103-49b8-808d-cb169d2c8821/Payload/bt2sqios_test.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-11 11:54:59,171 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/9980f19d-2643-42c1-8a34-89a0ffbb9a0d/Payload/bt2sqios_test.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-11 13:46:22,267 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1654926382267,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-06-11 19:09:13,608 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-11 19:09:14,177 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/4c7ce9d9-b436-4388-92fb-c179bac1b131/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-11 19:09:15,922 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/380171f3-6e33-47d8-ad66-087af540b091/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-11 19:15:03,230 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-11 19:15:03,754 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/4710c3ef-ac88-460d-aa29-0e74babf6b68/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-11 19:15:05,495 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/30eed1d8-d49b-4fcf-abbd-933792306911/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-11 19:15:07,148 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/621a234c-c8d7-401a-b7e7-b68560e84223/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-11 21:49:39,117 ERROR Thread-61 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-06-11 23:13:52,049 ERROR Thread-9 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

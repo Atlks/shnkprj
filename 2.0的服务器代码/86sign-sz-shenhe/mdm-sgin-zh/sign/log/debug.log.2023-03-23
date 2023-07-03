@@ -1,0 +1,32 @@
+2023-03-23 09:34:32,100 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-23 09:34:32,627 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/aa50b6d5-accf-47e1-9224-0e9a95e8d45c/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-23 09:34:34,307 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/bcf9c5a2-9757-4521-b1fa-bb0df34c19ac/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-23 10:09:41,739 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1679537381739,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-03-23 11:50:37,442 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-23 11:50:37,972 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/36a11343-3b9e-4ac2-a7e8-8e3b159102b9/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-23 11:50:39,632 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/4be86655-b81f-4efb-8dab-9c4dd1227cfc/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-23 11:58:46,392 INFO main net.appuploader.b.l.a(?:?)  binary MCSDKRes bundle in  /Payload/XianMengYunGe.app/MCSDKRes.bundle/Info.plist not found witch may cause crash 
+2023-03-23 11:58:48,129 INFO main net.appuploader.b.l.a(?:?)  binary MCSDKRes bundle in  /opt/mdm-sgin-zh/sign/temp/73f3e030-024d-49ca-86c4-8fce0138f5e5/Payload/XianMengYunGe.app/MCSDKRes.bundle/Info.plist not found witch may cause crash 
+2023-03-23 11:58:59,267 INFO main net.appuploader.b.l.a(?:?)  binary MCSDKRes bundle in  /opt/mdm-sgin-zh/sign/temp/7f06c1e2-d1f2-440d-9730-99c7960cec78/Payload/XianMengYunGe.app/MCSDKRes.bundle/Info.plist not found witch may cause crash 
+2023-03-23 12:16:18,858 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/JiuMengXianYu.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-23 12:16:19,519 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/4eed07a9-97ca-4ad7-ac8e-926724c0cfb4/Payload/JiuMengXianYu.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-23 12:16:24,053 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/1e863f62-ec44-4750-b238-2dbc30f7f490/Payload/JiuMengXianYu.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-23 15:32:15,218 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/FGCQLibClient-mobile.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-23 15:32:15,631 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/65c33802-f568-4a0c-843a-9ad9693f84a8/Payload/FGCQLibClient-mobile.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-23 15:32:17,304 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0a4a0779-61aa-48d3-8382-be68cd53721a/Payload/FGCQLibClient-mobile.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 

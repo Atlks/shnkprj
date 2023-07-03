@@ -1,0 +1,58 @@
+2022-10-22 10:16:44,427 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-22 10:16:45,078 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/864e39a7-a74c-4fc0-875e-5d96eebc9155/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-22 10:16:47,810 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/4dd3005c-8078-41ee-ab43-bb9ddc963e25/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-22 11:37:45,265 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/legend.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-22 11:37:45,601 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sign/sign/temp/3c814eba-6082-4c9d-9c44-42872a3b39db/Payload/legend.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-22 15:21:01,105 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1666423261105,"message":"Index 13568 out of bounds for length 752","status":0}
+java.lang.ArrayIndexOutOfBoundsException: Index 13568 out of bounds for length 752
+	at com.dd.plist.BinaryPropertyListParser.parseObject(Unknown Source)
+	at com.dd.plist.BinaryPropertyListParser.doParse(Unknown Source)
+	at com.dd.plist.BinaryPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.BinaryPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at net.appuploader.e.a.b.a(Unknown Source)
+	at net.appuploader.e.a.f.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-22 15:21:01,323 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1666423261323,"message":"Index 13568 out of bounds for length 752","status":0}
+java.lang.ArrayIndexOutOfBoundsException: Index 13568 out of bounds for length 752
+	at com.dd.plist.BinaryPropertyListParser.parseObject(Unknown Source)
+	at com.dd.plist.BinaryPropertyListParser.doParse(Unknown Source)
+	at com.dd.plist.BinaryPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.BinaryPropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at com.dd.plist.PropertyListParser.parse(Unknown Source)
+	at net.appuploader.e.a.b.a(Unknown Source)
+	at net.appuploader.e.a.f.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.e.a.b.<init>(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-22 16:56:50,373 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-22 16:56:51,024 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/a7550e3c-28d6-4f4b-af53-52f6fdd0ca84/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-22 16:56:53,732 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/5f2cf216-3a1e-4ef1-b7b9-96eda7090210/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-22 16:56:56,542 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-22 16:56:57,200 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/fe219eb1-10aa-418f-b075-565024d418fd/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-22 16:57:00,011 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/d65f9ac6-5133-41ae-8b69-5ff8fafdd08b/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-22 16:57:00,266 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-22 16:57:00,976 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/94ebcfc5-b491-429c-a0bb-8bfee4436a88/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-22 16:57:03,810 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/0683f851-ff3e-436c-959a-700c40927970/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

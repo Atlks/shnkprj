@@ -1,0 +1,127 @@
+2023-06-02 04:39:18,820 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-06-02 04:39:18,828 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-06-02 04:39:23,934 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/7087ce62-5c8d-45f8-a2be-ac54e83f0740/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-06-02 04:39:23,947 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /opt/mdm-sgin-zh/sign/temp/7087ce62-5c8d-45f8-a2be-ac54e83f0740/Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-06-02 04:39:37,379 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/55b73936-59c7-431b-b0cd-8fe48734ec28/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-06-02 04:59:01,482 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-06-02 04:59:01,490 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-06-02 04:59:04,227 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/e7c5a498-cde3-4edd-81b0-6e555a5ca580/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-06-02 04:59:04,240 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /opt/mdm-sgin-zh/sign/temp/e7c5a498-cde3-4edd-81b0-6e555a5ca580/Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-06-02 04:59:09,918 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/372501cf-9eb7-481b-a374-00a46da0fb39/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-06-02 08:38:56,832 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/BRMiniGame.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 08:38:56,869 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/4e9c2f9e-5c47-4903-b730-c220f21bfbac/Payload/BRMiniGame.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 08:38:57,022 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/32f7ab62-1867-48fd-9f70-f715c91bd1fe/Payload/BRMiniGame.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 08:39:13,009 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /Payload/lzcq.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-06-02 08:39:13,009 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /Payload/lzcq.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2023-06-02 08:39:13,049 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/965ebc95-4087-4f29-b337-fa75b45e20c2/Payload/lzcq.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2023-06-02 08:39:13,052 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/965ebc95-4087-4f29-b337-fa75b45e20c2/Payload/lzcq.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-06-02 08:39:13,264 INFO main net.appuploader.b.l.a(?:?)  binary Wu27SdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/800ac55c-7d5a-4cb0-b67d-ef44cb8519d2/Payload/lzcq.app/Wu27SdkRes.bundle/Info.plist not found witch may cause crash 
+2023-06-02 08:39:13,267 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/800ac55c-7d5a-4cb0-b67d-ef44cb8519d2/Payload/lzcq.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-06-02 09:11:58,267 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/Unity-iPhone.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 09:11:58,726 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/b5ce6b79-350b-4a5e-9b14-c924c2521f8d/Payload/Unity-iPhone.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 09:12:01,542 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3442dd35-62d9-40be-b1ad-c0758aeddd10/Payload/Unity-iPhone.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 09:28:08,456 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/nhyd_ios.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 09:28:09,937 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/615ffdaa-e0ad-47b0-942c-31a109b6713b/Payload/nhyd_ios.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 09:28:15,994 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/9d3abe39-5ec2-4eaf-a953-6f1eeb5bf73d/Payload/nhyd_ios.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 09:40:00,622 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/Unity-iPhone.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 09:40:01,384 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3da5f58a-7293-4ca3-962a-687f9a7f1f0a/Payload/Unity-iPhone.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 09:40:06,408 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/c8eab679-89e2-4dcf-99e3-33272e0e726a/Payload/Unity-iPhone.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 10:06:36,146 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/Unity-iPhone.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 10:06:36,595 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0975955f-ba6a-4cbf-8586-ab412f237d7a/Payload/Unity-iPhone.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 10:06:39,476 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/618e6cc9-8d2b-4609-888c-5830435a6bc1/Payload/Unity-iPhone.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 10:11:14,420 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/fgcq-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 10:11:14,864 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3239c2d9-0618-48ed-b694-621ce4fb80af/Payload/fgcq-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 10:11:17,010 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/38bafb6e-8142-48e1-abfc-98c10d9edfd9/Payload/fgcq-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:10:17,313 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-06-02 12:10:17,320 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-06-02 12:10:20,053 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/c1fdd876-eb56-4f9b-a260-20889fdf7137/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-06-02 12:10:20,066 INFO main net.appuploader.b.l.a(?:?)  binary HFXNavigationBar bundle in  /opt/mdm-sgin-zh/sign/temp/c1fdd876-eb56-4f9b-a260-20889fdf7137/Payload/DSCaipiao.app/Frameworks/HFXNavigationBar.framework/Info.plist not found witch may cause crash 
+2023-06-02 12:10:25,784 INFO main net.appuploader.b.l.a(?:?)  binary MBPProgressHUB bundle in  /opt/mdm-sgin-zh/sign/temp/ac0745de-967f-485c-97cc-6d8ef11b8a84/Payload/DSCaipiao.app/Frameworks/MBPProgressHUB.framework/Info.plist not found witch may cause crash 
+2023-06-02 12:17:32,895 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/ProductName.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:17:33,965 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/8e476b9d-239e-4694-8013-2a6ff540f7cf/Payload/ProductName.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:17:43,179 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/ee5d4405-1d52-4b5d-a138-37e1999c04c4/Payload/ProductName.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:36:45,672 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/新射雕群侠传之铁血丹心.app/Frameworks/QYSDK.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:36:45,673 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/新射雕群侠传之铁血丹心.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:36:45,673 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/新射雕群侠传之铁血丹心.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:36:45,920 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/dc8a7efc-d4c6-462f-8458-19860eb95569/Payload/新射雕群侠传之铁血丹心.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:36:45,929 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/dc8a7efc-d4c6-462f-8458-19860eb95569/Payload/新射雕群侠传之铁血丹心.app/Frameworks/QYSDK.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:36:45,932 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/dc8a7efc-d4c6-462f-8458-19860eb95569/Payload/新射雕群侠传之铁血丹心.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:36:47,316 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/1b042a12-f36f-4b20-b606-b033dcb080a0/Payload/新射雕群侠传之铁血丹心.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:36:47,325 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/1b042a12-f36f-4b20-b606-b033dcb080a0/Payload/新射雕群侠传之铁血丹心.app/Frameworks/QYSDK.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:36:47,329 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/1b042a12-f36f-4b20-b606-b033dcb080a0/Payload/新射雕群侠传之铁血丹心.app/NQiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:56:01,104 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:56:01,110 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:56:01,207 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:56:01,207 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/jueshixw.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:56:03,967 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f0e69f47-358c-4689-9ed5-ddde3dffcab9/Payload/jueshixw.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:56:03,969 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f0e69f47-358c-4689-9ed5-ddde3dffcab9/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:56:03,977 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f0e69f47-358c-4689-9ed5-ddde3dffcab9/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:56:03,999 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f0e69f47-358c-4689-9ed5-ddde3dffcab9/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:56:23,371 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/042a3308-a461-45e6-9eb8-3b910ba5d7c2/Payload/jueshixw.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:56:23,373 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/042a3308-a461-45e6-9eb8-3b910ba5d7c2/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:56:23,381 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/042a3308-a461-45e6-9eb8-3b910ba5d7c2/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 12:56:23,405 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/042a3308-a461-45e6-9eb8-3b910ba5d7c2/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 14:27:08,595 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/ProductName.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 14:27:09,653 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/376dc658-6a22-484c-ab88-5ac9c3362a54/Payload/ProductName.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 14:27:16,693 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/a6d4bcd4-15d0-490d-9fec-30edfba7621c/Payload/ProductName.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 15:06:50,143 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1685689610143,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-02 15:54:55,821 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1685692495821,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-06-02 17:55:11,488 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 17:55:11,488 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/gl.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 17:55:13,124 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d7f009d8-0f7c-458b-a880-0c9465e185ee/Payload/gl.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 17:55:13,146 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d7f009d8-0f7c-458b-a880-0c9465e185ee/Payload/gl.app/Frameworks/JJRHSdk.framework/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 17:55:23,574 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/9608714b-8279-4a30-9b29-0b68f0e7026d/Payload/gl.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 17:55:23,596 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/9608714b-8279-4a30-9b29-0b68f0e7026d/Payload/gl.app/Frameworks/JJRHSdk.framework/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 19:22:36,248 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 19:22:36,683 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/c7f0c247-430c-4cd0-90d4-da6c4d574cee/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 19:22:39,202 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d5eccc91-f6f3-43e8-9065-6d77d98ad0ae/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 19:52:33,489 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 19:52:33,489 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/gl.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 19:52:34,487 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/5f2d1a2d-648a-4fae-8ff5-e35417a581e6/Payload/gl.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 19:52:34,523 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/5f2d1a2d-648a-4fae-8ff5-e35417a581e6/Payload/gl.app/Frameworks/JJRHSdk.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 19:52:40,398 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/895c9058-403b-4734-ac2c-26dec69c7664/Payload/gl.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 19:52:40,436 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/895c9058-403b-4734-ac2c-26dec69c7664/Payload/gl.app/Frameworks/JJRHSdk.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 20:04:28,647 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 20:04:28,647 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/gl.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 20:04:30,724 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d0d9b117-27d4-4538-9da6-523c85bd757c/Payload/gl.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 20:04:30,725 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/d0d9b117-27d4-4538-9da6-523c85bd757c/Payload/gl.app/Frameworks/JJRHSdk.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 20:04:43,260 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3e17ae0c-18e5-4346-b174-cede7b188735/Payload/gl.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 20:04:43,261 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3e17ae0c-18e5-4346-b174-cede7b188735/Payload/gl.app/Frameworks/JJRHSdk.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 21:11:55,577 INFO main net.appuploader.b.l.a(?:?)  binary ZZYQRCode bundle in  /Payload/UUPoker.app/Frameworks/ZZYQRCode.framework/ZZYQRCode.bundle/Info.plist not found witch may cause crash 
+2023-06-02 21:11:55,888 INFO main net.appuploader.b.l.a(?:?)  binary ZZYQRCode bundle in  /opt/mdm-sgin-zh/sign/temp/6a1e2fe0-d65e-4f16-ab47-f3497b5aa337/Payload/UUPoker.app/Frameworks/ZZYQRCode.framework/ZZYQRCode.bundle/Info.plist not found witch may cause crash 
+2023-06-02 21:11:57,162 INFO main net.appuploader.b.l.a(?:?)  binary ZZYQRCode bundle in  /opt/mdm-sgin-zh/sign/temp/fb82078c-0ff1-4490-accb-c990c701ed9a/Payload/UUPoker.app/Frameworks/ZZYQRCode.framework/ZZYQRCode.bundle/Info.plist not found witch may cause crash 
+2023-06-02 22:47:07,166 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 22:47:07,575 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/9e095aed-5167-44e2-80d5-0b19d8436d52/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-06-02 22:47:09,201 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/83861eaf-671b-4dbc-8849-6e93e64a10f6/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 

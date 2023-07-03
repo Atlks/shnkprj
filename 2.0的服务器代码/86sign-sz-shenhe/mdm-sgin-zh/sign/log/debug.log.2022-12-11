@@ -1,0 +1,3 @@
+2022-12-11 12:14:41,228 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-11 12:14:44,046 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/23af457f-9e95-45c0-aaac-b38aaac32deb/Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-11 12:15:05,714 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/fc53b59d-f956-46d1-a04d-0e2fa43f1acd/Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 

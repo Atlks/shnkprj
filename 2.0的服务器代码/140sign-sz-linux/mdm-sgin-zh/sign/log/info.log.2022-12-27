@@ -1,0 +1,56 @@
+2022-12-27 03:42:38,634 ERROR Thread-8 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-27 11:15:13,328 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-12-27 11:15:13,740 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/client.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-27 11:15:15,295 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/177542a1-59ff-49d0-ab81-555a4935fbeb/Payload/client.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-27 11:15:15,359 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/177542a1-59ff-49d0-ab81-555a4935fbeb/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-12-27 11:15:23,154 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/499ede73-c466-4e78-8779-34481e5bec18/Payload/client.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-27 11:15:23,219 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/499ede73-c466-4e78-8779-34481e5bec18/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-12-27 11:15:36,505 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/da98e40e-55a2-401b-8ae9-2a8fde25b7e3/Payload/client.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-27 11:15:36,577 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/da98e40e-55a2-401b-8ae9-2a8fde25b7e3/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-12-27 13:44:17,597 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-12-27 13:44:19,728 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/6a9377c3-58a3-4f26-a9d9-dc57369a70a8/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-12-27 13:44:26,658 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/d3d24381-e74a-4486-b6f0-e92f2a4d7163/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-12-27 13:44:33,612 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/1c39eb07-6f2d-45ff-9749-8635defda652/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-12-27 14:00:15,294 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1672120815294,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-27 15:15:01,205 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-27 15:15:02,298 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/3baf9b78-2bc5-48c9-9479-b953969d8bc3/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-27 15:15:07,667 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/25a2bb19-73aa-408f-b08f-7160ce879ef4/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-27 15:15:13,004 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/341d8bd6-6e7a-491b-ac1e-8ecfbb879601/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-27 15:41:26,523 ERROR Thread-9 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-27 16:09:39,672 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:09:40,024 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:09:40,025 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /Payload/gl.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:09:42,946 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/6be7df56-4c9e-4d26-a5d4-ce0b14bf6113/Payload/gl.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:09:42,947 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/6be7df56-4c9e-4d26-a5d4-ce0b14bf6113/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:09:42,989 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/6be7df56-4c9e-4d26-a5d4-ce0b14bf6113/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:09:53,423 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/afba6d5a-8045-4cc9-a1a6-6007b3a39326/Payload/gl.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:09:53,424 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/afba6d5a-8045-4cc9-a1a6-6007b3a39326/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:09:53,467 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/afba6d5a-8045-4cc9-a1a6-6007b3a39326/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:10:04,065 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/ff92a074-a27b-41cd-982d-c6181a03953f/Payload/gl.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:10:04,066 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/ff92a074-a27b-41cd-982d-c6181a03953f/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:10:04,141 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/ff92a074-a27b-41cd-982d-c6181a03953f/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:24:46,149 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-27 16:51:16,083 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:51:16,683 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/22bbee06-36b1-483e-8936-5f64e76af015/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:51:18,220 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/9031399d-edc1-4b20-8a49-c431dd9c55e3/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-27 16:51:19,737 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/6a8f6dc6-7eaa-42c5-9c47-bdf2fc51d473/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-27 19:23:49,142 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-27 20:04:13,485 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-27 20:04:14,153 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/861181cd-43e8-40aa-8cf2-482c6d66bf37/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-27 20:04:17,043 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/60eac9a9-f83c-45d8-8d49-d088a9599c95/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-27 20:04:19,920 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/e780b4a3-31ad-4ad9-b431-5f51112c6626/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-27 20:40:02,502 INFO main net.appuploader.b.l.a(?:?)  binary MYSDK bundle in  /Payload/War.app/MYSDK.bundle/Info.plist not found witch may cause crash 
+2022-12-27 20:40:03,174 INFO main net.appuploader.b.l.a(?:?)  binary MYSDK bundle in  /opt/mdm-sgin-zh/sign/temp/febf51c9-8cd6-498e-90b1-6090972ef935/Payload/War.app/MYSDK.bundle/Info.plist not found witch may cause crash 
+2022-12-27 20:40:05,521 INFO main net.appuploader.b.l.a(?:?)  binary MYSDK bundle in  /opt/mdm-sgin-zh/sign/temp/26b09e67-1d55-449e-a2e7-b0d2f3e2c798/Payload/War.app/MYSDK.bundle/Info.plist not found witch may cause crash 
+2022-12-27 20:40:07,817 INFO main net.appuploader.b.l.a(?:?)  binary MYSDK bundle in  /opt/mdm-sgin-zh/sign/temp/86065d19-2206-43e5-be0d-10194bb25b33/Payload/War.app/MYSDK.bundle/Info.plist not found witch may cause crash 

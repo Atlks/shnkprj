@@ -1,0 +1,8 @@
+2022-02-24 14:37:06,206 ERROR main net.appuploader.e.e.c(?:?) Init File Fail 
+java.nio.file.FileAlreadyExistsException: /opt/mdm-sgin-zh/sign/ausign_runtime/token.data
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.createFile(Files.java:632)
+	at net.appuploader.e.e.c(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

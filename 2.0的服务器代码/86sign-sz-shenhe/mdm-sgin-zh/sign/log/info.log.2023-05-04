@@ -1,0 +1,24 @@
+2023-05-04 10:11:42,642 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼新春版 bundle in  /Payload/ 鑫鑫街机捕鱼新春版.app/Info.plist not found witch may cause crash 
+2023-05-04 10:11:42,746 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1683166302746,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-04 10:11:43,026 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼新春版 bundle in  /opt/mdm-sgin-zh/sign/temp/2135c83c-bdd0-4019-ad4b-f353b60fda12/Payload/ 鑫鑫街机捕鱼新春版.app/Info.plist not found witch may cause crash 
+2023-05-04 10:11:43,038 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1683166303038,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-05-04 10:11:43,361 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼新春版 bundle in  /opt/mdm-sgin-zh/sign/temp/a09151e0-c6f1-408b-a379-bd53a42c2079/Payload/ 鑫鑫街机捕鱼新春版.app/Info.plist not found witch may cause crash 
+2023-05-04 10:11:43,373 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1683166303373,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

@@ -1,0 +1,19 @@
+2022-12-17 14:03:07,274 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1671256987274,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-17 14:21:15,845 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1671258075845,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-17 23:12:22,728 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-12-17 23:12:29,066 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/9b07de16-e93d-4f29-abc0-e5c72770d858/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-12-17 23:12:58,508 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/3f1ddd24-bc1a-4e5a-bf7b-efa42083a269/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 

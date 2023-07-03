@@ -1,0 +1,30 @@
+2022-09-17 00:43:51,834 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-17 00:43:52,622 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/e35f10c3-979d-4881-b007-a69b7f0c0494/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-17 00:43:55,362 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/c134dcb9-e988-42f1-a25f-a30da516195b/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-17 12:19:03,448 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-17 12:19:04,094 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/483a053b-3ab4-42e3-aa49-5ccbaa341bf8/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-17 12:19:06,815 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/47c0564e-0a5b-4f1d-b572-acbc4817e6e8/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-17 13:13:35,626 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1663391615626,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-09-17 17:41:23,347 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-17 17:41:24,003 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/16b1ecc5-1845-440d-9b1a-37802fd9279d/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-17 17:41:26,698 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/0c3a3e74-ac57-4297-abbe-abd9ed58cbea/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-17 23:43:54,069 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/99YOU.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-17 23:43:54,069 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/99YOU.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-17 23:43:55,159 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/d8cc9d83-eb67-4f4b-b1b7-de58fe87a7ab/Payload/99YOU.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-17 23:43:55,197 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sign/sign/temp/d8cc9d83-eb67-4f4b-b1b7-de58fe87a7ab/Payload/99YOU.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 

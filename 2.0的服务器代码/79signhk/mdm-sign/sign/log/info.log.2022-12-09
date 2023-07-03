@@ -1,0 +1,4 @@
+2022-12-09 12:36:52,982 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/buluozlm.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-09 12:36:53,030 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sign/sign/temp/bee7a91a-8b9b-444d-86df-e5259808ea90/Payload/buluozlm.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-09 15:33:15,704 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-09 15:33:16,196 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sign/sign/temp/069fca9d-30d5-4b79-9fa1-77a87e0f676b/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 

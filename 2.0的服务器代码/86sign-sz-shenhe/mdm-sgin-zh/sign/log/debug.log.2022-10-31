@@ -1,0 +1,39 @@
+2022-10-31 09:12:42,468 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /Payload/mhzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-31 09:12:42,609 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/mhzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-31 09:12:45,535 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/5b46d962-be5e-4575-b83c-9a1b3e8687cd/Payload/mhzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-31 09:12:45,536 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/5b46d962-be5e-4575-b83c-9a1b3e8687cd/Payload/mhzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-31 09:13:02,348 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/68359f2a-6dd7-4b5a-b1bb-2221e3f6dc12/Payload/mhzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-31 09:13:02,348 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/68359f2a-6dd7-4b5a-b1bb-2221e3f6dc12/Payload/mhzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-31 09:41:12,131 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-10-31 09:41:13,803 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/456d9303-374a-4519-acf2-7f77c2da8409/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-10-31 09:41:22,385 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/660ab801-036c-4db5-9ca2-7e34b4a033d9/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2022-10-31 09:47:04,848 ERROR main net.appuploader.a.a(?:?) {"messageName":"FileFormatError","time":1667180824848,"message":"extract file fail with copy file fail invalid stored block lengths","status":0}
+net.appuploader.b.d: extract file fail with copy file fail invalid stored block lengths
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-10-31 09:47:05,023 ERROR pool-2-thread-3 net.appuploader.b.x.run(?:?)  unzip fail with invalid stored block lengths
+2022-10-31 13:33:49,868 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-31 13:33:49,868 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-31 13:33:51,370 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/27b23ceb-1ebc-4133-823f-6e77e6758fa2/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-31 13:33:51,406 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/27b23ceb-1ebc-4133-823f-6e77e6758fa2/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-31 13:34:00,907 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/c6eeef24-ad4b-4c80-b1d8-3a4f2e720af7/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-31 13:34:00,944 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/c6eeef24-ad4b-4c80-b1d8-3a4f2e720af7/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-31 13:57:19,119 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /Payload/mhzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-31 13:57:19,260 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/mhzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-31 13:57:22,204 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/e1f03b8a-3a66-42ce-964d-6baca5f6ced9/Payload/mhzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-31 13:57:22,204 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/e1f03b8a-3a66-42ce-964d-6baca5f6ced9/Payload/mhzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-31 13:57:38,838 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/ac89e2fc-dc8d-4bd2-8052-81f57f31d451/Payload/mhzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-31 13:57:38,839 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/ac89e2fc-dc8d-4bd2-8052-81f57f31d451/Payload/mhzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-31 16:49:33,579 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-31 16:49:33,579 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-31 16:49:34,399 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/9a093a3d-f0af-411f-85e4-3bb5cd01ad29/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-31 16:49:34,436 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/9a093a3d-f0af-411f-85e4-3bb5cd01ad29/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-31 16:49:40,218 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/17064cb8-aec9-409a-b1fd-13a8239cffb8/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-10-31 16:49:40,256 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/17064cb8-aec9-409a-b1fd-13a8239cffb8/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 

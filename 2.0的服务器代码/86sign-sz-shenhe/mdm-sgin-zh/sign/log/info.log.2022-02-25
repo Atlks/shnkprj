@@ -1,0 +1,233 @@
+2022-02-25 11:26:11,932 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 11:26:11,932 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645759571932,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 11:26:15,762 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 11:29:26,926 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 11:29:26,926 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645759766926,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 11:29:30,471 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 11:29:30,471 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645759770471,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 13:11:02,533 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:11:02,533 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645765862533,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 13:13:46,960 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:13:46,960 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645766026960,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 13:15:21,560 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:20:14,884 ERROR Thread-49 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:20:18,318 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:20:18,318 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645766418318,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 13:20:22,493 ERROR Thread-68 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:20:33,917 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:20:33,917 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645766433917,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 13:20:36,930 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:20:36,930 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645766436930,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 13:20:37,731 ERROR Thread-49 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:20:40,295 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:21:09,029 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:21:09,030 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645766469030,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 13:21:09,033 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:21:09,033 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645766469033,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 13:21:13,288 ERROR Thread-31 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:21:56,426 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:21:56,426 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645766516426,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 13:22:00,596 ERROR Thread-68 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:22:13,851 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:22:13,851 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645766533851,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 13:22:17,242 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:22:24,009 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:22:24,009 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645766544009,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 13:23:26,754 ERROR Thread-68 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 13:51:57,248 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 13:51:58,420 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/b091777e-0ca5-41af-a01b-4b6cf653784e/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 13:52:05,856 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/103f7dd2-b365-4789-83f5-d853b0f3face/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 13:54:52,064 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 13:54:53,267 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/33ff23a1-8422-4452-9e1e-c9d43ca86523/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 13:55:00,846 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/5d04f059-5bd3-43b9-9469-981ec4f47253/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 13:55:08,678 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/93dd034a-e27f-4c74-83cc-a0f5e2c01fd0/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 13:56:03,400 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 13:56:04,601 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/f7b4b45a-0ace-4c99-9795-3137a94cdb1b/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 13:56:12,984 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/392275cd-61d6-4b1c-9776-269747ae974f/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 13:56:20,795 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/21cd30d2-313f-473a-b570-faaa50d04c47/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 14:35:06,438 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 14:35:06,438 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645770906438,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 14:37:41,430 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 14:38:42,305 ERROR Thread-68 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 14:39:07,369 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 14:39:07,369 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645771147369,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 14:39:11,201 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 15:30:31,828 ERROR Thread-49 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 15:34:53,721 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 15:34:53,721 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645774493721,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-25 15:54:00,377 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-25 15:54:00,800 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/7244e4af-f8da-41d9-8c85-8d4d3976c66b/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-25 15:54:02,313 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/6f515ee5-4afd-411e-8f57-74b680d0ddbc/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-25 16:07:45,480 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:07:46,655 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/e7755851-721c-4b14-94eb-2e9df5452dfb/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:07:54,142 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/a3a35d09-06ad-4cb4-aeaf-f40a1e68d243/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:10:29,311 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:10:30,507 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/527a51ba-6a26-487d-abba-3ddfd7b24019/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:10:37,995 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/d54944cb-e60f-4d08-a7b8-dba785d837ac/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:10:46,036 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/63178509-3350-4ddb-8e38-fc1a052fe542/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:11:43,160 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:11:44,362 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/7b5fd4f7-25f2-45fc-a952-90cf43340a7d/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:11:51,792 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/524ad44c-e22d-44d3-a014-d55ffc4090cf/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:11:59,236 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/785c9ac8-6ee2-4bcf-9a14-92ddd1e22956/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:12:15,910 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:12:17,265 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/c97a7789-ea27-461a-989b-b366d6ef7346/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:12:30,701 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/16cc6867-cd65-445c-ba27-99011805d4bf/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:14:30,961 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:14:32,261 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/b9838d47-f9fb-4232-9bff-93cae08ad792/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:14:39,673 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/e84b37e6-5d60-4cc2-bafb-9427b417018d/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:14:47,035 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/c356859b-be65-4219-ae66-d83eb2d96778/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:15:39,445 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:15:40,974 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/3f5e771c-660b-45f3-a762-fffa20f85b02/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:15:54,215 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/8d170b4f-e549-475e-844e-c48ede240bf0/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 16:16:05,382 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/110ae5ae-9cfe-42ae-8f57-63d92d6a3211/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:13:12,375 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:13:17,857 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/8da6ed77-3fff-458e-8312-7708a31fd0d1/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:14:01,054 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/cd439ce0-aaf3-4c07-bb43-f26fe6e5a64d/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:17:26,634 ERROR Thread-49 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-25 17:18:43,898 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:18:48,907 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/d4a03aec-f609-4656-82dd-6d2a2b9fc384/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:19:29,806 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/c7c8086b-fe3b-4e1b-8124-4adffe75e93d/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:20:12,560 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/eefdf469-966f-4754-8be4-02a27d4ee493/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:47:43,823 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:47:45,082 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/140cab2c-dad4-4cfc-a4a1-d7b5b5644316/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:47:52,810 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/ee7d84ff-5f52-4981-bf72-9482bb385597/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:54:42,132 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:54:43,434 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/ac315230-020c-4a3d-b596-f068a8257275/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:54:51,539 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/e1de9c7f-7e2b-4e0f-818f-9e69b5ab66f6/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:54:59,863 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/c24ba6c2-47de-4557-a8fa-b20bf77bd176/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:55:52,121 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:55:53,311 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/bdfb6763-349a-4e84-9492-5363206f99ab/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:56:05,045 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/0b3af45f-520b-4282-b558-717d806934f5/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 17:56:23,629 INFO main net.appuploader.b.l.a(?:?)  binary Bundle_51WanSY bundle in  /opt/mdm-sgin-zh/sign/temp/a6191c01-8629-49ca-baca-307574eeb298/Payload/Unity-iPhone.app/Bundle_51WanSY.bundle/Info.plist not found witch may cause crash 
+2022-02-25 18:48:19,453 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-25 18:48:19,893 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/450890e0-3c0b-42f8-8d06-d091a1af4f55/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-25 18:48:21,551 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/24aff4dc-67e5-4b29-ba08-657ce02b466e/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-25 19:36:38,998 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/虎牙棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2022-02-25 19:36:39,436 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/c5583824-62b6-4af3-bc4d-ca647c8a117e/Payload/虎牙棋牌.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 

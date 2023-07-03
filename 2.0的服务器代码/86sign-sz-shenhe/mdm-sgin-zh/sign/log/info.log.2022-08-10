@@ -1,0 +1,20 @@
+2022-08-10 12:54:11,705 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1660107251705,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-08-10 13:07:03,423 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-08-10 13:07:04,857 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/7e1f0610-c5c7-42c5-96a7-62e8476e5582/Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-08-10 13:07:12,469 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/0754c15a-1ae2-4642-912b-719d9840f18a/Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-08-10 13:58:18,960 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/测试.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-10 13:58:21,913 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/d692d6dc-3e4c-40a5-8a19-ca0a0323b686/Payload/测试.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-10 13:58:43,564 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/87693c9e-5558-4f13-bbf1-2f44e670a80e/Payload/测试.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-08-10 18:34:34,860 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-08-10 18:34:34,895 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-10 18:34:35,749 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/c17cffd1-c834-4412-8982-b429edb87e14/Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-10 18:34:35,749 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/c17cffd1-c834-4412-8982-b429edb87e14/Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-08-10 18:34:39,732 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/2d618caf-7219-41c6-aae6-a620c4daf31b/Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-08-10 18:34:39,733 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/2d618caf-7219-41c6-aae6-a620c4daf31b/Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 

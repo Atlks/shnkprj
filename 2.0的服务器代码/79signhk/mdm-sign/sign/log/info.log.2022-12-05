@@ -1,0 +1,2 @@
+2022-12-05 15:50:12,809 INFO main net.appuploader.b.l.a(?:?)  binary kfBundle bundle in  /Payload/ALLIN.app/kfBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-05 15:50:13,074 INFO main net.appuploader.b.l.a(?:?)  binary kfBundle bundle in  /opt/mdm-sign/sign/temp/a2469dc2-7913-46d5-90af-ef8d84fbd5d9/Payload/ALLIN.app/kfBundle.bundle/Info.plist not found witch may cause crash 

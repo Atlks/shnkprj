@@ -1,0 +1,43 @@
+2022-09-06 09:53:02,529 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 09:53:02,530 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 09:53:06,253 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/26e6acf4-2f67-4d16-9d20-0691ecd6777f/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 09:53:06,269 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/26e6acf4-2f67-4d16-9d20-0691ecd6777f/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 09:53:31,553 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/cbcfe64e-74c2-47c3-bcb9-40c0bbb4c3ef/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 09:53:31,569 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/cbcfe64e-74c2-47c3-bcb9-40c0bbb4c3ef/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 11:11:07,652 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 11:11:07,652 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 11:11:09,236 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/83ba5fd2-6471-4e8d-a69f-f2e8b42fdb27/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 11:11:09,272 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/83ba5fd2-6471-4e8d-a69f-f2e8b42fdb27/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 11:11:19,756 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/6587d821-6493-4258-96bb-241047d9c48c/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 11:11:19,793 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/6587d821-6493-4258-96bb-241047d9c48c/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 12:50:52,972 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 12:50:52,972 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 12:50:54,558 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/fb4e1255-c239-4932-90a9-c400acb8f49b/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 12:50:54,594 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/fb4e1255-c239-4932-90a9-c400acb8f49b/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 12:51:05,072 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/260ef9a2-a4f9-45ea-a1b5-6c29faebbd18/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 12:51:05,109 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/260ef9a2-a4f9-45ea-a1b5-6c29faebbd18/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 18:02:23,844 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 18:02:23,844 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 18:02:25,464 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/19e91b28-2cbb-42ee-94a3-986036c928e9/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 18:02:25,500 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/19e91b28-2cbb-42ee-94a3-986036c928e9/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 18:02:35,907 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/23565fe0-45d9-4b6d-8196-fe6d75b69d33/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 18:02:35,943 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/23565fe0-45d9-4b6d-8196-fe6d75b69d33/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-09-06 18:14:02,889 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1662459242889,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-09-06 18:14:03,355 INFO main net.appuploader.b.l.a(?:?)  binary 澳玩游戏中心 bundle in  /opt/mdm-sgin-zh/sign/temp/00ab4e5e-277c-4e3f-93a4-2ef36c213b39/Payload/??????Ϸ????.app/Info.plist not found witch may cause crash 
+2022-09-06 18:14:05,856 INFO main net.appuploader.b.l.a(?:?)  binary 澳玩游戏中心 bundle in  /opt/mdm-sgin-zh/sign/temp/ce32d1e6-a4ac-4f87-8aa8-f2705bfd9ee4/Payload/??????Ϸ????.app/Info.plist not found witch may cause crash 

@@ -1,0 +1,75 @@
+2022-07-02 01:33:04,739 INFO main net.appuploader.b.l.a(?:?)  binary 金豆扑克 bundle in  /Payload/qq.app/Info.plist not found witch may cause crash 
+2022-07-02 01:33:04,739 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1656696784739,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.e.n.a(Unknown Source)
+	at net.appuploader.e.f.w(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.e.f.<init>(Unknown Source)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-07-02 13:16:07,858 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 13:16:08,455 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /opt/mdm-sgin-zh/sign/temp/79a0a7ce-b09a-414a-8192-5af9f58f3b9f/Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 13:16:10,659 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /opt/mdm-sgin-zh/sign/temp/86395a6f-080e-4d3d-9662-887887d487ee/Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 13:16:12,838 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /opt/mdm-sgin-zh/sign/temp/f04e1a7b-42e6-476a-a1df-6407142582d1/Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 14:05:33,044 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 14:05:33,641 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /opt/mdm-sgin-zh/sign/temp/9c067ee9-e480-49af-b488-d3f5258f07ee/Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 14:05:35,861 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /opt/mdm-sgin-zh/sign/temp/6c6f17f8-8e51-4bf4-a214-01fd2c2d3efe/Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 14:05:38,040 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /opt/mdm-sgin-zh/sign/temp/ba54e585-84b6-45cf-b2e8-798e3edaf030/Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 14:25:53,255 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 14:25:53,850 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /opt/mdm-sgin-zh/sign/temp/1b9a3cac-2e4d-426a-bf61-c727b81cff66/Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 14:25:56,161 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /opt/mdm-sgin-zh/sign/temp/af52baa9-77b9-412e-b26f-688fd676f7de/Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 14:25:58,339 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /opt/mdm-sgin-zh/sign/temp/eb9192d2-cccc-4d96-81d3-6008cc523ced/Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 14:31:40,453 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 14:31:41,051 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /opt/mdm-sgin-zh/sign/temp/a440347c-11f2-4a4a-b342-077cf9c714d6/Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 14:31:43,299 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /opt/mdm-sgin-zh/sign/temp/e2e98305-0672-402c-9ae1-c097d2de7ec2/Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 14:31:45,530 INFO main net.appuploader.b.l.a(?:?)  binary 鸿达 bundle in  /opt/mdm-sgin-zh/sign/temp/1740352f-dfd6-4a98-af93-d2ffe982930b/Payload/楦胯揪.app/Info.plist not found witch may cause crash 
+2022-07-02 16:51:42,878 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 16:51:42,996 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 16:51:42,997 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 16:51:44,990 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/30992946-7a35-45aa-ab52-382e1ee63e92/Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 16:51:45,068 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/30992946-7a35-45aa-ab52-382e1ee63e92/Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 16:51:45,080 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/30992946-7a35-45aa-ab52-382e1ee63e92/Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 16:51:56,904 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/e1986196-4b34-410a-b250-3f26de92cf9f/Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 16:51:56,983 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/e1986196-4b34-410a-b250-3f26de92cf9f/Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 16:51:57,032 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/e1986196-4b34-410a-b250-3f26de92cf9f/Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 17:59:06,861 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 17:59:06,989 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 17:59:07,526 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 17:59:09,570 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/bedd1340-c23d-4839-a66a-67a9ea2b36c3/Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 17:59:09,647 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/bedd1340-c23d-4839-a66a-67a9ea2b36c3/Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 17:59:09,659 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/bedd1340-c23d-4839-a66a-67a9ea2b36c3/Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 17:59:21,448 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/69a0318e-c830-4ad7-9648-c90c3cee9806/Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 17:59:21,565 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/69a0318e-c830-4ad7-9648-c90c3cee9806/Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 17:59:21,577 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/69a0318e-c830-4ad7-9648-c90c3cee9806/Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 17:59:33,399 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/c9917552-2c0f-4f1b-a0c4-44676c55076e/Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 17:59:33,480 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/c9917552-2c0f-4f1b-a0c4-44676c55076e/Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 17:59:33,530 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/c9917552-2c0f-4f1b-a0c4-44676c55076e/Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:22:52,840 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:22:52,958 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:22:52,960 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:22:54,935 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/15d38917-0b71-4acf-a2ee-2fac03e15b65/Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:22:55,050 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/15d38917-0b71-4acf-a2ee-2fac03e15b65/Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:22:55,062 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/15d38917-0b71-4acf-a2ee-2fac03e15b65/Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:23:06,883 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/cf90c602-cfd9-4854-9353-dc5be7c9ea90/Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:23:06,963 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/cf90c602-cfd9-4854-9353-dc5be7c9ea90/Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:23:07,014 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/cf90c602-cfd9-4854-9353-dc5be7c9ea90/Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:24:30,482 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:24:30,609 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:24:31,146 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:24:33,195 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/802e024b-f87c-43bc-b90e-f8eed44a7e2c/Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:24:33,274 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/802e024b-f87c-43bc-b90e-f8eed44a7e2c/Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:24:33,286 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/802e024b-f87c-43bc-b90e-f8eed44a7e2c/Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:24:45,125 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/5561349c-c164-4fcb-961d-0d5180293c5b/Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:24:45,241 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/5561349c-c164-4fcb-961d-0d5180293c5b/Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:24:45,253 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/5561349c-c164-4fcb-961d-0d5180293c5b/Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:24:57,057 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/f08f6c3e-e0c6-4fd9-9a0f-3344adefebab/Payload/lymb.app/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:24:57,174 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/f08f6c3e-e0c6-4fd9-9a0f-3344adefebab/Payload/lymb.app/Frameworks/XXYSDKCoreKit.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 
+2022-07-02 19:24:57,186 INFO main net.appuploader.b.l.a(?:?)  binary XXYSDKCorekitResources bundle in  /opt/mdm-sgin-zh/sign/temp/f08f6c3e-e0c6-4fd9-9a0f-3344adefebab/Payload/lymb.app/Frameworks/XYChannel.framework/XXYSDKCorekitResources.bundle/Info.plist not found witch may cause crash 

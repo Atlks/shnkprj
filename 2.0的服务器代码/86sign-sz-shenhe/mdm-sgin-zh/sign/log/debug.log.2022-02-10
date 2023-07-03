@@ -1,0 +1,73 @@
+2022-02-10 00:40:14,079 ERROR Thread-43 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-10 07:49:57,593 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 07:49:57,948 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/6561714e-6b14-4be7-be10-47ac2afdf280/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 07:49:59,318 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/69edc636-087b-492d-9391-fa59096edd7f/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 08:59:42,336 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 08:59:42,696 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/1a580c9e-20f1-419d-aa94-2a5b65c248d6/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 08:59:44,075 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/f541f126-6b49-41cd-a488-f0533b77efb6/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 09:29:55,357 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 09:29:55,717 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/942dd634-d425-4f02-829a-a40cb931a6e1/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 09:29:57,092 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/53b48784-6110-42c5-a8b5-34bf847afc03/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 12:27:26,169 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 12:27:30,702 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/8f59bed7-e99d-4272-ba48-b35ef7ce4a04/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 12:28:08,445 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/045b7b07-f12b-437a-9602-d0606707d9de/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 12:40:46,974 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 12:40:51,158 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/f3afcdd2-a2f6-4c08-913c-c70d7fb8a14c/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 12:41:25,833 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/708a6a32-52d5-4fe7-903f-6abf968def17/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 13:50:14,424 INFO main net.appuploader.b.l.a(?:?)  binary TPSDKBundle bundle in  /Payload/slots-mobile.app/TPSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-02-10 13:50:14,704 INFO main net.appuploader.b.l.a(?:?)  binary TPSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/0ce742db-90f5-478d-8523-637cd0b8b5e0/Payload/slots-mobile.app/TPSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-02-10 13:50:15,885 INFO main net.appuploader.b.l.a(?:?)  binary TPSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/a5c8a9e1-61f8-4fb6-b44c-adab20472bcd/Payload/slots-mobile.app/TPSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-02-10 13:50:17,061 INFO main net.appuploader.b.l.a(?:?)  binary TPSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/7172a4a9-d413-4c65-901d-90bc9aca5af1/Payload/slots-mobile.app/TPSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-02-10 14:39:26,518 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 14:39:30,057 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/5681a6f9-c54e-492f-a516-3c90f1591ebe/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 14:40:00,238 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/5b5e4539-3f03-4c6b-a185-76cd6b22a010/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 14:44:15,264 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 14:44:19,966 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/5014bde9-6dce-4f30-982e-5412a9e759b8/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 14:44:51,811 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/d280d0da-681e-475e-a12c-e25fc6ae0264/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 14:45:20,238 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/116fc3c6-9038-436e-9c96-4f2e536cb6a0/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 14:48:24,447 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 14:48:24,804 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/bc2303ad-f6c0-4330-b052-01b07b7c56df/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 14:48:26,197 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/b6259c8c-e09e-45d4-8d2b-ccc7bfa99429/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 14:54:39,208 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 14:54:39,566 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/c3132acf-3b3d-4707-9e5c-34e7b910a1aa/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 14:54:40,913 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 14:54:40,935 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/7032f142-1f96-4992-9ffd-642001d17deb/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 14:54:45,509 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/198c477d-c835-476f-ad71-e8dc5bd4d26d/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 14:55:12,141 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/38f9bd78-cc50-4009-b8f1-33b26c46bfef/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 14:55:39,174 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/ed70aa77-8149-4dfd-a5b5-11e7dfc4676a/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-10 15:23:56,967 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 15:23:57,329 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/7ba8d9c4-bb29-436c-a1f4-2de961e4e9ef/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 15:23:58,724 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/f8cad17a-8ef9-4700-bd7d-89a39a9d2181/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 19:26:45,982 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-02-10 19:26:46,387 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/a585a0d4-108f-4dd8-9a4c-fdd2bb93a435/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-02-10 19:26:49,177 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/05e58467-3511-41bc-915e-a37461b01ea1/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-02-10 19:26:51,978 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/4ffbfd23-5b2c-43f3-8c7f-f87a93d6976a/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-02-10 19:30:55,282 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-02-10 19:30:55,689 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/00c9e742-34a9-4ea8-a6dd-1302b6c6f3ac/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-02-10 19:30:58,455 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/3c6dc793-5282-4d0f-b825-08d77b0ce552/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-02-10 19:31:01,234 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/3959c7f2-9ff1-457b-933b-804cdb8ef3b2/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-02-10 19:31:16,774 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-02-10 19:31:17,438 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/3f9592b3-d5e2-46e0-b5d0-6be999d4d851/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-02-10 19:31:20,228 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/8bcc1ca8-2770-4c39-8268-cac51cbf9f56/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-02-10 19:31:22,964 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/f3cea84a-f65e-447e-843c-71cbd27e30b1/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-02-10 20:25:41,544 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-10 20:36:28,158 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 20:36:28,524 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/ab757ee4-78a6-4af4-b9d6-1259de760381/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 20:36:29,892 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/a6cd1399-f4de-413b-8ba1-486312ea3d0c/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 20:58:47,312 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-10 20:58:47,312 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1644497927312,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-10 21:16:37,943 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 21:16:38,316 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/98d756da-6998-47df-9d6d-4269020c6781/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 21:16:39,679 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/bce7c738-b6ac-41e7-8b58-7c081e0fe128/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 21:40:04,697 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 21:40:05,063 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/85dd5c2c-f1e6-469f-9dd4-1e35f71f66ca/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-10 21:40:06,437 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/599cd7f7-5527-400f-a0c9-347af43685bc/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 

@@ -1,0 +1,3 @@
+2022-12-14 15:45:57,473 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/LWSY.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-12-14 15:45:59,587 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/77e183a5-cf26-4c8e-a562-ab0857f225d6/Payload/LWSY.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-12-14 15:46:16,462 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/94ed77ec-c2eb-47cb-8fe3-9b01773e316b/Payload/LWSY.app/5uwantw.bundle/Info.plist not found witch may cause crash 

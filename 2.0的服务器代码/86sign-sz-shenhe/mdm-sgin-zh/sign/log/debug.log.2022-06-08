@@ -1,0 +1,80 @@
+2022-06-08 12:39:46,534 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 12:39:47,097 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/50104edc-52b3-4252-b4c1-416f21354e74/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 12:39:48,784 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/af3e7bbf-e7c5-414e-9be5-05fe319dcfac/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 12:44:31,975 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 12:44:32,515 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/c6b2f3d9-4b6e-44dc-ae1f-4c7aa8ddc30c/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 12:44:34,237 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/032e2395-cd31-4739-9311-531bfe3ea11e/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 12:44:35,963 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/c2edf6e9-4f5a-4a42-9ac9-cc5b90b003ce/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 15:24:50,549 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1654673090549,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-06-08 15:24:50,580 INFO main net.appuploader.b.l.a(?:?)  binary XiFaSDK bundle in  /opt/mdm-sgin-zh/sign/temp/cff63b97-dc3b-42ab-b80d-641b722fabc3/Payload/雷霆斩月之斩魔.app/YouCiFangResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-06-08 15:24:50,581 INFO main net.appuploader.b.l.a(?:?)  binary XiFaSDK bundle in  /opt/mdm-sgin-zh/sign/temp/cff63b97-dc3b-42ab-b80d-641b722fabc3/Payload/雷霆斩月之斩魔.app/Frameworks/YouCiFangSDK.framework/YouCiFangResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-06-08 15:24:50,748 INFO main net.appuploader.b.l.a(?:?)  binary XiFaSDK bundle in  /opt/mdm-sgin-zh/sign/temp/ab3d7832-a33d-4b9f-8b38-4dced3f854c1/Payload/雷霆斩月之斩魔.app/YouCiFangResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-06-08 15:24:50,749 INFO main net.appuploader.b.l.a(?:?)  binary XiFaSDK bundle in  /opt/mdm-sgin-zh/sign/temp/ab3d7832-a33d-4b9f-8b38-4dced3f854c1/Payload/雷霆斩月之斩魔.app/Frameworks/YouCiFangSDK.framework/YouCiFangResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-06-08 15:25:29,915 INFO main net.appuploader.b.l.a(?:?)  binary XiFaSDK bundle in  /Payload/雷霆斩月之斩魔.app/Frameworks/YouCiFangSDK.framework/YouCiFangResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-06-08 15:25:29,917 INFO main net.appuploader.b.l.a(?:?)  binary XiFaSDK bundle in  /Payload/雷霆斩月之斩魔.app/YouCiFangResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-06-08 15:25:29,975 INFO main net.appuploader.b.l.a(?:?)  binary XiFaSDK bundle in  /opt/mdm-sgin-zh/sign/temp/7df8955a-f0aa-440f-8d15-d162221296ac/Payload/雷霆斩月之斩魔.app/YouCiFangResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-06-08 15:25:29,975 INFO main net.appuploader.b.l.a(?:?)  binary XiFaSDK bundle in  /opt/mdm-sgin-zh/sign/temp/7df8955a-f0aa-440f-8d15-d162221296ac/Payload/雷霆斩月之斩魔.app/Frameworks/YouCiFangSDK.framework/YouCiFangResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-06-08 15:25:30,162 INFO main net.appuploader.b.l.a(?:?)  binary XiFaSDK bundle in  /opt/mdm-sgin-zh/sign/temp/fb8d6efa-1662-47d4-8488-6d74d61f0554/Payload/雷霆斩月之斩魔.app/YouCiFangResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-06-08 15:25:30,163 INFO main net.appuploader.b.l.a(?:?)  binary XiFaSDK bundle in  /opt/mdm-sgin-zh/sign/temp/fb8d6efa-1662-47d4-8488-6d74d61f0554/Payload/雷霆斩月之斩魔.app/Frameworks/YouCiFangSDK.framework/YouCiFangResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-06-08 15:25:30,356 INFO main net.appuploader.b.l.a(?:?)  binary XiFaSDK bundle in  /opt/mdm-sgin-zh/sign/temp/85413a0d-5821-4504-8edc-b701f1adb9f6/Payload/雷霆斩月之斩魔.app/YouCiFangResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-06-08 15:25:30,357 INFO main net.appuploader.b.l.a(?:?)  binary XiFaSDK bundle in  /opt/mdm-sgin-zh/sign/temp/85413a0d-5821-4504-8edc-b701f1adb9f6/Payload/雷霆斩月之斩魔.app/Frameworks/YouCiFangSDK.framework/YouCiFangResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-06-08 16:46:07,781 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:46:08,325 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/e7f35b63-604b-42a9-8d78-c49844f1b645/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:46:10,078 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/d989f5a2-3fff-4144-bcc5-8b0295876980/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:46:33,666 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:46:33,699 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:46:34,626 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/dcdceb01-cde4-44d3-bc9d-4db4ba1971f6/Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:46:34,627 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/dcdceb01-cde4-44d3-bc9d-4db4ba1971f6/Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:46:38,848 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/6a6b0d60-f28d-4816-a38c-d9b57548dd53/Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:46:38,848 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/6a6b0d60-f28d-4816-a38c-d9b57548dd53/Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:46:42,978 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:46:44,979 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/8b108105-e64e-4843-bf67-0bca3c8e470c/Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:46:57,124 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/69e44739-404b-441c-bf18-398cc29fd2ff/Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:53:44,976 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:53:44,976 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:53:45,890 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/8e83484c-d6c5-40e2-ad14-93a9975106e6/Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:53:45,890 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/8e83484c-d6c5-40e2-ad14-93a9975106e6/Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:53:50,190 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/7a4f0b28-a1a1-4e82-9d4b-c541d27f8e40/Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:53:50,190 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/7a4f0b28-a1a1-4e82-9d4b-c541d27f8e40/Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:53:54,393 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/8a358861-c658-4ece-a21a-b569107f62d9/Payload/sqyyios11gh.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:53:54,393 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/8a358861-c658-4ece-a21a-b569107f62d9/Payload/sqyyios11gh.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:53:54,698 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:53:57,043 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/a886d46b-8eee-4a84-9984-2d963702826c/Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:54:07,919 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/e70ae1b4-c1ef-4bdb-aa4f-8866d984a889/Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:54:20,464 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/b6aa1f6d-567e-4a54-abd2-f0346df6877b/Payload/ts.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:54:34,072 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:54:34,637 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/7a7f3c06-bd45-46e1-867e-f470218a531f/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:54:38,015 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/d7a83f08-4f45-4875-8aa4-507a7091b85b/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 16:54:41,556 INFO main net.appuploader.b.l.a(?:?)  binary CqSDKBundle bundle in  /opt/mdm-sgin-zh/sign/temp/fdf7bfed-7e8e-4dcc-9b38-40ea254ce26d/Payload/FGCQLibClient-mobile.app/CqSDKBundle.bundle/Info.plist not found witch may cause crash 
+2022-06-08 19:01:24,391 WARN main net.appuploader.b.l.a(?:?) net.appuploader.b.d: java.util.zip.ZipException: invalid block type
+2022-06-08 19:01:24,391 WARN main net.appuploader.b.l.a(?:?) net.appuploader.b.d: java.util.zip.ZipException: invalid stored block lengths
+2022-06-08 19:01:24,391 WARN main net.appuploader.b.l.a(?:?) net.appuploader.b.d: java.util.zip.ZipException: too many length or distance symbols
+2022-06-08 19:01:24,402 ERROR pool-2-thread-3 net.appuploader.b.x.run(?:?)  unzip fail with Unexpected end of ZLIB input stream
+2022-06-08 19:01:24,402 ERROR pool-2-thread-7 net.appuploader.b.x.run(?:?)  unzip fail with invalid stored block lengths
+2022-06-08 19:01:24,402 ERROR pool-2-thread-2 net.appuploader.b.x.run(?:?)  unzip fail with invalid block type
+2022-06-08 19:01:24,402 ERROR pool-2-thread-8 net.appuploader.b.x.run(?:?)  unzip fail with too many length or distance symbols
+2022-06-08 19:01:32,910 WARN main net.appuploader.b.l.a(?:?) net.appuploader.b.d: java.util.zip.ZipException: invalid block type
+2022-06-08 19:01:32,910 WARN main net.appuploader.b.l.a(?:?) net.appuploader.b.d: java.util.zip.ZipException: invalid stored block lengths
+2022-06-08 19:01:32,910 WARN main net.appuploader.b.l.a(?:?) net.appuploader.b.d: java.util.zip.ZipException: too many length or distance symbols
+2022-06-08 19:01:32,921 ERROR pool-2-thread-8 net.appuploader.b.x.run(?:?)  unzip fail with too many length or distance symbols
+2022-06-08 19:01:32,921 ERROR pool-2-thread-2 net.appuploader.b.x.run(?:?)  unzip fail with Unexpected end of ZLIB input stream
+2022-06-08 19:01:32,921 ERROR pool-2-thread-7 net.appuploader.b.x.run(?:?)  unzip fail with invalid stored block lengths
+2022-06-08 19:01:32,921 ERROR pool-2-thread-4 net.appuploader.b.x.run(?:?)  unzip fail with invalid block type
+2022-06-08 22:42:16,859 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

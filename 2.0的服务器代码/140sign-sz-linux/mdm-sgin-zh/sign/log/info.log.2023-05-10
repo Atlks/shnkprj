@@ -1,0 +1,34 @@
+2023-05-10 12:40:41,490 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-10 14:54:02,361 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-10 14:54:02,362 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /Payload/daoguanxunlianjia.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-10 14:54:02,410 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/a91c6832-57f8-4f76-92d7-4175ca316907/Payload/daoguanxunlianjia.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-10 14:54:02,411 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/a91c6832-57f8-4f76-92d7-4175ca316907/Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-10 14:54:02,641 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/8abe8166-6685-4027-b099-d3ad7e45c934/Payload/daoguanxunlianjia.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-10 14:54:02,641 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/8abe8166-6685-4027-b099-d3ad7e45c934/Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-10 14:54:02,862 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/dc9a1371-a995-4c26-afd6-ec54652a3b7e/Payload/daoguanxunlianjia.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-10 14:54:02,863 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/dc9a1371-a995-4c26-afd6-ec54652a3b7e/Payload/daoguanxunlianjia.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-10 16:41:01,816 ERROR Thread-11 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-10 16:46:12,521 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-10 16:49:54,413 ERROR Thread-57 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-10 16:50:00,029 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-10 16:50:00,458 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/a0ffb27f-3011-454b-8dfe-f75390e603e4/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-10 16:50:02,268 ERROR Thread-57 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-10 16:50:03,485 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-10 16:50:03,791 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/7eba61bf-4ede-46b5-9196-a3fa4393f6b6/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-10 16:50:05,413 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/e0b117fa-3952-457b-aec6-ea194521896b/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-10 16:52:43,588 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-10 16:52:44,017 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/8eedcfb8-be1e-4887-a6fd-75cfaf0d4699/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-10 16:52:45,614 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/14b8faba-e50e-4f8b-8187-ef62b48da673/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-10 16:52:47,159 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/48d4d0d0-10b0-453b-aa94-db6b499489c7/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-10 16:57:27,975 ERROR Thread-8 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-10 20:51:58,582 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-10 20:53:50,195 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

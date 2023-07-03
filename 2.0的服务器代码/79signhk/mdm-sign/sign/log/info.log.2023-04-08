@@ -1,0 +1,34 @@
+2023-04-08 13:10:42,248 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-08 13:10:45,224 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sign/sign/temp/410c4292-89e5-424a-a572-3d4d3ebdc692/Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-08 13:11:10,555 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sign/sign/temp/cfc7f91c-c7b5-43ec-a6bc-58edd49b9acc/Payload/YZSY.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-08 13:48:34,522 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/FGCQLibClient-mobile.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-08 13:48:34,919 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sign/sign/temp/f2f40a50-025a-4580-8400-de2b0c90c971/Payload/FGCQLibClient-mobile.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-04-08 16:26:44,681 INFO main net.appuploader.b.l.a(?:?)  binary YTUHD bundle in  /Payload/YouTube.app/YTUHD.bundle/Info.plist not found witch may cause crash 
+2023-04-08 16:26:44,681 INFO main net.appuploader.b.l.a(?:?)  binary RYD bundle in  /Payload/YouTube.app/RYD.bundle/Info.plist not found witch may cause crash 
+2023-04-08 16:26:44,764 INFO main net.appuploader.b.l.a(?:?)  binary Tranzlo bundle in  /Payload/YouTube.app/uYouBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-08 16:26:44,764 INFO main net.appuploader.b.l.a(?:?)  binary YouPiP bundle in  /Payload/YouTube.app/YouPiP.bundle/Info.plist not found witch may cause crash 
+2023-04-08 16:26:46,302 INFO main net.appuploader.b.l.a(?:?)  binary YouPiP bundle in  /opt/mdm-sign/sign/temp/62948e15-b32b-4d5b-958e-72bead218ef0/Payload/YouTube.app/YouPiP.bundle/Info.plist not found witch may cause crash 
+2023-04-08 16:26:46,302 INFO main net.appuploader.b.l.a(?:?)  binary Tranzlo bundle in  /opt/mdm-sign/sign/temp/62948e15-b32b-4d5b-958e-72bead218ef0/Payload/YouTube.app/uYouBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-08 16:26:46,313 INFO main net.appuploader.b.l.a(?:?)  binary RYD bundle in  /opt/mdm-sign/sign/temp/62948e15-b32b-4d5b-958e-72bead218ef0/Payload/YouTube.app/RYD.bundle/Info.plist not found witch may cause crash 
+2023-04-08 16:26:46,313 INFO main net.appuploader.b.l.a(?:?)  binary YTUHD bundle in  /opt/mdm-sign/sign/temp/62948e15-b32b-4d5b-958e-72bead218ef0/Payload/YouTube.app/YTUHD.bundle/Info.plist not found witch may cause crash 
+2023-04-08 16:26:54,816 INFO main net.appuploader.b.l.a(?:?)  binary YouPiP bundle in  /opt/mdm-sign/sign/temp/00a9a5ea-c63e-43e8-aca3-17c73acc5fee/Payload/YouTube.app/YouPiP.bundle/Info.plist not found witch may cause crash 
+2023-04-08 16:26:54,816 INFO main net.appuploader.b.l.a(?:?)  binary Tranzlo bundle in  /opt/mdm-sign/sign/temp/00a9a5ea-c63e-43e8-aca3-17c73acc5fee/Payload/YouTube.app/uYouBundle.bundle/Info.plist not found witch may cause crash 
+2023-04-08 16:26:54,827 INFO main net.appuploader.b.l.a(?:?)  binary RYD bundle in  /opt/mdm-sign/sign/temp/00a9a5ea-c63e-43e8-aca3-17c73acc5fee/Payload/YouTube.app/RYD.bundle/Info.plist not found witch may cause crash 
+2023-04-08 16:26:54,827 INFO main net.appuploader.b.l.a(?:?)  binary YTUHD bundle in  /opt/mdm-sign/sign/temp/00a9a5ea-c63e-43e8-aca3-17c73acc5fee/Payload/YouTube.app/YTUHD.bundle/Info.plist not found witch may cause crash 
+2023-04-08 19:52:53,673 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1680954773673,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.a(Unknown Source)
+	at net.appuploader.b.m.visitFile(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2670)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

@@ -1,0 +1,3 @@
+2023-06-15 12:46:01,232 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2023-06-15 12:46:01,486 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /opt/mdm-sign/sign/temp/b0855070-0e91-4192-8442-0e9d2ff50287/Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2023-06-15 12:46:02,603 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /opt/mdm-sign/sign/temp/8c623784-2e28-49a4-97eb-3999838f0852/Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 

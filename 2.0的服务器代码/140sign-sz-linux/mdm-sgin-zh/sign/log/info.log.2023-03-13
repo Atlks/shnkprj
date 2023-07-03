@@ -1,0 +1,36 @@
+2023-03-13 13:32:08,857 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/黄金轮.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-13 13:32:09,219 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/8dfc1a0b-12e7-4ad4-8437-b711fff039be/Payload/黄金轮.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-13 13:32:10,601 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/abee4af7-5464-46a8-9f3e-2f70a413dde7/Payload/黄金轮.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-13 13:32:11,973 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/889c4eeb-8ea4-4969-8279-480ec0482668/Payload/黄金轮.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-13 13:33:19,756 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1678685599756,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-03-13 18:08:29,707 INFO main net.appuploader.b.l.a(?:?)  binary YWGameSDK bundle in  /Payload/CardSets-mobile.app/res/images/Pzhan.app/YWGameSDK.bundle/Info.plist not found witch may cause crash 
+2023-03-13 18:08:33,065 INFO main net.appuploader.b.l.a(?:?)  binary YWGameSDK bundle in  /opt/mdm-sgin-zh/sign/temp/10f8f87c-5b62-4ef8-9f75-2e83f066e533/Payload/CardSets-mobile.app/res/images/Pzhan.app/YWGameSDK.bundle/Info.plist not found witch may cause crash 
+2023-03-13 18:08:41,539 INFO main net.appuploader.b.l.a(?:?)  binary YWGameSDK bundle in  /opt/mdm-sgin-zh/sign/temp/13ed9901-fd54-4892-bccd-3a12057c4c71/Payload/CardSets-mobile.app/res/images/Pzhan.app/YWGameSDK.bundle/Info.plist not found witch may cause crash 
+2023-03-13 18:08:49,447 INFO main net.appuploader.b.l.a(?:?)  binary YWGameSDK bundle in  /opt/mdm-sgin-zh/sign/temp/9668ab7e-1a0b-41a9-94d4-9b74c515954f/Payload/CardSets-mobile.app/res/images/Pzhan.app/YWGameSDK.bundle/Info.plist not found witch may cause crash 
+2023-03-13 18:10:36,721 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-03-13 18:10:37,979 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /opt/mdm-sgin-zh/sign/temp/551ad67c-aee1-44fa-a614-b6adaf8fd03c/Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-03-13 18:10:44,554 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /opt/mdm-sgin-zh/sign/temp/d7a1dc77-8557-423e-944d-57aa7d374845/Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-03-13 18:10:50,883 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /opt/mdm-sgin-zh/sign/temp/2bcfe9ef-b0b1-4542-ab78-246b5ac73b8c/Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-03-13 20:45:17,209 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2023-03-13 20:45:17,209 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2023-03-13 20:45:18,616 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/3dced1a4-234a-4ebf-a965-31bb4c7b1bfc/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2023-03-13 20:45:18,616 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/3dced1a4-234a-4ebf-a965-31bb4c7b1bfc/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2023-03-13 20:45:26,595 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/fa1af903-20da-483d-b877-dce5647c2162/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2023-03-13 20:45:26,595 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/fa1af903-20da-483d-b877-dce5647c2162/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2023-03-13 20:45:34,391 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/2f0a1652-b90c-4638-a65f-b525ec5c38f9/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2023-03-13 20:45:34,391 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/2f0a1652-b90c-4638-a65f-b525ec5c38f9/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2023-03-13 21:06:58,671 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-13 21:06:58,979 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/489d3be1-d6dc-4639-b204-5732eadbec28/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-13 21:07:00,495 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/9ba9148a-463a-45a2-8a92-810fb0c97113/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-13 21:07:01,995 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/ef689cc2-98f9-4bb4-90ca-2657da7f8455/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-13 21:38:12,789 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-13 21:38:13,232 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/70681b83-d044-455d-8685-1f494fa03d00/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-13 21:38:14,655 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/bc653edd-5b66-42d6-a536-e8c5e898a6f4/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-13 21:38:15,960 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/088a8c95-3b61-4821-9e49-696d582d4b8e/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 

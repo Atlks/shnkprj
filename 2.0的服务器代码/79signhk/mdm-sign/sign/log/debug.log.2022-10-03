@@ -1,0 +1,11 @@
+2022-10-03 11:38:48,450 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-03 11:38:49,109 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/ec0be58b-1f1d-4af9-85fc-492c48c9c235/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-03 11:38:51,827 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/b1a6e936-0e53-4606-a3be-3af699426321/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-03 14:07:00,189 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-03 14:07:00,833 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/04ce9c3b-8d08-437f-8354-fd774c9ed454/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-03 14:07:03,578 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/b2debea2-d36b-4cec-91ad-356327fc190e/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-03 14:54:27,729 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/cqgame.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-03 14:54:28,700 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sign/sign/temp/04a4d6e4-af33-4962-84a1-ec581519c10c/Payload/cqgame.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-10-03 19:15:44,899 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-03 19:15:45,549 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/03f45f00-17f7-4572-80a0-a9de1893e877/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-10-03 19:15:48,251 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/0bff52f2-81a9-43d0-8041-2238b52dfd5e/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

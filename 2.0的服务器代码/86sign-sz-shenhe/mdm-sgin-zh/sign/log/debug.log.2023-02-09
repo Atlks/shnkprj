@@ -1,0 +1,6 @@
+2023-02-09 14:14:10,624 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-09 14:14:11,875 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/5e478f4a-6b1f-4d30-95e1-d98d53027e86/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-09 14:14:20,318 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3394e24d-2885-4ef1-af78-1298b7b8f6a5/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-09 14:15:29,816 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-09 14:15:31,080 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/b679af61-20f5-4bdc-866a-5d1c317ba7b4/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-02-09 14:15:39,640 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/268576dc-c095-4ed7-94f2-d1fc0db68c20/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 

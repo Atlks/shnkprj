@@ -1,0 +1,3 @@
+2023-04-29 10:24:47,795 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-04-29 10:24:50,450 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /opt/mdm-sgin-zh/sign/temp/9d085bf0-67b5-46cc-8144-2d9d933484d4/Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 
+2023-04-29 10:25:09,120 INFO main net.appuploader.b.l.a(?:?)  binary xyimg bundle in  /opt/mdm-sgin-zh/sign/temp/d30bd8d3-0ca3-4455-8484-425301b9beed/Payload/kuaishou.app/xyimg.bundle/Info.plist not found witch may cause crash 

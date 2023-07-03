@@ -1,0 +1,84 @@
+2022-12-24 00:33:18,297 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1671813198297,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-24 13:18:29,067 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 13:18:29,658 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/7a070542-afd5-445b-8d54-2ed70b83a0ff/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 13:18:32,406 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/35f7081e-25b9-4a65-b10c-5aa7b8eb9c47/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 13:18:35,177 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/8c9a9e64-5807-44c9-9a25-621af2ce08ca/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 14:01:47,664 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼·极速版 bundle in  /Payload/鑫鑫街机捕鱼·极速版.app/Info.plist not found witch may cause crash 
+2022-12-24 14:01:47,777 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1671861707777,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-24 14:01:48,025 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼·极速版 bundle in  /opt/mdm-sgin-zh/sign/temp/574341f2-e054-44fa-a40e-388a5556f664/Payload/鑫鑫街机捕鱼·极速版.app/Info.plist not found witch may cause crash 
+2022-12-24 14:01:48,037 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1671861708037,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-24 14:01:48,315 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼·极速版 bundle in  /opt/mdm-sgin-zh/sign/temp/c4519128-223f-4632-91f8-3e2104579d05/Payload/鑫鑫街机捕鱼·极速版.app/Info.plist not found witch may cause crash 
+2022-12-24 14:01:48,327 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1671861708327,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-24 14:12:34,598 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1671862354598,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-12-24 14:32:36,901 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-24 14:32:37,598 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/c213bb92-e08b-42b0-8d90-ca3c53aefa6e/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-24 14:32:40,118 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/dcdb7768-aa60-4a66-8880-cec921882671/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-24 14:32:42,703 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/a4330da7-958b-4583-b826-be9a4762af94/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-12-24 17:17:34,675 ERROR Thread-51 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-24 21:08:08,861 INFO main net.appuploader.b.l.a(?:?)  binary BYSDK bundle in  /Payload/tzj.app/Frameworks/MTSDK.framework/BYSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:08,861 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/tzj.app/BYSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:08,861 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:08,861 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /Payload/tzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:10,215 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0156d03e-05d9-4e84-ab32-d8b6c1a51eba/Payload/tzj.app/BYSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:10,216 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0156d03e-05d9-4e84-ab32-d8b6c1a51eba/Payload/tzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:10,216 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0156d03e-05d9-4e84-ab32-d8b6c1a51eba/Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:10,250 INFO main net.appuploader.b.l.a(?:?)  binary BYSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0156d03e-05d9-4e84-ab32-d8b6c1a51eba/Payload/tzj.app/Frameworks/MTSDK.framework/BYSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:16,060 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/1e38fa68-3ed1-470f-95e9-ee36a12874ef/Payload/tzj.app/BYSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:16,060 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/1e38fa68-3ed1-470f-95e9-ee36a12874ef/Payload/tzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:16,060 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/1e38fa68-3ed1-470f-95e9-ee36a12874ef/Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:16,094 INFO main net.appuploader.b.l.a(?:?)  binary BYSDK bundle in  /opt/mdm-sgin-zh/sign/temp/1e38fa68-3ed1-470f-95e9-ee36a12874ef/Payload/tzj.app/Frameworks/MTSDK.framework/BYSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:21,947 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3736f560-169a-41df-a351-dd9a32cdbd8f/Payload/tzj.app/BYSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:21,947 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3736f560-169a-41df-a351-dd9a32cdbd8f/Payload/tzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:21,947 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3736f560-169a-41df-a351-dd9a32cdbd8f/Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:08:21,982 INFO main net.appuploader.b.l.a(?:?)  binary BYSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3736f560-169a-41df-a351-dd9a32cdbd8f/Payload/tzj.app/Frameworks/MTSDK.framework/BYSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:41:19,619 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/qgame.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:41:23,394 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/6a8c5acf-1c23-4807-90a7-7bd28eebe351/Payload/qgame.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:41:44,452 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/5c3a85d9-4829-4b7d-9304-0818c0382440/Payload/qgame.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:42:05,517 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f91c5eea-f99d-4f7a-8bfd-80b80f67ea19/Payload/qgame.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:46:01,943 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/qgame.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:46:05,699 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/c6709203-b93c-4ddf-a8c4-bb278a75d566/Payload/qgame.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:46:27,134 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/5ade093a-0711-4b87-9d45-4b8b53778fb5/Payload/qgame.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 21:46:48,671 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/fb8a13f7-a3be-4f34-b6d9-19a49b729b44/Payload/qgame.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-12-24 22:14:11,568 ERROR Thread-11 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-24 22:34:01,233 ERROR Thread-51 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-24 22:34:09,428 ERROR Thread-51 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-24 22:34:54,923 ERROR Thread-51 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-12-24 22:35:27,387 ERROR Thread-8 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

@@ -1,0 +1,6 @@
+2023-02-08 11:29:09,925 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-02-08 11:29:10,035 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-02-08 11:29:12,781 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/ef8c75bd-8edc-4126-9b62-1a95617f5242/Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-02-08 11:29:12,783 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/ef8c75bd-8edc-4126-9b62-1a95617f5242/Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-02-08 11:29:32,255 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/0dc5abb5-71d1-44db-9e36-a835617e65a6/Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-02-08 11:29:32,257 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/0dc5abb5-71d1-44db-9e36-a835617e65a6/Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 

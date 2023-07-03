@@ -1,0 +1,66 @@
+2023-01-21 14:06:12,058 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-01-21 14:06:12,167 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-01-21 14:06:14,915 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/6b971f4b-36ad-4f13-9434-3f982c845db0/Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-01-21 14:06:14,917 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/6b971f4b-36ad-4f13-9434-3f982c845db0/Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-01-21 14:06:34,455 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/40d05963-c3b7-49a6-a8c0-8ded6dbd597d/Payload/jueshixw.app/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-01-21 14:06:34,457 INFO main net.appuploader.b.l.a(?:?)  binary YJGame bundle in  /opt/mdm-sgin-zh/sign/temp/40d05963-c3b7-49a6-a8c0-8ded6dbd597d/Payload/jueshixw.app/Frameworks/ChannelSDK.framework/YJGame.bundle/Info.plist not found witch may cause crash 
+2023-01-21 14:55:49,175 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/jh2.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2023-01-21 14:55:52,007 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/92a12b1b-46d1-404e-99a8-e1484f5b37e7/Payload/jh2.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2023-01-21 14:56:09,251 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/76d262df-40ae-42cd-9e0e-64f1c5a06567/Payload/jh2.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2023-01-21 17:39:23,463 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-21 17:39:23,964 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f523733f-29bd-4a79-b9d0-3edeec631a54/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-21 17:39:25,611 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/37b31020-a892-4498-841d-ff10485be78b/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-21 17:39:42,027 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-21 17:39:42,530 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/e3fe7095-90a0-4637-8f00-aae897335995/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-21 17:39:44,283 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/6ee9602e-7499-4dfb-9aba-89f23376db25/Payload/FGCQLibClient-mobile.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-01-21 21:38:24,078 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1674308304078,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-01-21 21:38:40,062 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1674308320062,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-01-21 21:39:53,461 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1674308393461,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

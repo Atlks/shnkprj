@@ -1,0 +1,29 @@
+2022-07-12 15:34:59,629 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1657611299629,"message":"java.lang.UnsupportedOperationException","status":0}
+java.lang.UnsupportedOperationException
+	at kxapp.nio.zipfs.ZipFileSystemProvider.getZipFileSystem(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystemProvider.newFileSystem(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-07-12 20:07:52,832 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1657627672832,"message":"MALFORMED[2]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[2]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-07-12 23:00:26,892 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-07-12 23:00:27,535 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/2faf82a6-ab68-49ea-be11-e46dd6bb39d3/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-07-12 23:00:30,130 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/99d0935b-32ed-448e-a7f2-fc672a2f0072/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-07-12 23:00:32,727 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/d27c780b-beb2-4197-8cdc-ab7132de6a0e/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

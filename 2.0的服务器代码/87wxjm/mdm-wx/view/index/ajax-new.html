@@ -1,0 +1,640 @@
+<!DOCTYPE html>
+<html lang="cn">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="ie=edge" http-equiv="X-UA-Compatible">
+    <title>APP下载</title>
+    <style>
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        body {
+            -webkit-overflow-scrolling: touch;
+            overflow: auto;
+        }
+
+        /* 格式化默认样式表 */
+        * {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        *:before,
+        *:after {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        body,
+        div,
+        dl,
+        dt,
+        dd,
+        ul,
+        ol,
+        li,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        pre,
+        code,
+        form,
+        fieldset,
+        legend,
+        input,
+        button,
+        textarea,
+        p,
+        blockquote,
+        th,
+        td {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background: #fff;
+            color: #555;
+            font-size: 14px;
+            font-family: "Microsoft YaHei";
+        }
+
+        td,
+        th,
+        caption {
+            font-size: 14px;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-weight: normal;
+            font-size: 100%;
+        }
+
+        address,
+        caption,
+        cite,
+        code,
+        dfn,
+        em,
+        strong,
+        th,
+        var {
+            font-style: normal;
+            font-weight: normal;
+        }
+
+        a {
+            color: #555;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: none;
+        }
+
+        img {
+            border: none;
+            vertical-align: middle;
+        }
+
+        ol,
+        ul,
+        li {
+            list-style: none;
+        }
+
+        input,
+        textarea,
+        select,
+        button {
+            font: 14px "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif;
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+        html {
+            overflow-y: scroll;
+        }
+
+        img {
+            display: block;
+            /* margin:0 auto; */
+        }
+
+        .clearfix:before,
+        .clearfix:after {
+            content: " ";
+            display: inline-block;
+            height: 0;
+            clear: both;
+            visibility: hidden;
+        }
+
+        .clearfix {
+            *zoom: 1;
+        }
+
+        /*公共类*/
+        .fl {
+            float: left
+        }
+
+        .fr {
+            float: right
+        }
+
+        .al {
+            text-align: left
+        }
+
+        .ac {
+            text-align: center
+        }
+
+        .ar {
+            text-align: right
+        }
+
+        .hide {
+            display: none
+        }
+
+        /* 私有类 */
+        html {
+            height: 100%;
+            width: 100%;
+        }
+
+        body {
+            height: 100%;
+            width: 100%;
+        }
+
+        section {
+            background: #fff;
+            background-attachment: fixed;
+            height: 100%;
+            width: 100%;
+            /* max-width: 1000px; */
+            position: relative;
+            margin: 0 auto;
+        }
+
+        .bodt_bg {
+            display: block;
+            position: absolute;
+        }
+
+        .bodt_meng {
+            display: none;
+            /* display: block; */
+            position: fixed;
+            z-index: 999;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            height: 100%;
+            letter-spacing: 2px;
+            background: #444444;
+        }
+
+        .bodt_meng > p {
+            text-align: center;
+            margin-top: 40%;
+            color: #fff;
+            line-height: 1.6rem;
+            font-size: 1.2rem;
+        }
+
+        .bodt_tanchuan {
+            display: none;
+            position: fixed;
+            z-index: 999;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            height: 100%;
+            letter-spacing: 2px;
+            background: rgba(0, 0, 0, 0.6);
+        }
+
+        .tanchuan_border {
+            position: relative;
+            margin-top: 4rem;
+            display: block;
+            border-radius: 5px;
+            width: 19rem;
+            height: 8rem;
+            margin: 0 auto;
+            background: #fff;
+            text-align: center;
+            margin-top: 40%;
+            padding: 0px 1.2rem;
+        }
+
+        .tanchuan_border > p {
+            display: block;
+            padding-top: 1rem;
+            color: #000;
+            line-height: 1.6rem;
+            font-size: 1rem;
+        }
+
+        .butt {
+            position: absolute;
+            right: 1.5rem;
+            margin-top: 1rem;
+            display: block;
+            width: 3rem;
+            height: 1.6rem;
+            line-height: 1.6rem;
+            background: #3dafeb;
+            color: #fff;
+            border-radius: 3px;
+        }
+
+        .jiantou {
+            display: block;
+            position: absolute;
+            top: 4%;
+            width: 100%;
+        }
+
+        .bg_img1 {
+            width: 35%;
+            max-width: 300px;
+            top: 0px;
+            right: 0px;
+        }
+
+        .bg_img2 {
+            width: 35%;
+            max-width: 300px;
+            bottom: 0px;
+            left: 0px;
+        }
+
+        .bg_img3 {
+            width: 20%;
+            max-width: 100px;
+            top: 0px;
+            left: 34%;
+        }
+
+        .bg_img4 {
+            width: 20%;
+            max-width: 100px;
+            bottom: 0px;
+            right: 10%;
+        }
+
+        .bg_img5 {
+            width: 13%;
+            max-width: 100px;
+            top: 40%;
+            left: 0px;
+        }
+
+        main {
+            display: block;
+            position: absolute;
+            top: 22%;
+            left: 0px;
+            right: 0px;
+            margin: auto;
+            width: 74%;
+            max-width: 400px;
+        }
+
+        .download_log {
+            width: 100%;
+        }
+
+        .download_log > h3 {
+            font-size: 1rem;
+            font-weight: 900;
+            color: #000;
+            text-align: center;
+            margin: 1rem 0px;
+        }
+
+        .headerImg1 {
+            border-radius: 15px;
+            display: block;
+            max-width: 6.666667rem;
+            min-width: 5.666667rem;
+            margin: 0 auto;
+        }
+
+        .download_div {
+            display: flex;
+            width: 100%;
+            overflow: hidden;
+            padding-top: 6%;
+            border-top: 1px solid #dae2e4;
+        }
+
+        #anzhuo_ma, #iphone_ma {
+            display: block;
+            margin: 0 auto;
+            margin-top: 10%;
+        }
+
+        .download {
+            width: 50%;
+            border-right: 1px solid #dae2e4;
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+
+        .download:last-child {
+            border-right: 1px solid transparent;
+        }
+
+        .download .msg {
+            position: relative;
+            display: block;
+            margin: 0 auto;
+            margin-top: 10%;
+            margin-bottom: 6%;
+            width: 80%;
+            background: #3dafeb;
+            color: #fff;
+            text-align: center;
+            line-height: 1.8rem;
+            border-radius: 1rem;
+            font-size: 0.8rem;
+        }
+
+        .download .loading {
+            position: absolute;
+            display: block;
+            top: 4px;
+            left: 10%;
+            margin: 0 auto;
+            width: 20px;
+            height: 20px;
+        }
+
+        #dizhi {
+            display: block;
+            margin: 0 auto;
+        }
+
+        .anzhuo, .iphone {
+            display: block;
+            width: 30%;
+        }
+
+        .download .iosbutton2 {
+            display: none;
+        }
+
+        .iosjc {
+            display: none;
+        }
+
+        .iosjc > img {
+            display: block;
+            width: 100%;
+
+        }
+
+        .xiala {
+            display: none;
+            position: absolute;
+            right: 0;
+            left: 0;
+            margin: 0 auto;
+            bottom: 1rem;
+        }
+
+        .curborder {
+            display: flex;
+            align-items: flex-end;
+            position: relative;
+            margin: 0 auto;
+            height: 13rem;
+        }
+
+        .curborder .cur {
+            display: block;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            right: 0px;
+            margin: 0 auto;
+            width: 4rem;
+            animation: mymove 2s infinite;
+            -webkit-animation: mymove 2s infinite;
+        }
+
+        .curborder .huatiao {
+            height: 8rem;
+            position: relative;
+            display: block;
+            right: 0px;
+            left: 0px;
+            margin: 0 auto;
+            bottom: 0px;
+        }
+
+        .xiala > p {
+            position: absolute;
+            left: 40%;
+            line-height: 1rem;
+            font-size: 0.8rem;
+            bottom: 0px;
+            color: #505656;
+            -webkit-writing-mode: vertical-rl;
+            writing-mode: vertical-rl;
+        }
+
+
+        @keyframes mymove {
+            from {
+                top: 80%;
+            }
+            to {
+                top: 34%;
+            }
+        }
+
+        @-webkit-keyframes mymove /*Safari and Chrome*/
+        {
+            from {
+                top: 80%;
+            }
+            to {
+                top: 34%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<section>
+    <!--背景元素-->
+    <img alt="background" class="bodt_bg bg_img1" src="/static/img/sc1.png">
+    <img alt="background" class="bodt_bg bg_img2" src="/static/img/sc2.png">
+    <img alt="background" class="bodt_bg bg_img3" src="/static/img/sc3.png">
+    <img alt="background" class="bodt_bg bg_img4" src="/static/img/sc4.png">
+    <img alt="background" class="bodt_bg bg_img5" src="/static/img/sc5.png">
+    <!-- 蒙版 -->
+    <div class="bodt_meng" id="wx">
+        <img alt="" class="jiantou" src="/static/img/tishi.png">
+        <!-- <p>点击右上角<br>选择在浏览器中打开</p> -->
+    </div>
+    <!--正文-->
+    <main>
+        <!-- logo -->
+        <div class="download_log">
+            <img alt="logo" class="headerImg1" src="" style="margin: 0 auto;">
+            <h3 class="app_name">APP名称</h3>
+        </div>
+        <!-- 安卓IOS下载地址 -->
+        <div class="download_div mobile" style="display: none">
+            <div class="download anzhuo_a" id='test-b'>
+                <img alt="logo" class="anzhuo" src="/static/img/anzhuo.svg" style="margin: 0 auto;">
+                <p class="msg apk_do">下载安卓版本</p>
+            </div>
+            <!--      <a class="download iphone_a" target="_blank" href="#" id='test-ios'>-->
+            <!--        <img style="margin: 0 auto;" class="iphone" src="/static/img/iphone.svg" alt="logo">-->
+            <!--        <p class="msg iosbutton1">下载IOS版本 </p>-->
+            <!--        <p class="msg iosbutton2">下载中...<img class="loading" src="/static/img/loading.gif" alt=""> </p>-->
+            <!--      </a>-->
+        </div>
+        <!-- PC页面 -->
+        <div class="download_div_PC pc" style="display: none">
+            <div class="download anzhuo_a">
+                <p class="msg apk_tips">扫码下载 APP</p>
+                <div id="dizhi" style="width: 256px;height: 256px"></div>
+            </div>
+        </div>
+    </main>
+
+</section>
+</body>
+<script src="/static/js/jquery-3.6.0.min.js"></script>
+<script src="/static/qrcode.min.js"></script>
+<script>
+    var ua = navigator.userAgent.toLowerCase();
+    var uuid = null, re_url = null;
+    $(function () {
+        get_data();
+    });
+
+    function check_device() {
+        if (!/Android|webOS|iPhone|iPod|iPad|BlackBerry/i.test(navigator.userAgent) && !(navigator.userAgent.match(/Mac/) && navigator.maxTouchPoints && navigator.maxTouchPoints > 2)) {
+            //PC
+            $('#dizhi').qrcode(window.location.href);
+            $(".pc").show();
+            $(".mobile").remove();
+            return false;
+        }
+        if (ua.indexOf('android') > -1 || ua.indexOf('linux') > -1) {
+            if (ua.match(/MicroMessenger/i) == "micromessenger" || ua.match(/QQ\//i) == "qq/") {
+                //安卓微信
+                $("#wx").show();
+                $(".pc").hide();
+                $(".mobile").show();
+                return false;
+            } else {
+                $(".pc").hide();
+                $(".mobile").show();
+            }
+        } else if (ua.indexOf('iphone') > -1 || ua.indexOf('iPhone X') > -1 || (navigator.userAgent.match(/mac/) && navigator.maxTouchPoints && navigator.maxTouchPoints > 2) || ua.indexOf('ipod') > -1 || ua.indexOf('ipad') > -1 || (ua.match(/macintosh/i) == "macintosh" && ua.match(/mac os x/i) == "mac os x")) {
+            //苹果手机
+            if ((ua.indexOf('applewebkit') > -1 && ua.indexOf('mobile') > -1 && ua.indexOf('safari') > -1 && ua.indexOf('linux') == -1 && ua.indexOf('android') == -1) || (ua.match(/macintosh/i) == "macintosh" && ua.match(/mac os x/i) == "mac os x")) {
+                if (ua.indexOf("crios") > -1 || ua.indexOf('mqqbrowser') > -1 || ua.indexOf('baidubrowser') > -1 || ua.indexOf('safari line') > -1) {
+                    $("#wx").show();
+                    $(".pc").hide();
+                    $(".mobile").show();
+                    return false;
+                }
+                window.location.href = re_url;
+            } else if (ua.match(/MicroMessenger/i) == "micromessenger" || ua.match(/QQ\//i) == "qq/" || ua.match(/WeiBo/i) == "weibo" || ua.match(/Alipay/i) == "alipay" || ua.match(/DingTalk/i) == "dingtalk") {
+                $("#wx").show();
+                $(".pc").hide();
+                $(".mobile").show();
+                return false;
+            } else {
+                window.location.href = re_url;
+            }
+        } else {
+            $(".pc").hide();
+            $(".mobile").show();
+        }
+    }
+
+    function get_data() {
+        var short = window.location.pathname;
+        $.ajax({
+            url: "/index/get_data",
+            type: "POST",
+            async: false,
+            data: {uuid: short},
+            success: function (res) {
+                console.log(res)
+                if (res.code === 200) {
+                    uuid = res.data.uuid;
+                    re_url = res.data.re_url;
+                    $(".app_name").text(res.data.app_name);
+                    $(".headerImg1").attr("src", res.data.logo);
+                    // $("title").text(res.data.app_name);
+                    $(".apk_do").text(res.data.apk_do);
+                    $(".apk_tips").text(res.data.apk_tips);
+                    check_device();
+                } else {
+                    alert("请确认链接是否正确,错误参数： " + short);
+                    window.location.href = "/404.html";
+                }
+            },
+            error: function (res) {
+                alert("网络错误，请求失败");
+            }
+        })
+    }
+
+    function getapk() {
+        var str = navigator.userAgent.toLowerCase();
+        $.ajax({
+            url: '/index/getapk',
+            type: "POST",
+            data: {useragent: str, uuid: uuid,},
+            success: function (res) {
+                if (res.code == 200) {
+                    window.location.href = res.data;
+                } else {
+                    alert(res.msg);
+                    $('.msg').text(res.msg);
+                    $('.msg').css({
+                        "background-color": "gray"
+                    });
+                    return true;
+                }
+            }
+        })
+    }
+
+    $(".download").click(function () {
+        getapk();
+    });
+</script>
+</html>

@@ -1,0 +1,6 @@
+framework module HFXNavigationBar {
+  umbrella header "HFXNavigationBar.h"
+
+  export *
+  module * { export * }
+}

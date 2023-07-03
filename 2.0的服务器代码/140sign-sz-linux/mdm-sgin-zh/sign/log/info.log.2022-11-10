@@ -1,0 +1,8 @@
+2022-11-10 14:36:36,785 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-11-10 14:36:37,091 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/29add1de-0c6c-41a8-9e0d-45d8b65b7192/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-11-10 14:36:38,633 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/2b70fc95-f73e-4c70-abd4-6a340524a699/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-11-10 14:36:40,150 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/9008fc2c-5da1-49b3-8eeb-cf03ca2f6775/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-11-10 14:53:30,027 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/jwqk.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-10 14:53:31,621 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/22a97450-89c4-4265-bf19-519a1f3cc20d/Payload/jwqk.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-10 14:53:39,687 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/7e54d7ab-da1b-4761-a0aa-fc45f93be3e1/Payload/jwqk.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-10 14:53:47,589 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/e612feab-e6bc-40f6-b426-3ef326a73834/Payload/jwqk.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 

@@ -1,0 +1,12 @@
+2022-12-17 21:50:37,855 INFO main net.appuploader.b.l.a(?:?)  binary YTUHD bundle in  /Payload/YouTube.app/YTUHD.bundle/Info.plist not found witch may cause crash 
+2022-12-17 21:50:37,856 INFO main net.appuploader.b.l.a(?:?)  binary RYD bundle in  /Payload/YouTube.app/RYD.bundle/Info.plist not found witch may cause crash 
+2022-12-17 21:50:37,947 INFO main net.appuploader.b.l.a(?:?)  binary Tranzlo bundle in  /Payload/YouTube.app/uYouBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-17 21:50:37,947 INFO main net.appuploader.b.l.a(?:?)  binary YouPiP bundle in  /Payload/YouTube.app/YouPiP.bundle/Info.plist not found witch may cause crash 
+2022-12-17 21:50:39,584 INFO main net.appuploader.b.l.a(?:?)  binary YouPiP bundle in  /opt/mdm-sign/sign/temp/61a7cde3-1fa9-4d2c-b9a0-9e31619090dd/Payload/YouTube.app/YouPiP.bundle/Info.plist not found witch may cause crash 
+2022-12-17 21:50:39,585 INFO main net.appuploader.b.l.a(?:?)  binary Tranzlo bundle in  /opt/mdm-sign/sign/temp/61a7cde3-1fa9-4d2c-b9a0-9e31619090dd/Payload/YouTube.app/uYouBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-17 21:50:39,597 INFO main net.appuploader.b.l.a(?:?)  binary RYD bundle in  /opt/mdm-sign/sign/temp/61a7cde3-1fa9-4d2c-b9a0-9e31619090dd/Payload/YouTube.app/RYD.bundle/Info.plist not found witch may cause crash 
+2022-12-17 21:50:39,597 INFO main net.appuploader.b.l.a(?:?)  binary YTUHD bundle in  /opt/mdm-sign/sign/temp/61a7cde3-1fa9-4d2c-b9a0-9e31619090dd/Payload/YouTube.app/YTUHD.bundle/Info.plist not found witch may cause crash 
+2022-12-17 21:50:49,363 INFO main net.appuploader.b.l.a(?:?)  binary YouPiP bundle in  /opt/mdm-sign/sign/temp/756a4a5e-08e5-4b48-a69b-82d3247d12ba/Payload/YouTube.app/YouPiP.bundle/Info.plist not found witch may cause crash 
+2022-12-17 21:50:49,363 INFO main net.appuploader.b.l.a(?:?)  binary Tranzlo bundle in  /opt/mdm-sign/sign/temp/756a4a5e-08e5-4b48-a69b-82d3247d12ba/Payload/YouTube.app/uYouBundle.bundle/Info.plist not found witch may cause crash 
+2022-12-17 21:50:49,375 INFO main net.appuploader.b.l.a(?:?)  binary RYD bundle in  /opt/mdm-sign/sign/temp/756a4a5e-08e5-4b48-a69b-82d3247d12ba/Payload/YouTube.app/RYD.bundle/Info.plist not found witch may cause crash 
+2022-12-17 21:50:49,375 INFO main net.appuploader.b.l.a(?:?)  binary YTUHD bundle in  /opt/mdm-sign/sign/temp/756a4a5e-08e5-4b48-a69b-82d3247d12ba/Payload/YouTube.app/YTUHD.bundle/Info.plist not found witch may cause crash 

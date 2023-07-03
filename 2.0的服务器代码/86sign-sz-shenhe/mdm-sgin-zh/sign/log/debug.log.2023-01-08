@@ -1,0 +1,23 @@
+2023-01-08 20:46:11,202 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2023-01-08 20:46:11,771 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2023-01-08 20:46:13,072 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/87790c90-eb9f-4343-9f1f-dfd52a11d684/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2023-01-08 20:46:13,072 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/87790c90-eb9f-4343-9f1f-dfd52a11d684/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2023-01-08 20:46:21,435 INFO main net.appuploader.b.l.a(?:?)  binary 998sy bundle in  /opt/mdm-sgin-zh/sign/temp/06c86cae-041b-4143-b556-8491098ca8a0/Payload/jxdev.app/998sy.bundle/Info.plist not found witch may cause crash 
+2023-01-08 20:46:21,436 INFO main net.appuploader.b.l.a(?:?)  binary 255sy bundle in  /opt/mdm-sgin-zh/sign/temp/06c86cae-041b-4143-b556-8491098ca8a0/Payload/jxdev.app/255sy.bundle/Info.plist not found witch may cause crash 
+2023-01-08 23:55:26,839 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1673193326839,"message":"MALFORMED[2]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[2]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)

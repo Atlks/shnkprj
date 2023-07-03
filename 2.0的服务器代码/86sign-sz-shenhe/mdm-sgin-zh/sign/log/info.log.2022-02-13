@@ -1,0 +1,64 @@
+2022-02-13 11:24:22,548 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-13 11:24:22,911 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/205cb49d-00cb-4b49-8a79-042342cba616/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-13 11:24:24,308 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/28b8d827-9827-4874-a7d2-979e9a8236a8/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-13 11:33:10,631 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-13 11:33:10,992 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/bb95c72e-a429-4c9a-832c-e712f2ae84fc/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-13 11:33:12,380 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/84fd0e57-ade9-4441-8f01-940b117fac6f/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-13 13:22:32,386 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-13 13:22:32,774 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/c51b332c-1947-41c0-b763-47f94f0c2412/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-13 13:22:34,318 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/eed0b050-fadc-4e92-b22e-8d04a312110c/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-13 20:52:52,478 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-13 20:52:59,351 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/855432c2-3c33-4f9b-b7be-88467a912eb5/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-13 20:53:37,854 INFO main net.appuploader.b.l.a(?:?)  binary maxsdk bundle in  /opt/mdm-sgin-zh/sign/temp/1a3c2e16-8fc7-49a9-a46f-fb98a5023af8/Payload/mt3.app/maxsdk.bundle/Info.plist not found witch may cause crash 
+2022-02-13 21:24:00,974 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-13 21:24:00,974 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1644758640974,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-13 22:47:42,347 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-13 22:47:42,347 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1644763662347,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-13 22:48:07,747 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-13 22:48:07,747 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1644763687747,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-13 22:48:28,012 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-13 22:48:28,012 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1644763708012,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-13 22:48:31,420 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-13 22:48:31,669 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-13 22:48:31,669 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1644763711669,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-13 22:48:35,516 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-13 23:04:38,225 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-13 23:04:38,583 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/329d1ea3-4532-4b8c-bfda-dcdd9194e0f6/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-13 23:04:39,972 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/c4bc8456-1de5-4a77-9b54-b50078f8f011/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 

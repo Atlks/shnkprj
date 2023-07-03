@@ -1,0 +1,51 @@
+2023-03-06 09:14:22,007 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-03-06 09:14:23,244 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /opt/mdm-sgin-zh/sign/temp/05485ec7-8e7b-4e1f-b938-8078cfe980b3/Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-03-06 09:14:30,763 INFO main net.appuploader.b.l.a(?:?)  binary QuickGameResource bundle in  /opt/mdm-sgin-zh/sign/temp/691a880a-4633-4042-8666-4ddc355d4225/Payload/ProductName.app/QuickGameResource.bundle/Info.plist not found witch may cause crash 
+2023-03-06 09:48:48,783 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /Payload/client.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-03-06 09:48:48,783 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-03-06 09:48:50,465 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/3ce65e85-f8e3-4621-ab81-64cd01d6c4e8/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-03-06 09:48:50,466 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/3ce65e85-f8e3-4621-ab81-64cd01d6c4e8/Payload/client.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-03-06 09:48:59,172 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/c2336a90-003d-407b-b814-5180c0fd2737/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-03-06 09:48:59,172 INFO main net.appuploader.b.l.a(?:?)  binary QnAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/c2336a90-003d-407b-b814-5180c0fd2737/Payload/client.app/QnAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-03-06 16:13:06,207 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼新春版 bundle in  /Payload/ 鑫鑫街机捕鱼新春版.app/Info.plist not found witch may cause crash 
+2023-03-06 16:13:06,310 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1678090386310,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-03-06 16:13:06,595 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼新春版 bundle in  /opt/mdm-sgin-zh/sign/temp/1f00537c-8c2b-4642-bc8d-9d0dc02cd644/Payload/ 鑫鑫街机捕鱼新春版.app/Info.plist not found witch may cause crash 
+2023-03-06 16:13:06,607 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1678090386607,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-03-06 16:13:06,933 INFO main net.appuploader.b.l.a(?:?)  binary 鑫鑫街机捕鱼新春版 bundle in  /opt/mdm-sgin-zh/sign/temp/9e8dd52a-9a55-43d9-8d23-de5de342a625/Payload/ 鑫鑫街机捕鱼新春版.app/Info.plist not found witch may cause crash 
+2023-03-06 16:13:06,945 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1678090386945,"message":"java.lang.NullPointerException","status":0}
+java.lang.NullPointerException
+	at net.appuploader.e.g.d(Unknown Source)
+	at net.appuploader.e.g.b(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2023-03-06 21:42:48,170 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-03-06 21:42:48,170 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/client.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:42:49,750 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/f3ff7072-8d6e-48f2-9591-566b70b60592/Payload/client.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:42:49,812 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/f3ff7072-8d6e-48f2-9591-566b70b60592/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-03-06 21:42:58,210 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/a49d73f9-bcbc-4b56-9ff1-550c257aeeb6/Payload/client.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:42:58,274 INFO main net.appuploader.b.l.a(?:?)  binary STSSAggSdkRes bundle in  /opt/mdm-sgin-zh/sign/temp/a49d73f9-bcbc-4b56-9ff1-550c257aeeb6/Payload/client.app/STSSAggSdkRes.bundle/Info.plist not found witch may cause crash 
+2023-03-06 21:51:48,064 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/Leiniulvse.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:51:49,013 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/c2173e72-3bbc-4dfa-b108-e5afb0fa0670/Payload/Leiniulvse.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:51:53,245 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/69b7a1ad-b40a-403a-8c7e-8421d31510f5/Payload/Leiniulvse.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:51:56,018 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/FGCQLibClient-mobile.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:51:56,459 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/838b5820-c765-42cb-ae3f-f200b302cd2f/Payload/FGCQLibClient-mobile.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:51:58,188 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/103ce9d9-4b95-4408-8c19-49cdc8e5654f/Payload/FGCQLibClient-mobile.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:52:17,524 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/zlqwlsh.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:52:18,119 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/a01d774a-f9e7-4990-b812-276facaa8326/Payload/zlqwlsh.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:52:20,334 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:52:21,622 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/dbf6e22d-abd0-4772-b773-3b69f6fbfec9/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:52:23,440 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/98d7ebae-d998-4619-a51a-ae14a8ec7145/Payload/zlqwlsh.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-06 21:52:37,689 INFO main net.appuploader.b.l.a(?:?)  binary BRSDK bundle in  /opt/mdm-sgin-zh/sign/temp/168c3868-ffdd-43c2-a003-e1b6f065c4ac/Payload/tzj.app/BRSDK.bundle/Contents/Info.plist not found witch may cause crash 

@@ -1,0 +1,4 @@
+2023-05-18 01:02:59,089 INFO main net.appuploader.b.l.a(?:?)  binary YBBundle bundle in  /Payload/YBApp.app/YBBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-18 01:02:59,251 INFO main net.appuploader.b.l.a(?:?)  binary YBBundle bundle in  /opt/mdm-sign/sign/temp/8d1a8ff4-fa4c-457c-b5da-fb8c2804b62c/Payload/YBApp.app/YBBundle.bundle/Info.plist not found witch may cause crash 
+2023-05-18 18:00:50,800 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/JiuMengXianYu.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-18 18:00:51,398 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sign/sign/temp/bbd7c7db-1944-45ef-99d6-d21d23bb4d33/Payload/JiuMengXianYu.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 

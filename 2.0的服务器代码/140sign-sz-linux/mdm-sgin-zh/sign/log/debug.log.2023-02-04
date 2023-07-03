@@ -1,0 +1,4 @@
+2023-02-04 22:14:26,569 INFO main net.appuploader.b.l.a(?:?)  binary 信彩 bundle in  /Payload/淇″僵.app/Info.plist not found witch may cause crash 
+2023-02-04 22:14:26,766 INFO main net.appuploader.b.l.a(?:?)  binary 信彩 bundle in  /opt/mdm-sgin-zh/sign/temp/2db54c46-a8ae-475e-92c3-8c3559d8db82/Payload/淇″僵.app/Info.plist not found witch may cause crash 
+2023-02-04 22:14:27,299 INFO main net.appuploader.b.l.a(?:?)  binary 信彩 bundle in  /opt/mdm-sgin-zh/sign/temp/51c2e89e-2aec-4a15-a94e-76922c7cceec/Payload/淇″僵.app/Info.plist not found witch may cause crash 
+2023-02-04 22:14:27,833 INFO main net.appuploader.b.l.a(?:?)  binary 信彩 bundle in  /opt/mdm-sgin-zh/sign/temp/7d5eb359-f2ff-4491-9224-05c3f740cada/Payload/淇″僵.app/Info.plist not found witch may cause crash 

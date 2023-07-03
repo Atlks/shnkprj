@@ -1,0 +1,4 @@
+2022-09-16 14:04:26,284 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/mmoGame.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-09-16 14:04:30,424 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sign/sign/temp/1c21ab6b-7c4a-468a-86c2-ff31b3ce5aac/Payload/mmoGame.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-09-16 16:26:09,374 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-16 16:26:09,735 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/35d4a356-fc93-407a-bbee-49d882bd90cb/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

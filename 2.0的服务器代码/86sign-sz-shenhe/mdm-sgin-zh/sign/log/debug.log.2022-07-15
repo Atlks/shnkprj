@@ -1,0 +1,32 @@
+2022-07-15 11:02:20,714 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/ProductName.app/Frameworks/boRanSDK.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-15 11:02:20,725 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/ProductName.app/Frameworks/SQGame.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-15 11:02:20,725 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/ProductName.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-15 11:02:23,575 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0924b82b-8da8-4dac-a321-8b1934b7de7a/Payload/ProductName.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-15 11:02:23,704 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0924b82b-8da8-4dac-a321-8b1934b7de7a/Payload/ProductName.app/Frameworks/SQGame.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-15 11:02:23,706 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/0924b82b-8da8-4dac-a321-8b1934b7de7a/Payload/ProductName.app/Frameworks/boRanSDK.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-15 11:02:43,589 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/52178d8a-b18a-44e2-807f-4a9ca382f3d7/Payload/ProductName.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-15 11:02:43,719 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/52178d8a-b18a-44e2-807f-4a9ca382f3d7/Payload/ProductName.app/Frameworks/SQGame.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-15 11:02:43,720 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/52178d8a-b18a-44e2-807f-4a9ca382f3d7/Payload/ProductName.app/Frameworks/boRanSDK.framework/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-07-15 11:43:38,225 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1657856618225,"message":"java.lang.UnsupportedOperationException","status":0}
+java.lang.UnsupportedOperationException
+	at kxapp.nio.zipfs.ZipFileSystemProvider.getZipFileSystem(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystemProvider.newFileSystem(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-07-15 16:36:17,001 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:36:17,790 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/e726d615-684c-4836-842e-fcafba72ef4a/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:36:20,523 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:36:21,299 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/b0c465c0-17eb-48aa-8c12-85c8562a6061/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:36:22,898 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/ea5c1c6e-dcbb-425e-af5b-c803927fc2b7/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:36:25,291 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:36:26,212 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/a5cf26de-cde5-42dc-bfcb-b5b784420eb3/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:36:26,954 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/c90783aa-650b-449f-a67c-490f720a8b60/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:36:35,036 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/c08e0424-b4b8-4022-8716-d2dbfc441253/Payload/gamepush.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:37:12,853 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /Payload/fltx.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:37:12,873 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /Payload/fltx.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:37:14,244 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/b9acba33-9c3b-47cc-813c-0d082f8f166a/Payload/fltx.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:37:14,244 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/b9acba33-9c3b-47cc-813c-0d082f8f166a/Payload/fltx.app/76box.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:37:24,715 INFO main net.appuploader.b.l.a(?:?)  binary 5uwantw bundle in  /opt/mdm-sgin-zh/sign/temp/d96b8f72-781d-4817-9e63-56136660259e/Payload/fltx.app/5uwantw.bundle/Info.plist not found witch may cause crash 
+2022-07-15 16:37:24,715 INFO main net.appuploader.b.l.a(?:?)  binary 76box bundle in  /opt/mdm-sgin-zh/sign/temp/d96b8f72-781d-4817-9e63-56136660259e/Payload/fltx.app/76box.bundle/Info.plist not found witch may cause crash 

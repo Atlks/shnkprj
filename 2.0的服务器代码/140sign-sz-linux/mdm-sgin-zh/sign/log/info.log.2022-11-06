@@ -1,0 +1,42 @@
+2022-11-06 12:56:58,346 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-11-06 15:57:48,204 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-06 15:57:48,205 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /Payload/tzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-06 15:57:49,397 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/6d72afc7-cbb8-445a-bdca-9ea92aec1ebf/Payload/tzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-06 15:57:49,397 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/6d72afc7-cbb8-445a-bdca-9ea92aec1ebf/Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-06 15:57:54,941 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/6d5c83ba-6bf8-4e96-858c-9db9fbad1803/Payload/tzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-06 15:57:54,941 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/6d5c83ba-6bf8-4e96-858c-9db9fbad1803/Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-06 15:58:00,463 INFO main net.appuploader.b.l.a(?:?)  binary MTSDK bundle in  /opt/mdm-sgin-zh/sign/temp/adf00f04-c2c6-417e-80b7-0471958b5fe7/Payload/tzj.app/MTSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-06 15:58:00,463 INFO main net.appuploader.b.l.a(?:?)  binary boRanSDK bundle in  /opt/mdm-sgin-zh/sign/temp/adf00f04-c2c6-417e-80b7-0471958b5fe7/Payload/tzj.app/boRanSDK.bundle/Contents/Info.plist not found witch may cause crash 
+2022-11-06 16:21:12,723 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-11-06 16:22:18,791 ERROR Thread-19 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-11-06 16:22:43,550 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-11-06 16:55:11,316 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 16:55:11,317 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 16:55:12,242 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/8fa3b9fd-4773-4f25-809d-b99fcc9e66d6/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 16:55:12,243 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/8fa3b9fd-4773-4f25-809d-b99fcc9e66d6/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 16:55:24,857 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/d60b9e18-7bfa-46b4-ba04-0544d7014b64/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 16:55:24,858 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/d60b9e18-7bfa-46b4-ba04-0544d7014b64/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 16:55:37,829 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/53da4196-30fb-4485-ac30-f7054866d6cb/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 16:55:37,830 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/53da4196-30fb-4485-ac30-f7054866d6cb/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 17:12:38,582 ERROR Thread-12 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-11-06 17:13:29,414 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 17:13:29,733 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 17:13:30,999 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/35e93d50-7675-4c31-af06-9a1cca1a8d0f/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 17:13:31,037 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/35e93d50-7675-4c31-af06-9a1cca1a8d0f/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 17:13:37,166 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/3f37b5bf-4ddd-4bbd-ac4e-494d40d1700a/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 17:13:37,204 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/3f37b5bf-4ddd-4bbd-ac4e-494d40d1700a/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 17:13:43,039 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/91143afe-23b1-47de-a8c8-eb0056522faf/Payload/gl.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 17:13:43,077 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/91143afe-23b1-47de-a8c8-eb0056522faf/Payload/gl.app/Frameworks/JJRHSdk.framework/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2022-11-06 17:38:00,206 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-11-06 19:22:35,082 ERROR Thread-7 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-11-06 20:35:24,445 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-11-06 20:35:25,092 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/da7cf7ee-9555-4fce-a4c7-6739d70e32cb/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-11-06 20:35:27,638 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/530f9c45-42a2-4a47-bc28-861128ca2fc5/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-11-06 20:35:30,172 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/81332201-bebf-419a-ba54-737bc13e14c6/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

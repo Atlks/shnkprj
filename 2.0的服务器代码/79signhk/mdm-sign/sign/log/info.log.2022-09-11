@@ -1,0 +1,26 @@
+2022-09-11 01:23:43,033 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2022-09-11 01:23:43,217 INFO main net.appuploader.b.l.a(?:?)  binary ${EXECUTABLE_NAME} bundle in  /opt/mdm-sign/sign/temp/b963bf9c-9ae8-4f9b-bc10-60f4c66654f7/Payload/MDMGame.app/game_res/70001100/Resources/Info.plist not found witch may cause crash 
+2022-09-11 01:43:51,648 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-11 01:43:52,297 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/0ca12d26-43fa-4186-ad4e-9ce18f9a80e2/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-11 01:43:55,011 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/64838efd-2822-4035-9a3c-de26a5fa2d4a/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-11 16:21:28,868 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1662884488868,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-09-11 16:21:29,390 INFO main net.appuploader.b.l.a(?:?)  binary 三只羊 bundle in  /opt/mdm-sign/sign/temp/cf48d589-a203-4d22-b07f-054e024364b3/Payload/美品惠.app/Info.plist not found witch may cause crash 
+2022-09-11 20:52:02,598 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-11 20:52:03,240 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/a0c0b19e-7850-460e-93fa-3551f540e707/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2022-09-11 20:52:05,985 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sign/sign/temp/ab86f977-9e7c-44ac-8f0f-beb255c4a330/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 

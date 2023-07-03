@@ -1,0 +1,16 @@
+2023-05-29 13:01:12,467 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-05-29 13:01:14,258 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/6a199d45-7302-4e54-8247-b8f3b30b8706/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-05-29 13:01:20,668 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/3725de66-1f50-4495-91bb-06bd39a1b950/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-05-29 13:01:27,053 INFO main net.appuploader.b.l.a(?:?)  binary $(EXECUTABLE_NAME) bundle in  /opt/mdm-sgin-zh/sign/temp/7d98ee21-a861-4678-8c6d-ae724c692217/Payload/视频大字板.app/SmartiOSPlayerV2/SmartiOSPlayerV2/Info.plist not found witch may cause crash 
+2023-05-29 15:04:57,975 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-29 15:08:34,839 ERROR Thread-9 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-05-29 20:21:17,631 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-29 20:21:17,941 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/0d2ec6f9-caef-4b91-bb41-fe1d01f59746/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-29 20:21:19,505 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/b311f599-d9cf-4ec9-b566-cfc62bcd2a23/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-29 20:21:21,042 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/3c728dbf-87e8-460e-a3fc-f591c938242f/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-05-29 20:34:41,462 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-29 20:34:41,966 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/d2c8aed2-04f2-4277-8e62-3d90384dd13f/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-29 20:34:44,952 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/35a15dcd-66da-4cf9-b320-975d4a798cb2/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-05-29 20:34:47,936 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/445c11ff-64a6-44a5-b731-8bfc30131cc3/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 

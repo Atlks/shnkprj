@@ -1,0 +1,36 @@
+2023-03-24 12:25:00,069 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/金沙娱乐.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-24 12:25:00,372 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/a4bd84e0-317b-4b0d-8a86-aea00073c67e/Payload/金沙娱乐.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-24 12:25:01,942 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/d8db25a5-0fe7-4ed6-b401-90d75c3778f1/Payload/金沙娱乐.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-24 12:25:03,487 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/580e16b6-ac66-46ae-8b48-517dbc040cfc/Payload/金沙娱乐.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-24 15:34:28,712 ERROR Thread-105 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-24 15:36:29,938 ERROR Thread-105 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-24 15:39:53,009 ERROR Thread-9 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-24 15:47:00,587 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-24 15:56:57,577 ERROR Thread-49 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-24 15:58:41,772 ERROR Thread-9 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-24 16:01:54,285 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-24 16:04:32,784 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-24 16:09:04,889 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-24 17:58:49,076 ERROR Thread-13 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-24 21:27:22,409 ERROR Thread-18 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-24 21:59:11,187 ERROR Thread-8 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-24 21:59:55,853 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-03-24 21:59:56,111 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /opt/mdm-sgin-zh/sign/temp/059b83da-487b-46ae-a1b0-df7bab3a6499/Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-03-24 21:59:56,998 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /opt/mdm-sgin-zh/sign/temp/d126cc9b-9491-43d4-ba78-c7dcb28abf52/Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-03-24 22:04:02,012 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-03-24 22:04:02,271 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /opt/mdm-sgin-zh/sign/temp/87729f35-6ca9-458d-9b12-8467eadb0dad/Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-03-24 22:04:03,140 INFO main net.appuploader.b.l.a(?:?)  binary chc_hall iOS bundle in  /opt/mdm-sgin-zh/sign/temp/34ce0114-1518-41de-b44a-6cb2c97d62e0/Payload/chc_halliOS.app/Info.plist not found witch may cause crash 
+2023-03-24 22:26:09,488 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

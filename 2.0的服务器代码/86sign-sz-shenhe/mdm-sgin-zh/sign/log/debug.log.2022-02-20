@@ -1,0 +1,82 @@
+2022-02-20 11:22:04,088 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:22:04,104 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:22:04,104 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:22:06,480 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/8df2f471-8578-4e00-b0ab-dc3e5d3a65f9/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:22:06,482 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/8df2f471-8578-4e00-b0ab-dc3e5d3a65f9/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:22:06,484 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/8df2f471-8578-4e00-b0ab-dc3e5d3a65f9/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:22:23,461 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/8a50c760-4e6c-4770-9e5e-6b52f3863c1b/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:22:23,463 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/8a50c760-4e6c-4770-9e5e-6b52f3863c1b/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:22:23,465 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/8a50c760-4e6c-4770-9e5e-6b52f3863c1b/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:23:14,983 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:23:14,999 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:23:15,000 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:23:17,378 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/352b0826-a689-413c-9976-d3f980b1952b/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:23:17,380 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/352b0826-a689-413c-9976-d3f980b1952b/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:23:17,382 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/352b0826-a689-413c-9976-d3f980b1952b/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:23:34,473 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3cd179a2-f3b6-46d9-bfa6-c5d6b59eb67d/Payload/jueshixw.app/Frameworks/SQGame.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:23:34,475 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3cd179a2-f3b6-46d9-bfa6-c5d6b59eb67d/Payload/jueshixw.app/Frameworks/qiYuSDK.framework/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 11:23:34,477 INFO main net.appuploader.b.l.a(?:?)  binary qiYuSDK bundle in  /opt/mdm-sgin-zh/sign/temp/3cd179a2-f3b6-46d9-bfa6-c5d6b59eb67d/Payload/jueshixw.app/qiYuResource.bundle/Contents/Info.plist not found witch may cause crash 
+2022-02-20 12:04:41,646 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-20 12:04:42,007 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/ecad5aec-61a6-4ac8-8e46-ba7d3c96897a/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-20 12:04:43,404 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/0f3d0446-bc22-42e4-9171-047a3aa3f6fd/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-20 14:04:42,869 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-20 14:04:43,230 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/18f17642-ea9f-4384-8501-ee3248214f67/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-20 14:04:44,654 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/67de9839-a28c-4ffa-af8e-ce555eb5be7c/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-20 16:01:27,027 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-20 16:01:27,396 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/42f557d6-def0-4bf0-a140-2850ad12532b/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-20 16:01:28,777 INFO main net.appuploader.b.l.a(?:?)  binary 我趣棋牌 bundle in  /opt/mdm-sgin-zh/sign/temp/052f3ef7-3b18-4d6d-9697-5395c4293aac/Payload/我趣棋牌.app/Info.plist not found witch may cause crash 
+2022-02-20 17:39:19,188 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-20 17:39:19,188 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645349959188,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-20 17:39:22,819 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-20 17:39:24,353 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-20 17:39:24,353 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645349964353,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-20 17:39:28,082 ERROR Thread-57 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-20 17:40:49,976 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-20 17:40:49,976 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645350049976,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-20 17:40:53,550 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-20 17:40:54,617 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-20 17:40:54,617 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645350054617,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-20 17:40:57,921 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-20 17:42:33,734 ERROR main net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2022-02-20 17:42:33,734 ERROR main net.appuploader.a.a(?:?) {"messageName":"ServerDataError","time":1645350153734,"message":"java.net.SocketTimeoutException: connect timed out","status":0}
+net.appuploader.b.t: java.net.SocketTimeoutException: connect timed out
+	at net.appuploader.d.e.a(Unknown Source)
+	at net.appuploader.d.e.e(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-02-20 17:42:37,367 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null

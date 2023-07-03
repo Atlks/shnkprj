@@ -1,0 +1,21 @@
+2022-06-26 15:20:04,683 ERROR main net.appuploader.a.a(?:?) {"messageName":"CommonError","time":1656228004683,"message":"MALFORMED[1]","status":0}
+java.lang.IllegalArgumentException: MALFORMED[1]
+	at kxapp.nio.zipfs.ZipCoder.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipCoder$UTF8.toString(Unknown Source)
+	at kxapp.nio.zipfs.ZipFileSystem.getString(Unknown Source)
+	at kxapp.nio.zipfs.ZipPath.toString(Unknown Source)
+	at net.appuploader.b.e.g(Unknown Source)
+	at net.appuploader.b.m.b(Unknown Source)
+	at net.appuploader.b.m.preVisitDirectory(Unknown Source)
+	at java.nio.file.Files.walkFileTree(Files.java:2677)
+	at java.nio.file.Files.walkFileTree(Files.java:2742)
+	at net.appuploader.b.l.a(Unknown Source)
+	at net.appuploader.e.g.c(Unknown Source)
+	at net.appuploader.e.g.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.a.a(Unknown Source)
+	at net.appuploader.Main.main(Unknown Source)
+2022-06-26 18:54:02,790 INFO main net.appuploader.b.l.a(?:?)  binary EaseUIResource bundle in  /Payload/leduo.app/EaseUIResource.bundle/Info.plist not found witch may cause crash 
+2022-06-26 18:54:02,882 INFO main net.appuploader.b.l.a(?:?)  binary EaseUIResource bundle in  /opt/mdm-sgin-zh/sign/temp/15b54aee-d619-4ec8-8a5a-2b363ea8a855/Payload/leduo.app/EaseUIResource.bundle/Info.plist not found witch may cause crash 
+2022-06-26 18:54:03,256 INFO main net.appuploader.b.l.a(?:?)  binary EaseUIResource bundle in  /opt/mdm-sgin-zh/sign/temp/d345281b-edac-4e09-a94e-398a512a3c3a/Payload/leduo.app/EaseUIResource.bundle/Info.plist not found witch may cause crash 
+2022-06-26 18:54:03,634 INFO main net.appuploader.b.l.a(?:?)  binary EaseUIResource bundle in  /opt/mdm-sgin-zh/sign/temp/5c4c8f28-1f07-4c17-8869-dd0d25bb210e/Payload/leduo.app/EaseUIResource.bundle/Info.plist not found witch may cause crash 

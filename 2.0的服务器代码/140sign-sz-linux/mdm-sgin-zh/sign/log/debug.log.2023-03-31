@@ -1,0 +1,84 @@
+2023-03-31 02:50:35,014 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /Payload/传奇游戏合集.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2023-03-31 02:50:35,014 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /Payload/传奇游戏合集.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-31 02:50:35,101 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/c91a8c06-6122-4af2-9add-c8b7987ae9b1/Payload/传奇游戏合集.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2023-03-31 02:50:35,101 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/c91a8c06-6122-4af2-9add-c8b7987ae9b1/Payload/传奇游戏合集.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-31 02:50:35,519 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/f641afc2-39fd-4284-a40d-a8bd7f3bb496/Payload/传奇游戏合集.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2023-03-31 02:50:35,520 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/f641afc2-39fd-4284-a40d-a8bd7f3bb496/Payload/传奇游戏合集.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-31 02:50:35,891 INFO main net.appuploader.b.l.a(?:?)  binary heepayImage bundle in  /opt/mdm-sgin-zh/sign/temp/25789d36-e525-4a57-82d9-6557771685e3/Payload/传奇游戏合集.app/HySdkResource.bundle/Info.plist not found witch may cause crash 
+2023-03-31 02:50:35,891 INFO main net.appuploader.b.l.a(?:?)  binary TracelessBundle bundle in  /opt/mdm-sgin-zh/sign/temp/25789d36-e525-4a57-82d9-6557771685e3/Payload/传奇游戏合集.app/TracelessBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-31 03:06:35,807 ERROR Thread-25 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:06:51,368 ERROR Thread-25 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:07:22,423 ERROR Thread-25 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:07:32,990 ERROR Thread-25 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:09:09,084 ERROR Thread-24 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:31:41,228 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:37:36,111 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-31 03:37:36,397 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/a46a87d4-574a-4389-a0d0-934e540176e4/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-31 03:37:37,831 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/947b48f8-0415-436c-b6a9-43b09a4a4e4c/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-31 03:37:39,274 INFO main net.appuploader.b.l.a(?:?)  binary chartLibBundle bundle in  /opt/mdm-sgin-zh/sign/temp/a80cefcf-e218-467e-96f7-10eea4050c27/Payload/绿色棋游.app/chartLibBundle.bundle/Info.plist not found witch may cause crash 
+2023-03-31 03:39:08,211 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-31 03:39:08,687 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/c3f4d3d0-1688-495e-ab70-6c666dab8eb8/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-31 03:39:11,798 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/d8054192-4ef2-4361-b179-7fb7f6dbf8ee/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-31 03:39:14,754 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/65dca65c-cd16-4065-835b-561ae72119ca/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-31 03:41:56,161 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:42:02,270 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:42:03,323 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:42:23,164 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:42:32,097 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:42:38,649 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:45:43,961 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:45:45,197 ERROR Thread-5 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:45:46,692 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:46:42,976 ERROR Thread-51 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:47:09,438 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:49:09,704 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:49:12,353 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:49:20,384 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:49:28,950 ERROR Thread-6 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 03:50:44,650 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 04:11:33,833 ERROR Thread-23 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 04:14:14,823 ERROR Thread-26 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 04:14:20,733 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 04:15:03,945 ERROR Thread-16 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 04:15:08,627 ERROR Thread-17 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
+2023-03-31 14:44:37,670 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-31 14:44:37,980 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/31ce52ba-54d6-4559-98f4-ee65528f6a81/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-31 14:44:39,499 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/7ede80c1-6d4a-4ccd-b686-dc6bb99fa2e3/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-31 14:44:41,004 INFO main net.appuploader.b.l.a(?:?)  binary GT bundle in  /opt/mdm-sgin-zh/sign/temp/ec3a48b4-3637-4039-bfc3-64dafce079cf/Payload/Bet365.app/GT.bundle/Info.plist not found witch may cause crash 
+2023-03-31 14:44:52,319 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-31 14:44:52,826 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/689491f6-af6c-4b26-8ce6-7552fb0ef61d/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-31 14:44:55,963 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/72ce6cd5-7bb4-4be7-b19b-14c4a9cacd37/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-31 14:44:56,970 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-31 14:44:57,500 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/7e2ff4e3-3ff6-42a0-aecd-c3d8262401bc/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-31 14:44:59,482 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/8e3e0248-7732-4e98-810e-cc75b1de4dfd/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-31 14:45:01,068 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/2d5a2c36-689c-4501-8f87-71a3df35f49a/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-31 14:45:04,433 INFO main net.appuploader.b.l.a(?:?)  binary FanXingBundle bundle in  /opt/mdm-sgin-zh/sign/temp/81c1e59c-b68a-47fe-a2c6-b75321dcc05e/Payload/Unity-iPhone.app/FanXingBundle.bundle/Contents/Info.plist not found witch may cause crash 
+2023-03-31 22:42:03,871 ERROR Thread-4 net.appuploader.d.e.a(?:?) loaded data parse fail 
+ null
